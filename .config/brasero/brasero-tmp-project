@@ -1,0 +1,1075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<braseroproject>
+	<version>0.2</version>
+	<label>Data disc (31 Aug 15)</label>
+	<track>
+		<data>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/grayscale ramp.png</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FImage%2520Effects%2520%28Pro%2520Only%29%2F_Sources%2FTextures%2Fgrayscale%2520ramp.png</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Sources/Materials/Fire Smoke.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FMaterials%2FFire%2520Smoke.mat</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Water (Pro Only)/Daylight Water.prefab.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520%28Pro%2520Only%29%2FDaylight%2520Water.prefab.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Sources/Shaders/Particle Alpha Blend (Queue +100).shader.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FShaders%2FParticle%2520Alpha%2520Blend%2520%28Queue%2520%2B100%29.shader.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Skyboxes/_skybox info.txt.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2F_skybox%2520info.txt.meta</uri>
+			</graft>
+			<graft>
+				<path>/Quellen/Building Unreal Paris_files/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FBuilding%2520Unreal%2520Paris_files</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Smoke/Fluffy Smoke Large.prefab.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSmoke%2FFluffy%2520Smoke%2520Large.prefab.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Smoke/Smoke Trail.prefab.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSmoke%2FSmoke%2520Trail.prefab.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Misc/Soap Bubbles.prefab</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FMisc%2FSoap%2520Bubbles.prefab</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Skyboxes/StarryNight Skybox.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FStarryNight%2520Skybox.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Water (Pro Only)/Water4/Sources/Objects/Materials/ocean_plane-No Name.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520%28Pro%2520Only%29%2FWater4%2FSources%2FObjects%2FMaterials%2Focean_plane-No%2520Name.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Character Controllers/3rd Person Controller.prefab.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FCharacter%2520Controllers%2F3rd%2520Person%2520Controller.prefab.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Water (Pro Only)/Sources/Materials/Nighttime Water.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520%28Pro%2520Only%29%2FSources%2FMaterials%2FNighttime%2520Water.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Terrain Assets/Terrain Grass/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTerrain%2520Assets%2FTerrain%2520Grass</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Terrain Assets/Terrain Textures.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTerrain%2520Assets%2FTerrain%2520Textures.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Light Flares/50mm Zoom.flare.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FLight%2520Flares%2F50mm%2520Zoom.flare.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Terrain Assets/Terrain Grass.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTerrain%2520Assets%2FTerrain%2520Grass.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Light Flares/50mm Zoom.flare</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FLight%2520Flares%2F50mm%2520Zoom.flare</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt</uri>
+			</graft>
+			<graft>
+				<path>/Quellen/[CG Textures] - Textures for 3D, graphic design and Photoshop!_files/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2F%255BCG%2520Textures%255D%2520-%2520Textures%2520for%25203D%2C%2520graphic%2520design%2520and%2520Photoshop%21_files</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Materials/01 - Default.1.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2F01%2520-%2520Default.1.mat</uri>
+			</graft>
+			<graft>
+				<path>/Quellen/MiddleVR SDK _ MiddleVR_files/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FMiddleVR%2520SDK%2520_%2520MiddleVR_files</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Materials/01 - Default.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2F01%2520-%2520Default.mat</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Smoke/Smoke Trail.prefab</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSmoke%2FSmoke%2520Trail.prefab</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/grayscale ramp.png.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FImage%2520Effects%2520%28Pro%2520Only%29%2F_Sources%2FTextures%2Fgrayscale%2520ramp.png.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/models/ba-house/tex/wood stef 001b.png.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2Fmodels%2Fba-house%2Ftex%2Fwood%2520stef%2520001b.png.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Skyboxes/Sunny3 Skybox.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FSunny3%2520Skybox.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Light Flares/Small Flare.flare</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FLight%2520Flares%2FSmall%2520Flare.flare</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Water/Water Surface Splash.prefab.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FWater%2FWater%2520Surface%2520Splash.prefab.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Smoke/Fluffy Smoke.prefab</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSmoke%2FFluffy%2520Smoke.prefab</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Water/Water Fountain.prefab</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FWater%2FWater%2520Fountain.prefab</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Skyboxes/Overcast1 Skybox.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FOvercast1%2520Skybox.mat</uri>
+			</graft>
+			<graft>
+				<path>/Bachelorarbeit.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FBachelorarbeit.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Water (Pro Only)/Daylight Water.prefab</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520%28Pro%2520Only%29%2FDaylight%2520Water.prefab</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Water (Pro Only)/Sources/Objects/Materials/water plane-lambert1.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520%28Pro%2520Only%29%2FSources%2FObjects%2FMaterials%2Fwater%2520plane-lambert1.mat</uri>
+			</graft>
+			<graft>
+				<path>/Quellen/Unity - Game Engine.html</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FUnity%2520-%2520Game%2520Engine.html</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Sources/Materials/Fire Add.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FMaterials%2FFire%2520Add.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Tree Creator/Sources/Textures/Palm Leaf Diffuse.tga</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTree%2520Creator%2FSources%2FTextures%2FPalm%2520Leaf%2520Diffuse.tga</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Water/Water Surface Splash.prefab</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FWater%2FWater%2520Surface%2520Splash.prefab</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Water (Pro Only)/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520%28Pro%2520Only%29</uri>
+			</graft>
+			<graft>
+				<path>/Quellen/Unity - Manual_ Unity Manual.html</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FUnity%2520-%2520Manual_%2520Unity%2520Manual.html</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Tree Creator/Sources/Textures/Palm Bark Diffuse.png</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTree%2520Creator%2FSources%2FTextures%2FPalm%2520Bark%2520Diffuse.png</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Sources/Animations/Stop Emitting 1 sec.anim.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FAnimations%2FStop%2520Emitting%25201%2520sec.anim.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/Contrast Stretch/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FImage%2520Effects%2520%28Pro%2520Only%29%2F_Sources%2FShaders%2FContrast%2520Stretch</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Water (Pro Only)/Water4/Water4Example (Simple).prefab</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520%28Pro%2520Only%29%2FWater4%2FWater4Example%2520%28Simple%29.prefab</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Tree Creator/Sources/Textures/Palm Bark Normal.png</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTree%2520Creator%2FSources%2FTextures%2FPalm%2520Bark%2520Normal.png</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Legacy Particles/Small explosion.prefab.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FLegacy%2520Particles%2FSmall%2520explosion.prefab.meta</uri>
+			</graft>
+			<graft>
+				<path>/Quellen/Building Unreal Paris.html</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FBuilding%2520Unreal%2520Paris.html</uri>
+			</graft>
+			<graft>
+				<path>/Quellen/Multiwall and offaxis projection_files/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FMultiwall%2520and%2520offaxis%2520projection_files</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Materials/20 - Default.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2F20%2520-%2520Default.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Water (Pro Only)/Sources/Materials/Daylight Water.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520%28Pro%2520Only%29%2FSources%2FMaterials%2FDaylight%2520Water.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Sources/Materials/Fire Add.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FMaterials%2FFire%2520Add.mat</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Sources/Animations/Stop Emitting 2 sec.anim</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FAnimations%2FStop%2520Emitting%25202%2520sec.anim</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Character Controllers.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FCharacter%2520Controllers.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Character Controllers/First Person Controller.prefab</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FCharacter%2520Controllers%2FFirst%2520Person%2520Controller.prefab</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Water (Pro Only)/Water4/Sources/Objects/Materials/ocean_plane-No Name.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520%28Pro%2520Only%29%2FWater4%2FSources%2FObjects%2FMaterials%2Focean_plane-No%2520Name.mat</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Tree Creator/Sources/Textures/Pine Bark Diffuse.tga</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTree%2520Creator%2FSources%2FTextures%2FPine%2520Bark%2520Diffuse.tga</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Skyboxes/Sunny2 Skybox.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FSunny2%2520Skybox.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Tree Creator/Sources/Textures/Palm Branch.psd.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTree%2520Creator%2FSources%2FTextures%2FPalm%2520Branch.psd.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/Contrast Stretch.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FImage%2520Effects%2520%28Pro%2520Only%29%2F_Sources%2FShaders%2FContrast%2520Stretch.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/models/ba-house/tex/Ando Concrete Bump.jpg</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2Fmodels%2Fba-house%2Ftex%2FAndo%2520Concrete%2520Bump.jpg</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Tree Creator/Sources/Textures/Palm Branch.psd</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTree%2520Creator%2FSources%2FTextures%2FPalm%2520Branch.psd</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Sources/Shaders/Particle Alpha Blend (Queue +100).shader</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FShaders%2FParticle%2520Alpha%2520Blend%2520%28Queue%2520%2B100%29.shader</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Misc/Light Snow.prefab.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FMisc%2FLight%2520Snow.prefab.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Sources/Materials/Dust Material 1.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FMaterials%2FDust%2520Material%25201.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Materials/Ando Concrete Diffuse 2.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2FAndo%2520Concrete%2520Diffuse%25202.mat</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Skyboxes/DawnDusk Skybox.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FDawnDusk%2520Skybox.mat</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Sources/Materials/Water Splash2.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FMaterials%2FWater%2520Splash2.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Materials/Materials/rendertext cylinder.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2FMaterials%2Frendertext%2520cylinder.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Sources/Animations/Stop Emitting ,5 sec.anim</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FAnimations%2FStop%2520Emitting%2520%2C5%2520sec.anim</uri>
+			</graft>
+			<graft>
+				<path>/Bedienungsanleitung.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FBedienungsanleitung.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Sources/Animations/Stop Emitting 2 sec.anim.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FAnimations%2FStop%2520Emitting%25202%2520sec.anim.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Sources/Materials/Water Splash1.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FMaterials%2FWater%2520Splash1.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Skyboxes/_skybox info.txt</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2F_skybox%2520info.txt</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Sources/Animations/Light explosion.anim.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FAnimations%2FLight%2520explosion.anim.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Light Flares/Sources/Materials/flare mat.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FLight%2520Flares%2FSources%2FMaterials%2Fflare%2520mat.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Quellen/Unity - Manual_ Unity Manual_files/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FUnity%2520-%2520Manual_%2520Unity%2520Manual_files</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Legacy Particles/small flames.prefab</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FLegacy%2520Particles%2Fsmall%2520flames.prefab</uri>
+			</graft>
+			<graft>
+				<path>/Quellen/ICT VR CAVE Multiscreen configuration project - Asset Store_files/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FICT%2520VR%2520CAVE%2520Multiscreen%2520configuration%2520project%2520-%2520Asset%2520Store_files</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Terrain Assets/Terrain Textures/Cliff (Layered Rock).psd.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTerrain%2520Assets%2FTerrain%2520Textures%2FCliff%2520%28Layered%2520Rock%29.psd.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Skyboxes/Sunny2 Skybox.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FSunny2%2520Skybox.mat</uri>
+			</graft>
+			<graft>
+				<path>/Quellen/ICT VR CAVE Multiscreen configuration project - Asset Store.html</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FICT%2520VR%2520CAVE%2520Multiscreen%2520configuration%2520project%2520-%2520Asset%2520Store.html</uri>
+			</graft>
+			<graft>
+				<path>/UnitySetup-4.6.8.exe</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnitySetup-4.6.8.exe</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/models/ba-house/tex/Ando Concrete Bump.jpg.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2Fmodels%2Fba-house%2Ftex%2FAndo%2520Concrete%2520Bump.jpg.meta</uri>
+			</graft>
+			<graft>
+				<path>/Bilder/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FBilder</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Skyboxes/Overcast1 Skybox.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FOvercast1%2520Skybox.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Materials/No Name.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2FNo%2520Name.mat</uri>
+			</graft>
+			<graft>
+				<path>/Bilder/cave asymmetric_frustum.jpg</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FBilder%2Fcave%2520asymmetric_frustum.jpg</uri>
+			</graft>
+			<graft>
+				<path>/Quellen/EonVision Idome _ An Immersive 3D Dome for 30 guests_files/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FEonVision%2520Idome%2520_%2520An%2520Immersive%25203D%2520Dome%2520for%252030%2520guests_files</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Sources/Animations/Light explosion.anim</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FAnimations%2FLight%2520explosion.anim</uri>
+			</graft>
+			<graft>
+				<path>/Quellen/[CG Textures] - Textures for 3D, graphic design and Photoshop!.html</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2F%255BCG%2520Textures%255D%2520-%2520Textures%2520for%25203D%2C%2520graphic%2520design%2520and%2520Photoshop%21.html</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Water (Pro Only)/Water4/Water4Example (Advanced).prefab</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520%28Pro%2520Only%29%2FWater4%2FWater4Example%2520%28Advanced%29.prefab</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Terrain Assets.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTerrain%2520Assets.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Smoke/Detailed Smoke.prefab</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSmoke%2FDetailed%2520Smoke.prefab</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Sparkles/Sparkle Rising.prefab</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSparkles%2FSparkle%2520Rising.prefab</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Light Flares.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FLight%2520Flares.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Materials/No Name.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2FNo%2520Name.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Quellen/Beast _ Autodesk Gameware.html</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FBeast%2520_%2520Autodesk%2520Gameware.html</uri>
+			</graft>
+			<graft>
+				<path>/Quellen/MAXON _ 3D FOR THE REAL WORLD_ Modeling_files/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FMAXON%2520_%25203D%2520FOR%2520THE%2520REAL%2520WORLD_%2520Modeling_files</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Smoke/Fluffy Smoke Large.prefab</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSmoke%2FFluffy%2520Smoke%2520Large.prefab</uri>
+			</graft>
+			<graft>
+				<path>/Quellen/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Water (Pro Only).meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520%28Pro%2520Only%29.meta</uri>
+			</graft>
+			<graft>
+				<path>/Bachelorarbeit-cmyk.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FBachelorarbeit-cmyk.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Legacy Particles.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FLegacy%2520Particles.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Water (Pro Only)/Water4/Water4Example (Advanced).prefab.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520%28Pro%2520Only%29%2FWater4%2FWater4Example%2520%28Advanced%29.prefab.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Terrain Assets/Trees Ambient-Occlusion/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTerrain%2520Assets%2FTrees%2520Ambient-Occlusion</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Materials/rendertext cylinder.renderTexture</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2Frendertext%2520cylinder.renderTexture</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Materials/01 - Default.1.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2F01%2520-%2520Default.1.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Skyboxes/Eerie Skybox.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FEerie%2520Skybox.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Quellen/EonVision Idome _ An Immersive 3D Dome for 30 guests.html</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FEonVision%2520Idome%2520_%2520An%2520Immersive%25203D%2520Dome%2520for%252030%2520guests.html</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Character Controllers/3rd Person Controller.prefab</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FCharacter%2520Controllers%2F3rd%2520Person%2520Controller.prefab</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Sources/Materials/Fairy Dust.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FMaterials%2FFairy%2520Dust.mat</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/color correction ramp.png.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FImage%2520Effects%2520%28Pro%2520Only%29%2F_Sources%2FTextures%2Fcolor%2520correction%2520ramp.png.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Terrain Assets/Terrain Textures/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTerrain%2520Assets%2FTerrain%2520Textures</uri>
+			</graft>
+			<graft>
+				<path>/Quellen/Unity - Scripting API_.html</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FUnity%2520-%2520Scripting%2520API_.html</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Legacy Particles/small flames.prefab.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FLegacy%2520Particles%2Fsmall%2520flames.prefab.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/color correction ramp.png</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FImage%2520Effects%2520%28Pro%2520Only%29%2F_Sources%2FTextures%2Fcolor%2520correction%2520ramp.png</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Image Effects (Pro Only).meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FImage%2520Effects%2520%28Pro%2520Only%29.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Sources/Animations/Stop Emitting ,5 sec.anim.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FAnimations%2FStop%2520Emitting%2520%2C5%2520sec.anim.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Materials/New Material.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2FNew%2520Material.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Tessellation Shaders.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTessellation%2520Shaders.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Skyboxes/MoonShine Skybox.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FMoonShine%2520Skybox.mat</uri>
+			</graft>
+			<graft>
+				<path>/Quellen/The CAVE Automatic Virtual Environment_ Characteristics and Applications.html</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FThe%2520CAVE%2520Automatic%2520Virtual%2520Environment_%2520Characteristics%2520and%2520Applications.html</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/prefabs/VR FPS Controller.prefab</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2Fprefabs%2FVR%2520FPS%2520Controller.prefab</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Skyboxes/StarryNight Skybox.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FStarryNight%2520Skybox.mat</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Character Controllers/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FCharacter%2520Controllers</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Misc/Light Snow.prefab</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FMisc%2FLight%2520Snow.prefab</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Sources/Materials/Fire Smoke.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FMaterials%2FFire%2520Smoke.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Quellen/MiddleVR SDK _ MiddleVR.html</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FMiddleVR%2520SDK%2520_%2520MiddleVR.html</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Tree Creator/Sources/Textures/Palm Bark Diffuse.png.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTree%2520Creator%2FSources%2FTextures%2FPalm%2520Bark%2520Diffuse.png.meta</uri>
+			</graft>
+			<graft>
+				<path>/Quellen/MAXON _ 3D FOR THE REAL WORLD_ Home_files/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FMAXON%2520_%25203D%2520FOR%2520THE%2520REAL%2520WORLD_%2520Home_files</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Materials/Materials/rendertext cylinder.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2FMaterials%2Frendertext%2520cylinder.mat</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Materials/01 - Default.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2F01%2520-%2520Default.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Skyboxes/Overcast2 Skybox.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FOvercast2%2520Skybox.mat</uri>
+			</graft>
+			<graft>
+				<path>/Quellen/MAXON _ 3D FOR THE REAL WORLD_ Modeling.html</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FMAXON%2520_%25203D%2520FOR%2520THE%2520REAL%2520WORLD_%2520Modeling.html</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Tree Creator/Sources/Textures/Pine Bark Normal.png.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTree%2520Creator%2FSources%2FTextures%2FPine%2520Bark%2520Normal.png.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Tessellation Shaders/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTessellation%2520Shaders</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Tree Creator.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTree%2520Creator.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Skyboxes/DawnDusk Skybox.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FDawnDusk%2520Skybox.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Water (Pro Only)/Nighttime Water.prefab.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520%28Pro%2520Only%29%2FNighttime%2520Water.prefab.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/prefabs/VR FPS Controller.prefab.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2Fprefabs%2FVR%2520FPS%2520Controller.prefab.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Water (Pro Only)/Sources/Textures/Water fallback.jpg.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520%28Pro%2520Only%29%2FSources%2FTextures%2FWater%2520fallback.jpg.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Terrain Assets/Terrain Textures/Grass (Hill).psd.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTerrain%2520Assets%2FTerrain%2520Textures%2FGrass%2520%28Hill%29.psd.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Editor/Water (Pro Only)/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FEditor%2FWater%2520%28Pro%2520Only%29</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Materials/20 - Default.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2F20%2520-%2520Default.mat</uri>
+			</graft>
+			<graft>
+				<path>/Quellen/Unity - Game Engine_files/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FUnity%2520-%2520Game%2520Engine_files</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Legacy Particles/Small explosion.prefab</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FLegacy%2520Particles%2FSmall%2520explosion.prefab</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Tree Creator/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTree%2520Creator</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Sources/Materials/Smoke Trail.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FMaterials%2FSmoke%2520Trail.mat</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Water (Pro Only)/Sources/Materials/Nighttime Water.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520%28Pro%2520Only%29%2FSources%2FMaterials%2FNighttime%2520Water.mat</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Sources/Animations/Stop Emitting 1 sec.anim</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FAnimations%2FStop%2520Emitting%25201%2520sec.anim</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Water (Pro Only)/Sources/Objects/Water Plane.fbx.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520%28Pro%2520Only%29%2FSources%2FObjects%2FWater%2520Plane.fbx.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Skyboxes/Overcast2 Skybox.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FOvercast2%2520Skybox.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Light Flares/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FLight%2520Flares</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Sparkles/Sparkle Rising.prefab.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSparkles%2FSparkle%2520Rising.prefab.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Water (Pro Only)/Sources/Textures/Water Fresnel.psd</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520%28Pro%2520Only%29%2FSources%2FTextures%2FWater%2520Fresnel.psd</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Materials/13 - Default.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2F13%2520-%2520Default.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Quellen/Multiwall and offaxis projection.html</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FMultiwall%2520and%2520offaxis%2520projection.html</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Editor/Image Effects.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FEditor%2FImage%2520Effects.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Light Flares/Small Flare.flare.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FLight%2520Flares%2FSmall%2520Flare.flare.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Image Effects (Pro Only)/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FImage%2520Effects%2520%28Pro%2520Only%29</uri>
+			</graft>
+			<graft>
+				<path>/Quellen/MAXON _ 3D FOR THE REAL WORLD_ Home.html</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FMAXON%2520_%25203D%2520FOR%2520THE%2520REAL%2520WORLD_%2520Home.html</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Terrain Assets/Trees Ambient-Occlusion.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTerrain%2520Assets%2FTrees%2520Ambient-Occlusion.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Water (Pro Only)/Sources/Materials/Daylight Water.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520%28Pro%2520Only%29%2FSources%2FMaterials%2FDaylight%2520Water.mat</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Tree Creator/Sources/Textures/Pine Bark Diffuse.tga.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTree%2520Creator%2FSources%2FTextures%2FPine%2520Bark%2520Diffuse.tga.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Legacy Particles/large flames.prefab.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FLegacy%2520Particles%2Flarge%2520flames.prefab.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Tree Creator/Sources/Textures/Palm Leaf Diffuse.tga.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTree%2520Creator%2FSources%2FTextures%2FPalm%2520Leaf%2520Diffuse.tga.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Skyboxes/Eerie Skybox.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FEerie%2520Skybox.mat</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Skyboxes/MoonShine Skybox.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FMoonShine%2520Skybox.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Quellen/Unity - Scripting API__files/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FUnity%2520-%2520Scripting%2520API__files</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Water (Pro Only)/Water4/Water4Example (Simple).prefab.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520%28Pro%2520Only%29%2FWater4%2FWater4Example%2520%28Simple%29.prefab.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Materials/rendertext cylinder.renderTexture.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2Frendertext%2520cylinder.renderTexture.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Tree Creator/Sources/Textures/Palm Bark Normal.png.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTree%2520Creator%2FSources%2FTextures%2FPalm%2520Bark%2520Normal.png.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Terrain Assets/Terrain Textures/Grass (Hill).psd</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTerrain%2520Assets%2FTerrain%2520Textures%2FGrass%2520%28Hill%29.psd</uri>
+			</graft>
+			<graft>
+				<path>/Quellen/Beast _ Autodesk Gameware_files/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FBeast%2520_%2520Autodesk%2520Gameware_files</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Legacy Particles/large flames.prefab</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FLegacy%2520Particles%2Flarge%2520flames.prefab</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Sources/Materials/Dust Material 1.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FMaterials%2FDust%2520Material%25201.mat</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Smoke/Fluffy Smoke.prefab.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSmoke%2FFluffy%2520Smoke.prefab.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Skyboxes/Sunny3 Skybox.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FSunny3%2520Skybox.mat</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Character Controllers/First Person Controller.prefab.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FCharacter%2520Controllers%2FFirst%2520Person%2520Controller.prefab.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Water/Water Fountain.prefab.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FWater%2FWater%2520Fountain.prefab.meta</uri>
+			</graft>
+			<graft>
+				<path>/Bilder/testcave cube.JPG</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FBilder%2Ftestcave%2520cube.JPG</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Sources/Materials/Smoke Trail.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FMaterials%2FSmoke%2520Trail.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Water (Pro Only)/Sources/Textures/nightgradient cubemap.psd.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520%28Pro%2520Only%29%2FSources%2FTextures%2Fnightgradient%2520cubemap.psd.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Legacy Particles/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FLegacy%2520Particles</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Light Flares/Sources/Materials/flare mat.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FLight%2520Flares%2FSources%2FMaterials%2Fflare%2520mat.mat</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Editor/Image Effects/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FEditor%2FImage%2520Effects</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Sources/Materials/Water Splash1.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FMaterials%2FWater%2520Splash1.mat</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Smoke/Detailed Smoke.prefab.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSmoke%2FDetailed%2520Smoke.prefab.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Materials/New Material.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2FNew%2520Material.mat</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Water (Pro Only)/Sources/Objects/Water Plane.fbx</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520%28Pro%2520Only%29%2FSources%2FObjects%2FWater%2520Plane.fbx</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Misc/Soap Bubbles.prefab.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FMisc%2FSoap%2520Bubbles.prefab.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Dust/Dust Storm.prefab.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FDust%2FDust%2520Storm.prefab.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Tree Creator/Sources/Textures/Pine Bark Normal.png</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTree%2520Creator%2FSources%2FTextures%2FPine%2520Bark%2520Normal.png</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Skyboxes/Sunny1 Skybox.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FSunny1%2520Skybox.mat</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Sources/Materials/Fairy Dust.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FMaterials%2FFairy%2520Dust.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Skyboxes/Sunny1 Skybox.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FSunny1%2520Skybox.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Terrain Assets/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTerrain%2520Assets</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/models/ba-house/tex/wood stef 001b.png</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2Fmodels%2Fba-house%2Ftex%2Fwood%2520stef%2520001b.png</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Water (Pro Only)/Sources/Textures/Water fallback.jpg</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520%28Pro%2520Only%29%2FSources%2FTextures%2FWater%2520fallback.jpg</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Water (Pro Only)/Sources/Textures/nightgradient cubemap.psd</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520%28Pro%2520Only%29%2FSources%2FTextures%2Fnightgradient%2520cubemap.psd</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Sources/Materials/Water Splash2.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FMaterials%2FWater%2520Splash2.mat</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Particles/Dust/Dust Storm.prefab</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FDust%2FDust%2520Storm.prefab</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Water (Pro Only)/Sources/Textures/Water Fresnel.psd.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520%28Pro%2520Only%29%2FSources%2FTextures%2FWater%2520Fresnel.psd.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Water (Pro Only)/Nighttime Water.prefab</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520%28Pro%2520Only%29%2FNighttime%2520Water.prefab</uri>
+			</graft>
+			<graft>
+				<path>/Quellen/The CAVE Automatic Virtual Environment_ Characteristics and Applications_files/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FThe%2520CAVE%2520Automatic%2520Virtual%2520Environment_%2520Characteristics%2520and%2520Applications_files</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Materials/13 - Default.mat</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2F13%2520-%2520Default.mat</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Editor/Water (Pro Only).meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FEditor%2FWater%2520%28Pro%2520Only%29.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Materials/Ando Concrete Diffuse 2.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2FAndo%2520Concrete%2520Diffuse%25202.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Water (Pro Only)/Sources/Objects/Materials/water plane-lambert1.mat.meta</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520%28Pro%2520Only%29%2FSources%2FObjects%2FMaterials%2Fwater%2520plane-lambert1.mat.meta</uri>
+			</graft>
+			<graft>
+				<path>/Unity Projekt/CAVEVR/Assets/Standard Assets/Terrain Assets/Terrain Textures/Cliff (Layered Rock).psd</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTerrain%2520Assets%2FTerrain%2520Textures%2FCliff%2520%28Layered%2520Rock%29.psd</uri>
+			</graft>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FImage%2520Effects%2520(Pro%2520Only)%2F_Sources%2FTextures%2Fgrayscale%2520ramp.png</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FMaterials%2FFire%2520Smoke.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520(Pro%2520Only)%2FDaylight%2520Water.prefab.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FShaders%2FParticle%2520Alpha%2520Blend%2520(Queue%2520%2B100).shader.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2F_skybox%2520info.txt.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FBuilding%2520Unreal%2520Paris_files</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSmoke%2FFluffy%2520Smoke%2520Large.prefab.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSmoke%2FSmoke%2520Trail.prefab.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FMisc%2FSoap%2520Bubbles.prefab</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FStarryNight%2520Skybox.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520(Pro%2520Only)%2FWater4%2FSources%2FObjects%2FMaterials%2Focean_plane-No%2520Name.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FCharacter%2520Controllers%2F3rd%2520Person%2520Controller.prefab.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520(Pro%2520Only)%2FSources%2FMaterials%2FNighttime%2520Water.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTerrain%2520Assets%2FTerrain%2520Grass</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTerrain%2520Assets%2FTerrain%2520Textures.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FLight%2520Flares%2F50mm%2520Zoom.flare.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTerrain%2520Assets%2FTerrain%2520Grass.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FLight%2520Flares%2F50mm%2520Zoom.flare</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2F%255BCG%2520Textures%255D%2520-%2520Textures%2520for%25203D%2C%2520graphic%2520design%2520and%2520Photoshop!_files</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2F01%2520-%2520Default.1.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FMiddleVR%2520SDK%2520_%2520MiddleVR_files</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2F01%2520-%2520Default.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSmoke%2FSmoke%2520Trail.prefab</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FImage%2520Effects%2520(Pro%2520Only)%2F_Sources%2FTextures%2Fgrayscale%2520ramp.png.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2Fmodels%2Fba-house%2Ftex%2Fwood%2520stef%2520001b.png.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FSunny3%2520Skybox.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FLight%2520Flares%2FSmall%2520Flare.flare</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FWater%2FWater%2520Surface%2520Splash.prefab.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSmoke%2FFluffy%2520Smoke.prefab</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FWater%2FWater%2520Fountain.prefab</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FOvercast1%2520Skybox.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FBachelorarbeit.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520(Pro%2520Only)%2FDaylight%2520Water.prefab</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520(Pro%2520Only)%2FSources%2FObjects%2FMaterials%2Fwater%2520plane-lambert1.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FUnity%2520-%2520Game%2520Engine.html</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FMaterials%2FFire%2520Add.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTree%2520Creator%2FSources%2FTextures%2FPalm%2520Leaf%2520Diffuse.tga</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FWater%2FWater%2520Surface%2520Splash.prefab</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520(Pro%2520Only)</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FUnity%2520-%2520Manual_%2520Unity%2520Manual.html</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTree%2520Creator%2FSources%2FTextures%2FPalm%2520Bark%2520Diffuse.png</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FAnimations%2FStop%2520Emitting%25201%2520sec.anim.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FImage%2520Effects%2520(Pro%2520Only)%2F_Sources%2FShaders%2FContrast%2520Stretch</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520(Pro%2520Only)%2FWater4%2FWater4Example%2520(Simple).prefab</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTree%2520Creator%2FSources%2FTextures%2FPalm%2520Bark%2520Normal.png</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FLegacy%2520Particles%2FSmall%2520explosion.prefab.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FBuilding%2520Unreal%2520Paris.html</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FMultiwall%2520and%2520offaxis%2520projection_files</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2F20%2520-%2520Default.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520(Pro%2520Only)%2FSources%2FMaterials%2FDaylight%2520Water.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FMaterials%2FFire%2520Add.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FAnimations%2FStop%2520Emitting%25202%2520sec.anim</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FCharacter%2520Controllers.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FCharacter%2520Controllers%2FFirst%2520Person%2520Controller.prefab</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520(Pro%2520Only)%2FWater4%2FSources%2FObjects%2FMaterials%2Focean_plane-No%2520Name.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTree%2520Creator%2FSources%2FTextures%2FPine%2520Bark%2520Diffuse.tga</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2Fmodels%2Fba-door%2Fbackup</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FSunny2%2520Skybox.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTree%2520Creator%2FSources%2FTextures%2FPalm%2520Branch.psd.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FImage%2520Effects%2520(Pro%2520Only)%2F_Sources%2FShaders%2FContrast%2520Stretch.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2Fmodels%2Fba-house%2Ftex%2FAndo%2520Concrete%2520Bump.jpg</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTree%2520Creator%2FSources%2FTextures%2FPalm%2520Branch.psd</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FShaders%2FParticle%2520Alpha%2520Blend%2520(Queue%2520%2B100).shader</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FMisc%2FLight%2520Snow.prefab.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FMaterials%2FDust%2520Material%25201.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2FAndo%2520Concrete%2520Diffuse%25202.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FDawnDusk%2520Skybox.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FMaterials%2FWater%2520Splash2.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2FMaterials%2Frendertext%2520cylinder.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FAnimations%2FStop%2520Emitting%2520%2C5%2520sec.anim</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FBedienungsanleitung.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FAnimations%2FStop%2520Emitting%25202%2520sec.anim.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FMaterials%2FWater%2520Splash1.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2F_skybox%2520info.txt</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FAnimations%2FLight%2520explosion.anim.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FLight%2520Flares%2FSources%2FMaterials%2Fflare%2520mat.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FUnity%2520-%2520Manual_%2520Unity%2520Manual_files</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FLegacy%2520Particles%2Fsmall%2520flames.prefab</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FICT%2520VR%2520CAVE%2520Multiscreen%2520configuration%2520project%2520-%2520Asset%2520Store_files</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTerrain%2520Assets%2FTerrain%2520Textures%2FCliff%2520(Layered%2520Rock).psd.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FSunny2%2520Skybox.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FICT%2520VR%2520CAVE%2520Multiscreen%2520configuration%2520project%2520-%2520Asset%2520Store.html</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnitySetup-4.6.8.exe</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2Fmodels%2Fba-house%2Ftex%2FAndo%2520Concrete%2520Bump.jpg.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FBilder</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FOvercast1%2520Skybox.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2FNo%2520Name.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FBilder%2Fcave%2520asymmetric_frustum.jpg</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FEonVision%2520Idome%2520_%2520An%2520Immersive%25203D%2520Dome%2520for%252030%2520guests_files</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FAnimations%2FLight%2520explosion.anim</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2F%255BCG%2520Textures%255D%2520-%2520Textures%2520for%25203D%2C%2520graphic%2520design%2520and%2520Photoshop!.html</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520(Pro%2520Only)%2FWater4%2FWater4Example%2520(Advanced).prefab</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTerrain%2520Assets.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSmoke%2FDetailed%2520Smoke.prefab</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSparkles%2FSparkle%2520Rising.prefab</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FLight%2520Flares.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2FNo%2520Name.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FBeast%2520_%2520Autodesk%2520Gameware.html</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FMAXON%2520_%25203D%2520FOR%2520THE%2520REAL%2520WORLD_%2520Modeling_files</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSmoke%2FFluffy%2520Smoke%2520Large.prefab</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520(Pro%2520Only).meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FBachelorarbeit-cmyk.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FLegacy%2520Particles.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520(Pro%2520Only)%2FWater4%2FWater4Example%2520(Advanced).prefab.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTerrain%2520Assets%2FTrees%2520Ambient-Occlusion</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2Frendertext%2520cylinder.renderTexture</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2F01%2520-%2520Default.1.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FEerie%2520Skybox.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FEonVision%2520Idome%2520_%2520An%2520Immersive%25203D%2520Dome%2520for%252030%2520guests.html</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FCharacter%2520Controllers%2F3rd%2520Person%2520Controller.prefab</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FMaterials%2FFairy%2520Dust.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FImage%2520Effects%2520(Pro%2520Only)%2F_Sources%2FTextures%2Fcolor%2520correction%2520ramp.png.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTerrain%2520Assets%2FTerrain%2520Textures</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FUnity%2520-%2520Scripting%2520API_.html</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FLegacy%2520Particles%2Fsmall%2520flames.prefab.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FImage%2520Effects%2520(Pro%2520Only)%2F_Sources%2FTextures%2Fcolor%2520correction%2520ramp.png</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FImage%2520Effects%2520(Pro%2520Only).meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FAnimations%2FStop%2520Emitting%2520%2C5%2520sec.anim.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2FNew%2520Material.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTessellation%2520Shaders.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FMoonShine%2520Skybox.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FThe%2520CAVE%2520Automatic%2520Virtual%2520Environment_%2520Characteristics%2520and%2520Applications.html</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2Fprefabs%2FVR%2520FPS%2520Controller.prefab</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FStarryNight%2520Skybox.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FCharacter%2520Controllers</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FMisc%2FLight%2520Snow.prefab</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FMaterials%2FFire%2520Smoke.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FMiddleVR%2520SDK%2520_%2520MiddleVR.html</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTree%2520Creator%2FSources%2FTextures%2FPalm%2520Bark%2520Diffuse.png.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FMAXON%2520_%25203D%2520FOR%2520THE%2520REAL%2520WORLD_%2520Home_files</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2FMaterials%2Frendertext%2520cylinder.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2F01%2520-%2520Default.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FOvercast2%2520Skybox.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FMAXON%2520_%25203D%2520FOR%2520THE%2520REAL%2520WORLD_%2520Modeling.html</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTree%2520Creator%2FSources%2FTextures%2FPine%2520Bark%2520Normal.png.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTessellation%2520Shaders</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTree%2520Creator.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FDawnDusk%2520Skybox.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520(Pro%2520Only)%2FNighttime%2520Water.prefab.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2Fprefabs%2FVR%2520FPS%2520Controller.prefab.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520(Pro%2520Only)%2FSources%2FTextures%2FWater%2520fallback.jpg.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTerrain%2520Assets%2FTerrain%2520Textures%2FGrass%2520(Hill).psd.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FEditor%2FWater%2520(Pro%2520Only)</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2F20%2520-%2520Default.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FUnity%2520-%2520Game%2520Engine_files</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FLegacy%2520Particles%2FSmall%2520explosion.prefab</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTree%2520Creator</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FMaterials%2FSmoke%2520Trail.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520(Pro%2520Only)%2FSources%2FMaterials%2FNighttime%2520Water.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FAnimations%2FStop%2520Emitting%25201%2520sec.anim</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520(Pro%2520Only)%2FSources%2FObjects%2FWater%2520Plane.fbx.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FOvercast2%2520Skybox.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FLight%2520Flares</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSparkles%2FSparkle%2520Rising.prefab.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520(Pro%2520Only)%2FSources%2FTextures%2FWater%2520Fresnel.psd</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2F13%2520-%2520Default.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FMultiwall%2520and%2520offaxis%2520projection.html</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FEditor%2FImage%2520Effects.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FLight%2520Flares%2FSmall%2520Flare.flare.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FImage%2520Effects%2520(Pro%2520Only)</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FMAXON%2520_%25203D%2520FOR%2520THE%2520REAL%2520WORLD_%2520Home.html</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTerrain%2520Assets%2FTrees%2520Ambient-Occlusion.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520(Pro%2520Only)%2FSources%2FMaterials%2FDaylight%2520Water.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTree%2520Creator%2FSources%2FTextures%2FPine%2520Bark%2520Diffuse.tga.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FLegacy%2520Particles%2Flarge%2520flames.prefab.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTree%2520Creator%2FSources%2FTextures%2FPalm%2520Leaf%2520Diffuse.tga.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FEerie%2520Skybox.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FMoonShine%2520Skybox.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FUnity%2520-%2520Scripting%2520API__files</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520(Pro%2520Only)%2FWater4%2FWater4Example%2520(Simple).prefab.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2Frendertext%2520cylinder.renderTexture.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTree%2520Creator%2FSources%2FTextures%2FPalm%2520Bark%2520Normal.png.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTerrain%2520Assets%2FTerrain%2520Textures%2FGrass%2520(Hill).psd</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FBeast%2520_%2520Autodesk%2520Gameware_files</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FLegacy%2520Particles%2Flarge%2520flames.prefab</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FMaterials%2FDust%2520Material%25201.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSmoke%2FFluffy%2520Smoke.prefab.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FSunny3%2520Skybox.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FCharacter%2520Controllers%2FFirst%2520Person%2520Controller.prefab.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FWater%2FWater%2520Fountain.prefab.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FBilder%2Ftestcave%2520cube.JPG</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FMaterials%2FSmoke%2520Trail.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520(Pro%2520Only)%2FSources%2FTextures%2Fnightgradient%2520cubemap.psd.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FLegacy%2520Particles</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FLight%2520Flares%2FSources%2FMaterials%2Fflare%2520mat.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FEditor%2FImage%2520Effects</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FMaterials%2FWater%2520Splash1.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSmoke%2FDetailed%2520Smoke.prefab.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2FNew%2520Material.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520(Pro%2520Only)%2FSources%2FObjects%2FWater%2520Plane.fbx</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FMisc%2FSoap%2520Bubbles.prefab.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FDust%2FDust%2520Storm.prefab.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTree%2520Creator%2FSources%2FTextures%2FPine%2520Bark%2520Normal.png</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FSunny1%2520Skybox.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FMaterials%2FFairy%2520Dust.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FSkyboxes%2FSunny1%2520Skybox.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTerrain%2520Assets</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2Fmodels%2Fba-house%2Ftex%2Fwood%2520stef%2520001b.png</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520(Pro%2520Only)%2FSources%2FTextures%2FWater%2520fallback.jpg</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520(Pro%2520Only)%2FSources%2FTextures%2Fnightgradient%2520cubemap.psd</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FSources%2FMaterials%2FWater%2520Splash2.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FParticles%2FDust%2FDust%2520Storm.prefab</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520(Pro%2520Only)%2FSources%2FTextures%2FWater%2520Fresnel.psd.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520(Pro%2520Only)%2FNighttime%2520Water.prefab</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FQuellen%2FThe%2520CAVE%2520Automatic%2520Virtual%2520Environment_%2520Characteristics%2520and%2520Applications_files</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2F13%2520-%2520Default.mat</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FEditor%2FWater%2520(Pro%2520Only).meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FMaterials%2FAndo%2520Concrete%2520Diffuse%25202.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FWater%2520(Pro%2520Only)%2FSources%2FObjects%2FMaterials%2Fwater%2520plane-lambert1.mat.meta</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fusb0%2FDVD%2FUnity%2520Projekt%2FCAVEVR%2FAssets%2FStandard%2520Assets%2FTerrain%2520Assets%2FTerrain%2520Textures%2FCliff%2520(Layered%2520Rock).psd</excluded>
+		</data>
+	</track>
+</braseroproject>

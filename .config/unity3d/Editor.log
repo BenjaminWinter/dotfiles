@@ -1,0 +1,298 @@
+mono profile = '/opt/Unity/Editor/Data/Mono/lib/mono/2.0'
+Initialize mono
+Mono path[0] = '/opt/Unity/Editor/Data/Managed'
+Mono path[1] = '/opt/Unity/Editor/Data/Mono/lib/mono/2.0'
+Mono path[2] = '/opt/Unity/Editor/Data/UnityScript'
+Mono path[3] = '/opt/Unity/Editor/Data/Mono/lib/mono/2.0'
+Mono config path = '/opt/Unity/Editor/Data/Mono/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56449
+
+(Unity:9449): Gtk-WARNING **: Unable to locate theme engine in module_path: "equinox",
+
+(Unity:9449): Gtk-WARNING **: Unable to locate theme engine in module_path: "equinox",
+Desktop is 1366 x 768 @ 60 Hz
+
+Selecting FBConfig
+GLX_FBCONFIG_ID=119
+GLX_BUFFER_SIZE=32
+GLX_DOUBLEBUFFER=1
+GLX_RED_SIZE=8
+GLX_GREEN_SIZE=8
+GLX_BLUE_SIZE=8
+GLX_ALPHA_SIZE=8
+GLX_DEPTH_SIZE=24
+GLX_STENCIL_SIZE=8
+GLX_SAMPLES_ARB=0
+GLX_SAMPLE_BUFFERS_ARB=0
+GLX_STEREO=0
+GLX_CONFIG_CAVEAT=NONE
+
+npm ERR! extraneous: unityeditor-collab-history@0.0.22 /home/benny/.local/share/unity3d/Packages/node_modules/unityeditor-collab-history
+npm ERR! extraneous: unityeditor-collab-toolbar@0.0.31 /home/benny/.local/share/unity3d/Packages/node_modules/unityeditor-collab-toolbar
+ListPackages failed, output: {
+  "name": "unity-editor",
+  "version": "5.3.0",
+  "problems": [
+    "extraneous: unityeditor-collab-history@0.0.22 /home/benny/.local/share/unity3d/Packages/node_modules/unityeditor-collab-history",
+    "extraneous: unityeditor-collab-toolbar@0.0.31 /home/benny/.local/share/unity3d/Packages/node_modules/unityeditor-collab-toolbar"
+  ],
+  "dependencies": {
+    "unityeditor-collab-history": {
+      "version": "0.0.22",
+      "extraneous": true,
+      "problems": [
+        "extraneous: unityeditor-collab-history@0.0.22 /home/benny/.local/share/unity3d/Packages/node_modules/unityeditor-collab-history"
+      ],
+      "from": "unityeditor-collab-history.0.0.22.tgz",
+      "resolved": "file:unityeditor-collab-history.0.0.22.tgz"
+    },
+    "unityeditor-collab-toolbar": {
+      "version": "0.0.31",
+      "extraneous": true,
+      "problems": [
+        "extraneous: unityeditor-collab-toolbar@0.0.31 /home/benny/.local/share/unity3d/Packages/node_modules/unityeditor-collab-toolbar"
+      ],
+      "from": "unityeditor-collab-toolbar.0.0.31.tgz",
+      "resolved": "file:unityeditor-collab-toolbar.0.0.31.tgz"
+    },
+    "unity-editor-home": {
+      "version": "0.0.7",
+      "from": "unity-editor-home-0.0.7.tgz",
+      "resolved": "file:unity-editor-home-0.0.7.tgz"
+    },
+    "unityeditor-cloud-hub": {
+      "version": "0.0.1",
+      "from": "unityeditor-cloud-hub-0.0.1.tgz",
+      "resolved": "file:unityeditor-cloud-hub-0.0.1.tgz"
+    }
+  }
+}
+
+
+LICENSE SYSTEM [201672 16:5:21] No start/stop license dates set
+
+LICENSE SYSTEM [201672 16:5:21] Next license update check is after 2016-04-09T06:48:44
+
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[0702/160521:ERROR:nss_util.cc(856)] After loading Root Certs, loaded==false: NSS error code: -8018
+[0702/160521:ERROR:gpu_process_transport_factory.cc(402)] Failed to establish GPU channel.
+IsTimeToCheckForNewEditor: Update time 0 current 1467468340
+/home/benny/Uni/Bergretter
+UpdateMenuTitleForLanguage: 10
+Using libudev for joystick management
+
+
+Importing game controller configs
+Loading GUID <-> Path mappings...0.000464 seconds
+Loading Asset Database...0.008939 seconds
+Audio: FMOD Profiler initialized on port 54900
+AudioManager: Using PulseAudio: Default Output Device
+AssetDatabase consistency checks...0.200044 seconds
+Initialize engine version: 5.3.1f1 (c128b18ee020)
+Forcing GfxDevice: OpenGL
+GLX Extensions: GLX_ARB_create_context GLX_ARB_create_context_profile GLX_ARB_create_context_robustness GLX_ARB_fbconfig_float GLX_ARB_framebuffer_sRGB GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_import_context GLX_EXT_visual_info GLX_EXT_visual_rating GLX_EXT_fbconfig_packed_float GLX_EXT_framebuffer_sRGB GLX_EXT_create_context_es2_profile GLX_EXT_create_context_es_profile GLX_MESA_copy_sub_buffer GLX_MESA_multithread_makecurrent GLX_MESA_query_renderer GLX_MESA_swap_control GLX_OML_swap_method GLX_OML_sync_control GLX_SGI_make_current_read GLX_SGI_swap_control GLX_SGI_video_sync GLX_SGIS_multisample GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGIX_visual_select_group GLX_EXT_texture_from_pixmap GLX_INTEL_swap_event 
+OpenGL:
+    Version:  OpenGL 3.0 [3.0 Mesa 11.2.2]
+    Renderer: Mesa DRI Intel(R) Ivybridge Mobile 
+    Vendor:   Intel Open Source Technology Center
+    VRAM:     1536 MB
+    Extensions: GL_ARB_multisample GL_EXT_abgr GL_EXT_bgra GL_EXT_blend_color GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_copy_texture GL_EXT_polygon_offset GL_EXT_subtexture GL_EXT_texture_object GL_EXT_vertex_array GL_EXT_compiled_vertex_array GL_EXT_texture GL_EXT_texture3D GL_IBM_rasterpos_clip GL_ARB_point_parameters GL_EXT_draw_range_elements GL_EXT_packed_pixels GL_EXT_point_parameters GL_EXT_rescale_normal GL_EXT_separate_specular_color GL_EXT_texture_edge_clamp GL_SGIS_generate_mipmap GL_SGIS_texture_border_clamp GL_SGIS_texture_edge_clamp GL_SGIS_texture_lod GL_ARB_framebuffer_sRGB GL_ARB_multitexture GL_EXT_framebuffer_sRGB GL_IBM_multimode_draw_arrays GL_IBM_texture_mirrored_repeat GL_3DFX_texture_compression_FXT1 GL_ARB_texture_cube_map GL_ARB_texture_env_add GL_ARB_transpose_matrix GL_EXT_blend_func_separate GL_EXT_fog_coord GL_EXT_multi_draw_arrays GL_EXT_secondary_color GL_EXT_texture_env_add GL_EXT_texture_filter_anisotropic GL_EXT_texture_lod_bias GL_INGR_blend_func_separate GL_NV_blend_square GL_NV_light_max_exponent GL_NV_texgen_reflection GL_NV_texture_env_combine4 GL_S3_s3tc GL_SUN_multi_draw_arrays GL_ARB_texture_border_clamp GL_ARB_texture_compression GL_EXT_framebuffer_object GL_EXT_texture_compression_s3tc GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_MESA_window_pos GL_NV_packed_depth_stencil GL_NV_texture_rectangle GL_ARB_depth_texture GL_ARB_occlusion_query GL_ARB_shadow GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_mirrored_repeat GL_ARB_window_pos GL_EXT_stencil_two_side GL_EXT_texture_cube_map GL_NV_depth_clamp GL_APPLE_packed_pixels GL_APPLE_vertex_array_object GL_ARB_draw_buffers GL_ARB_fragment_program GL_ARB_fragment_shader GL_ARB_shader_objects GL_ARB_vertex_program GL_ARB_vertex_shader GL_ATI_draw_buffers GL_ATI_texture_env_combine3 GL_ATI_texture_float GL_EXT_shadow_funcs GL_EXT_stencil_wrap GL_MESA_pack_invert GL_NV_primitive_restart GL_ARB_depth_clamp GL_ARB_fragment_program_shadow GL_ARB_half_float_pixel GL_ARB_occlusion_query2 GL_ARB_point_sprite GL_ARB_shading_language_100 GL_ARB_sync GL_ARB_texture_non_power_of_two GL_ARB_vertex_buffer_object GL_ATI_blend_equation_separate GL_EXT_blend_equation_separate GL_OES_read_format GL_ARB_color_buffer_float GL_ARB_pixel_buffer_object GL_ARB_texture_compression_rgtc GL_ARB_texture_float GL_ARB_texture_rectangle GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_rectangle GL_EXT_texture_sRGB GL_EXT_texture_shared_exponent GL_ARB_framebuffer_object GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_packed_depth_stencil GL_APPLE_object_purgeable GL_ARB_vertex_array_object GL_ATI_separate_stencil GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_gpu_program_parameters GL_EXT_texture_array GL_EXT_texture_integer GL_EXT_texture_sRGB_decode GL_EXT_timer_query GL_OES_EGL_image GL_AMD_performance_monitor GL_ARB_copy_buffer GL_ARB_depth_buffer_float GL_ARB_draw_instanced GL_ARB_half_float_vertex GL_ARB_instanced_arrays GL_ARB_map_buffer_range GL_ARB_texture_rg GL_ARB_texture_swizzle GL_ARB_vertex_array_bgra GL_EXT_texture_swizzle GL_EXT_vertex_array_bgra GL_NV_conditional_render GL_AMD_conservative_depth GL_AMD_draw_buffers_blend GL_AMD_seamless_cubemap_per_texture GL_ARB_ES2_compatibility GL_ARB_blend_func_extended GL_ARB_debug_output GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_explicit_attrib_location GL_ARB_fragment_coord_conventions GL_ARB_provoking_vertex GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_shader_texture_lod GL_ARB_texture_cube_map_array GL_ARB_texture_gather GL_ARB_texture_multisample GL_ARB_texture_query_lod GL_ARB_texture_rgb10_a2ui GL_ARB_uniform_buffer_object GL_ARB_vertex_type_2_10_10_10_rev GL_EXT_provoking_vertex GL_EXT_texture_snorm GL_MESA_texture_signed_rgba GL_NV_texture_barrier GL_ARB_get_program_binary GL_ARB_robustness GL_ARB_separate_shader_objects GL_ARB_shader_bit_encoding GL_ARB_texture_compression_bptc GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_internalformat_query GL_ARB_map_buffer_alignment GL_ARB_shader_atomic_counters GL_ARB_shader_image_load_store GL_ARB_shading_language_420pack GL_ARB_shading_language_packing GL_ARB_texture_storage GL_ARB_transform_feedback_instanced GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_transform_feedback GL_AMD_shader_trinary_minmax GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_clear_buffer_object GL_ARB_copy_image GL_ARB_explicit_uniform_location GL_ARB_framebuffer_no_attachments GL_ARB_invalidate_subdata GL_ARB_program_interface_query GL_ARB_shader_image_size GL_ARB_shader_storage_buffer_object GL_ARB_texture_query_levels GL_ARB_texture_storage_multisample GL_ARB_texture_view GL_ARB_vertex_attrib_binding GL_KHR_debug GL_ARB_buffer_storage GL_ARB_clear_texture GL_ARB_multi_bind GL_ARB_seamless_cubemap_per_texture GL_ARB_shader_draw_parameters GL_ARB_texture_mirror_clamp_to_edge GL_ARB_vertex_type_10f_11f_11f_rev GL_EXT_shader_integer_mix GL_INTEL_performance_query GL_ARB_clip_control GL_ARB_conditional_render_inverted GL_ARB_derivative_control GL_ARB_get_texture_sub_image GL_ARB_pipeline_statistics_query GL_ARB_shader_texture_image_samples GL_ARB_texture_barrier GL_EXT_polygon_offset_clamp GL_KHR_context_flush_control GL_ARB_shader_clock GL_EXT_shader_samples_identical 
+GLX Extensions: GLX_ARB_create_context GLX_ARB_create_context_profile GLX_ARB_create_context_robustness GLX_ARB_fbconfig_float GLX_ARB_framebuffer_sRGB GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_import_context GLX_EXT_visual_info GLX_EXT_visual_rating GLX_EXT_fbconfig_packed_float GLX_EXT_framebuffer_sRGB GLX_EXT_create_context_es2_profile GLX_EXT_create_context_es_profile GLX_MESA_copy_sub_buffer GLX_MESA_multithread_makecurrent GLX_MESA_query_renderer GLX_MESA_swap_control GLX_OML_swap_method GLX_OML_sync_control GLX_SGI_make_current_read GLX_SGI_swap_control GLX_SGI_video_sync GLX_SGIS_multisample GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGIX_visual_select_group GLX_EXT_texture_from_pixmap GLX_INTEL_swap_event 
+Setting maxVSyncInterval to 4
+GL: Detected 1536 MB VRAM
+Begin MonoManager ReloadAssembly
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEngine.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEditor.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.Locator.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.DataContract.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/System.Core.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.IvyParser.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/System.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/System.Xml.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/System.Configuration.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/PackageManager/Unity/PackageManager/5.3.1/Unity.PackageManager.dll (this message is harmless)
+Initializing Unity.PackageManager (PackageManager) v5.3.1 for Unity v5.3.1f1
+Setting Android v5.3.1 for Unity v5.3.1f1 to /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer
+Setting StandaloneLinux v5.3.1 for Unity v5.3.1f1 to /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport
+Setting StandaloneOSXIntel v5.3.1 for Unity v5.3.1f1 to /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport
+Setting SamsungTV v5.3.1 for Unity v5.3.1f1 to /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer
+Setting Tizen v5.3.1 for Unity v5.3.1f1 to /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer
+Setting WebGL v5.3.1 for Unity v5.3.1f1 to /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport
+Setting StandaloneWindows v5.3.1 for Unity v5.3.1f1 to /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+Setting Advertisements v5.3.1 for Unity v5.3.1f1 to /opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements
+  UnityEngine.Advertisements.dll (Extension) GUID: 739bbd9f364b4268874f9fd86ab3beef
+  Editor/UnityEditor.Advertisements.dll (Extension) GUID: 97decbdab0634cdd991f8d23ddf0dead
+Setting EditorTestsRunner v5.3.1 for Unity v5.3.1f1 to /opt/Unity/Editor/Data/UnityExtensions/Unity/EditorTestsRunner
+  Editor/nunit.framework.dll (Extension) GUID: 7cbab2be89b54486bbd23a6fe637d30e
+  Editor/UnityEditor.EditorTestsRunner.dll (Extension) GUID: 3c0ad459c1534645b5d603b7cc258f97
+Setting GUISystem v5.3.1 for Unity v5.3.1f1 to /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem
+  UnityEngine.UI.dll (Extension) GUID: f5f67c52d1564df4a8936ccd202a3bd8
+  Editor/UnityEditor.UI.dll (Extension) GUID: 80a3616ca19596e4da0f10f14d241e9f
+Setting UNetHLAPI v5.3.1 for Unity v5.3.1f1 to /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking
+  UnityEngine.Networking.dll (Extension) GUID: 870353891bb340e2b2a9c8707e7419ba
+  Editor/UnityEditor.Networking.dll (Extension) GUID: 5f32cd94baa94578a686d4b9d6b660f7
+Setting TreeEditor v5.3.1 for Unity v5.3.1f1 to /opt/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor
+  Editor/UnityEditor.TreeEditor.dll (Extension) GUID: adebbd281f1a4ef3a30be7f21937e02f
+Setting UnityAnalytics v5.3.1 for Unity v5.3.1f1 to /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics
+  UnityEngine.Analytics.dll (Extension) GUID: 852E56802EB941638ACBB491814497B0
+Setting UnityPurchasing v5.3.1 for Unity v5.3.1f1 to /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing
+  UnityEngine.Purchasing.dll (Extension) GUID: 8E0CD8ED44D4412CBE0642067ABC9E44
+Registering custom dll's ...
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/UnityEditor.Tizen.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/UnityEditor.SamsungTV.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.031286 seconds.
+Non platform assembly: /home/benny/Uni/Bergretter/Library/ScriptAssemblies/Assembly-CSharp.dll (this message is harmless)
+Loading /home/benny/Uni/Bergretter/Library/ScriptAssemblies/Assembly-CSharp.dll into Unity Child Domain
+Non platform assembly: /home/benny/Uni/Bergretter/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll (this message is harmless)
+Loading /home/benny/Uni/Bergretter/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll into Unity Child Domain
+Non platform assembly: /home/benny/Uni/Bergretter/Library/ScriptAssemblies/Assembly-UnityScript-Editor-firstpass.dll (this message is harmless)
+Loading /home/benny/Uni/Bergretter/Library/ScriptAssemblies/Assembly-UnityScript-Editor-firstpass.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PackageManager/Unity/PackageManager/5.3.1/Unity.PackageManager.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PackageManager/Unity/PackageManager/5.3.1/Unity.PackageManager.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll into Unity Child Domain
+Non platform assembly: /home/benny/Uni/Bergretter/Assets/Vuforia/Scripts/Internal/Vuforia.UnityExtensions.dll (this message is harmless)
+Loading /home/benny/Uni/Bergretter/Assets/Vuforia/Scripts/Internal/Vuforia.UnityExtensions.dll into Unity Child Domain
+Non platform assembly: /home/benny/Uni/Bergretter/Assets/Vuforia/Editor/Scripts/Vuforia.UnityExtensions.Editor.dll (this message is harmless)
+Loading /home/benny/Uni/Bergretter/Assets/Vuforia/Editor/Scripts/Vuforia.UnityExtensions.Editor.dll into Unity Child Domain
+Non platform assembly: /home/benny/Uni/Bergretter/Assets/LitJSON/LitJson.dll (this message is harmless)
+Loading /home/benny/Uni/Bergretter/Assets/LitJSON/LitJson.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/UnityEditor.Tizen.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/UnityEditor.Tizen.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/UnityEditor.SamsungTV.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/UnityEditor.SamsungTV.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/Managed/nunit.core.interfaces.dll (this message is harmless)
+Refreshing native plugins compatible for Editor in 62.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Platform assembly: /opt/Unity/Editor/Data/Managed/Mono.Cecil.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/UnityScript.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.SerializationLogic.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/ICSharpCode.NRefactory.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/System.Xml.Linq.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/nunit.core.dll (this message is harmless)
+Mono: successfully reloaded assembly
+- Completed reload, in  0.814 seconds
+Registering platform support modules:
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.Compiler.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.Parser.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/UnityScript.Lang.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Mono.Security.dll (this message is harmless)
+Registered platform support modules in: 0.1277029s.
+Native extension for OSXStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Native extension for SamsungTV target not found
+Native extension for Tizen target not found
+Native extension for Android target not found
+Downloading http://update.unity3d.com/5.3/ivy.xml to /tmp/unity/99181b16-42da-4205-82c4-1632918a6904/ivy.xml
+Validating Project structure ... Task failed: Verifier Task
+0.165821 seconds.
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.066063 seconds
+Updating Library/BuildPlayer.prefs - GUID: 00000000000000005000000000000000...
+ done. [Time: 62.251003 ms] 
+Refreshing native plugins compatible for Editor in 13.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+
+----- Total AssetImport time: 0.147930s, AssetImport time: 0.097002s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
+
+Warming cache for 442 main assets: 0.098550 seconds elapsed
+Initializing Unity extensions:
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll' 
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll' 
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll' 
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll' 
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll' 
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll' 
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll' 
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll' 
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' 
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll' 
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' 
+Unloading 177 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 23.3 MB.
+System memory in use after: 23.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2841.
+Total: 3.261000 ms (FindLiveObjects: 0.232000 ms CreateObjectMapping: 0.124000 ms MarkObjects: 2.786000 ms  DeleteObjects: 0.119000 ms)
+
+Load scene 'Assets/Bergretter/Scenes/AR.unity' time: 381.774994 ms 
+Using libudev for joystick management
+
+
+Importing game controller configs
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.005679 seconds (Nothing changed)
+Launched and connected shader compiler UnityShaderCompiler after 0.010000 seconds
+Issue TrimJob to reduce GI Cache size to maximum 10GB at: '/home/benny/.cache/unity3d/GiCache'
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 7fe1d36aa700 -> priority: 1 
+Setting platform to 'Editor' for plugin: Assets/Plugins/VuforiaWrapper.bundle
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Vuforia.EditorClasses.ExtensionImport:UpdatePluginSettings() (at Assets/Vuforia/Editor/Scripts/ExtensionImport.cs:43)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions() (at /home/builduser/buildslave/unity/build/artifacts/generated/common/editor/EditorApplicationBindings.gen.cs:217)
+ 
+(Filename: Assets/Vuforia/Editor/Scripts/ExtensionImport.cs Line: 43)
+
+TrimDiskCacheJob: Current cache size 0mb
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.007058 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.006822 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.006057 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.008762 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.006950 seconds (Nothing changed)
+Updating ProjectSettings/ProjectSettings.asset - GUID: 00000000000000004000000000000000...
+ done. [Time: 11.267000 ms] 
+Updating ProjectSettings/GraphicsSettings.asset - GUID: 00000000000000006100000000000000...
+ done. [Time: 11.250999 ms] 
+Refreshing native plugins compatible for Editor in 11.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+
+----- Total AssetImport time: 0.090871s, AssetImport time: 0.042221s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
+
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.037326 seconds
+Updating Library/BuildPlayer.prefs - GUID: 00000000000000005000000000000000...
+ done. [Time: 10.784000 ms] 
+Refreshing native plugins compatible for Editor in 11.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+
+----- Total AssetImport time: 0.090307s, AssetImport time: 0.043738s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
+
+Cleanup mono
+debugger-agent: Unable to listen on 7
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/UsbDevices.cpp:UsbDevicesQuery
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/UndoPlatformDependent.cpp:SetUndoMenuNamePlatformDependent
+process_set_termination_details: error looking up process handle 0x401

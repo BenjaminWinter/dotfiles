@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=conky
+GenericName=desktop information script
+Comment=shows useful Data on the Desktop
+Exec=/usr/bin/conky
+Terminal=false
+Type=Application
+X-GNOME-Autostart-enabled=true

@@ -1,0 +1,72 @@
+{
+    "lastKnownKeybindings": {
+        "workbench.action.files.newUntitledFile": "Ctrl+N",
+        "workbench.action.files.openFile": "Ctrl+O",
+        "workbench.action.files.save": "Ctrl+S",
+        "workbench.action.files.saveAs": "Ctrl+Shift+S",
+        "workbench.action.newWindow": "Ctrl+Shift+N",
+        "workbench.action.closeWindow": "Ctrl+Shift+W",
+        "workbench.action.closeActiveEditor": "Ctrl+W",
+        "undo": "Ctrl+Z",
+        "redo": "Ctrl+Y",
+        "editor.action.clipboardCutAction": "Ctrl+X",
+        "editor.action.clipboardCopyAction": "Ctrl+C",
+        "editor.action.clipboardPasteAction": "Ctrl+V",
+        "editor.action.selectAll": "Ctrl+A",
+        "actions.find": "Ctrl+F",
+        "editor.action.startFindReplaceAction": "Ctrl+H",
+        "workbench.view.search": "Ctrl+Shift+F",
+        "workbench.view.explorer": "Ctrl+Shift+E",
+        "workbench.view.git": "Ctrl+Shift+G",
+        "workbench.view.debug": "Ctrl+Shift+D",
+        "workbench.action.showCommands": "Ctrl+Shift+P",
+        "workbench.action.showErrorsWarnings": "Ctrl+Shift+M",
+        "workbench.action.output.toggleOutput": "Ctrl+Shift+H",
+        "workbench.debug.action.toggleRepl": "Ctrl+Shift+Y",
+        "workbench.action.toggleFullScreen": "F11",
+        "workbench.action.toggleSidebarVisibility": "Ctrl+B",
+        "workbench.action.togglePanel": "Ctrl+J",
+        "editor.action.toggleWordWrap": "Alt+Z",
+        "workbench.action.openPreviousEditor": "Ctrl+Tab",
+        "workbench.action.quickOpen": "Ctrl+P",
+        "workbench.action.gotoSymbol": "Ctrl+Shift+O",
+        "editor.action.goToDeclaration": "F12",
+        "workbench.action.gotoLine": "Ctrl+G"
+    },
+    "pickerWorkingDir": "/home/benny/Uni",
+    "openedPathsList": {
+        "folders": [
+            "/home/benny/Uni/Bergretter",
+            "/home/benny/programming/leaftech_webapp",
+            "/home/benny/Uni/Bergretter/Assets",
+            "/home/benny/Uni/Bergretter/Assets/Bergretter",
+            "/home/benny/Uni/Bergretter/Assets/Bergretter/Scripts"
+        ],
+        "files": [
+            "/home/benny/Uni/Bergretter/\"/home/benny/Uni/Bergretter/Assets/Bergretter/Scripts/Character.cs\"",
+            "/home/benny/Uni/Bergretter/\"/home/benny/Uni/Bergretter/Assets/Common/CameraSettings.cs\"",
+            "/home/benny/Uni/Bergretter/\"\"",
+            "/home/benny/Uni/Bergretter/\"/home/benny/Uni/Bergretter/Assets/Bergretter/Scripts/Testing/FlyCamera.cs\"",
+            "/home/benny/Uni/Bergretter/\"/home/benny/Uni/Bergretter/Assets/Bergretter/Scripts/Generic/Placer.cs\"",
+            "/home/benny/Uni/Bergretter/\"/home/benny/Uni/Bergretter/Assets/Bergretter/Scripts/ChallengePointHandler.cs\"",
+            "/home/benny/.config/Code/User/snippets/javascript.json",
+            "/home/benny/Uni/Bergretter/\"/home/benny/Uni/Bergretter/Assets/Bergretter/Scripts/ChallengeController.cs\"",
+            "/home/benny/Uni/Bergretter/Bergretter.sln",
+            "/home/benny/Uni/Bergretter/Assets/Scripts/CylinderTrackableEventHandler.cs"
+        ]
+    },
+    "theme": "vs-dark gerane-Theme-FlatlandMonokai-themes-Flatland_Monokai-tmTheme",
+    "windowsState": {
+        "openedFolders": [],
+        "lastActiveWindow": {
+            "workspacePath": "/home/benny/Uni/Bergretter",
+            "uiState": {
+                "mode": 1,
+                "x": 0,
+                "y": 18,
+                "width": 1366,
+                "height": 729
+            }
+        }
+    }
+}

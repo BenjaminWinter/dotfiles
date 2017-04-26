@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+			<?xml-stylesheet type='text/xsl' href='interface.xsl'?>
+			<interface xmlns="http://zero-install.sourceforge.net/2004/injector/interface">
+				<name>gnome-shell.xml</name>
+				<summary>gnome-shell.xml plugin collection for benny</summary>
+				<description>
+				</description>
+
+				<group>
+					<command name="run">
+						<runner interface="http://gfxmonk.net/dist/0install/gnome-shell.xml" command="run"/>
+					</command>
+					
+					<implementation id="." version="1.0"/>
+				</group>
+			</interface>
+
+			

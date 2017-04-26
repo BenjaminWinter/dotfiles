@@ -1,0 +1,68 @@
+"*":
+  "Remote-FTP":
+    enableTransferNotifications: true
+    showViewOnStartup: false
+  "atom-autocomplete-php":
+    binComposer: "/usr/bin/composer"
+  "atom-beautify":
+    general:
+      _analyticsUserId: "5e5b7a74-01aa-48ae-8984-c6811ae30948"
+    js: {}
+  "atom-material-ui":
+    colors:
+      abaseColor: "#607d8b"
+      genAccent: true
+      predefinedColor: "Blue Grey"
+    tabs:
+      compactTabs: true
+      noTabMinWidth: true
+    treeView:
+      compactList: true
+    ui:
+      panelContrast: true
+      panelShadows: true
+  core:
+    audioBeep: false
+    disabledPackages: [
+      "react"
+      "linter"
+    ]
+    openEmptyEditorOnStart: false
+    projectHome: "/home/benny/programming"
+    telemetryConsent: "limited"
+    themes: [
+      "atom-material-ui"
+      "base16-tomorrow-dark-theme"
+    ]
+  editor:
+    fontFamily: "Fira Code"
+    fontSize: 15
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "72dedbac-2994-2e15-6108-3c26c3d8e355"
+  "language-babel": {}
+  "linter-ui-default":
+    showPanel: true
+  "tree-view":
+    autoReveal: true
+    focusOnReveal: false
+    hideVcsIgnoredFiles: false
+  welcome:
+    showOnStartup: false
+  zentabs:
+    maximumOpenedTabs: 8
+".babel.regexp.source":
+  editor:
+    autoIndent: false
+    autoIndentOnPaste: false
+".css.source.styled":
+  editor:
+    autoIndent: false
+    autoIndentOnPaste: false
+".js.jsx.source":
+  editor:
+    autoIndentOnPaste: false
+".languagebabel.ttlextension":
+  editor:
+    autoIndent: false
+    autoIndentOnPaste: false

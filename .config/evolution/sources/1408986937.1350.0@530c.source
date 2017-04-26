@@ -1,0 +1,25 @@
+[Data Source]
+DisplayName=ragingpixels5@googlemail.com
+Enabled=true
+Parent=
+
+[GNOME Online Accounts]
+AccountId=account_1408986937_0
+CalendarUrl=https://apidata.googleusercontent.com/caldav/v2/ragingpixels5@googlemail.com/user
+ContactsUrl=https://www.googleapis.com/.well-known/carddav
+
+[Collection]
+BackendName=google
+CalendarEnabled=true
+ContactsEnabled=true
+Identity=ragingpixels5@googlemail.com
+MailEnabled=true
+
+[Authentication]
+Host=
+Method=OAuth2
+Port=0
+ProxyUid=system-proxy
+RememberPassword=true
+User=
+CredentialName=
