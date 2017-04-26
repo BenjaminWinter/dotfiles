@@ -1,4 +1,5 @@
 0
+/home/benny/Pictures/wallpaper/andromeda.png
 /home/benny/Pictures/wallpaper/Citadel.png
 /home/benny/Pictures/wallpaper/launch.png
 /home/benny/Pictures/wallpaper/n7simple.jpg
@@ -98,4 +99,3 @@
 /home/benny/Pictures/wallpaper/band-of-brothers.png
 /home/benny/Pictures/wallpaper/Citadel.png
 /home/benny/Pictures/wallpaper/hills.png
-/home/benny/Pictures/wallpaper/n7.png

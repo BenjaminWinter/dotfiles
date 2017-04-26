@@ -205,3 +205,8 @@ INFO: 2017-04-26 15:54:57,903: set_wallpaper() 'Calling set_wallpaper with /home
 INFO: 2017-04-26 15:54:57,903: prepare_thread() 'Prepared buffer contains 14 images'
 INFO: 2017-04-26 15:54:57,904: do_set_wp() 'Calling do_set_wp with /home/benny/Pictures/wallpaper/Citadel.png, time: 1493214897.9'
 INFO: 2017-04-26 15:54:57,927: update_indicator() 'Setting file info to: /home/benny/Pictures/wallpaper/Citadel.png'
+INFO: 2017-04-26 16:14:58,170: regular_change_thread() 'regular_change changes wallpaper'
+INFO: 2017-04-26 16:14:58,171: set_wallpaper() 'Calling set_wallpaper with /home/benny/Pictures/wallpaper/andromeda.png'
+INFO: 2017-04-26 16:14:58,172: prepare_thread() 'Prepared buffer contains 13 images'
+INFO: 2017-04-26 16:14:58,173: do_set_wp() 'Calling do_set_wp with /home/benny/Pictures/wallpaper/andromeda.png, time: 1493216098.17'
+INFO: 2017-04-26 16:14:58,194: update_indicator() 'Setting file info to: /home/benny/Pictures/wallpaper/andromeda.png'
