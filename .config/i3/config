@@ -203,6 +203,7 @@ bindsym Mod4+i exec --no-startup-id icedove
 bindsym Mod4+y exec --no-startup-id Skype
 bindsym Mod4+p exec --no-startup-id flameshot
 bindsym Mod4+c exec --no-startup-id terminator --command=calcurse
+bindsym Mod1+F2 exec --no-startup-id scrlayoutselect
 
 
 #shutdown/restart
@@ -225,6 +226,15 @@ client.focused #666666 #666666 #FFFFFF #FFFFFF
 client.focused_inactive #31353D #31353D #888888 #FFFFFF
 client.unfocused #333333 #333333 #888888 #FFFFFF
 client.urgent #C20000 #C20000 #FFFFFF #FFFFFF
+
+
+# workspaces
+workspace 1 output eDP1
+workspace 2 output DP1
+workspace 2 output DP2
+workspace 2 output HDMI1
+workspace 2 output HDMI2
+
 
 hide_edge_borders smart
 new_window pixel 0
