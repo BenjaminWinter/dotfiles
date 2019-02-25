@@ -10,10 +10,14 @@ Organization=
 ReplyTo=
 SignatureUid=none
 
+Aliases=
+
 [Mail Submission]
 SentFolder=folder://local/Sent
 TransportUid=1408986937.1350.3@530c
 RepliesToOriginFolder=false
+
+UseSentFolder=true
 
 [Mail Composition]
 Bcc=
@@ -21,3 +25,6 @@ Cc=
 DraftsFolder=folder://local/Drafts
 SignImip=true
 TemplatesFolder=
+ReplyStyle=default
+StartBottom=inconsistent
+TopSignature=inconsistent

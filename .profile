@@ -20,3 +20,6 @@ fi
 if [ -d "$HOME/bin" ] ; then
     PATH="$HOME/bin:$PATH"
 fi
+
+export TERMINAL=terminator
+. /home/benny/work/programming/lua/distro/install/bin/torch-activate

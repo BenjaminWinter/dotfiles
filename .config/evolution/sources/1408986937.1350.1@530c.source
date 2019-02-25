@@ -22,6 +22,8 @@ IdentityUid=1408986937.1350.2@530c
 
 ArchiveFolder=
 
+NeedsInitialSetup=false
+
 [Security]
 Method=ssl-on-alternate-port
 
@@ -49,3 +51,7 @@ UseSubscriptions=false
 IgnoreOtherUsersNamespace=false
 IgnoreSharedFoldersNamespace=false
 StoreChangesInterval=3
+LimitByAge=false
+LimitUnit=years
+LimitValue=1
+UseMultiFetch=false

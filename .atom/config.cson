@@ -7,10 +7,20 @@
   "atom-beautify":
     general:
       _analyticsUserId: "5e5b7a74-01aa-48ae-8984-c6811ae30948"
-    js: {}
+    js:
+      end_with_newline: true
+      indent_char: "  "
+      indent_level: 1
+      indent_size: 2
+    typescript:
+      end_with_newline: true
+      indent_size: 2
+  "atom-ctags":
+    autoBuildTagsWhenActive: true
   "atom-material-ui":
     colors:
       abaseColor: "#607d8b"
+      accentColor: "#b27252"
       genAccent: true
       predefinedColor: "Blue Grey"
     tabs:
@@ -21,11 +31,28 @@
     ui:
       panelContrast: true
       panelShadows: true
+  "atom-package-deps":
+    ignored: []
   core:
     audioBeep: false
     disabledPackages: [
       "react"
       "linter"
+      "symbols-view"
+      "atom-ctags"
+      "autocomplete-ctags"
+      "atom-autocomplete-php"
+    ]
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      "desktop.ini"
+      "public"
+      "resources"
     ]
     openEmptyEditorOnStart: false
     projectHome: "/home/benny/programming"
@@ -36,8 +63,8 @@
     ]
   editor:
     fontFamily: "Fira Code"
-    fontSize: 15
     showIndentGuide: true
+    softWrap: true
   "exception-reporting":
     userId: "72dedbac-2994-2e15-6108-3c26c3d8e355"
   "language-babel": {}
@@ -55,6 +82,10 @@
   editor:
     autoIndent: false
     autoIndentOnPaste: false
+".blade.html.php.text":
+  editor:
+    commentEnd: " --}}"
+    commentStart: "{{-- "
 ".css.source.styled":
   editor:
     autoIndent: false

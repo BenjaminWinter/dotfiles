@@ -8,9 +8,9 @@
         <property name="color1" type="empty"/>
         <property name="color2" type="empty"/>
         <property name="color-style" type="empty"/>
-        <property name="image-path" type="string" value="/home/benny/Pictures/wallpaper/andromeda.png"/>
+        <property name="image-path" type="string" value="/home/benny/Pictures/wallpaper/wallhaven-648682.png"/>
         <property name="image-show" type="empty"/>
-        <property name="last-image" type="string" value="/home/benny/Pictures/wallpaper/andromeda.png"/>
+        <property name="last-image" type="string" value="/home/benny/Pictures/wallpaper/wallhaven-648682.png"/>
         <property name="last-single-image" type="empty"/>
       </property>
       <property name="monitor1" type="empty">
@@ -18,9 +18,9 @@
         <property name="color1" type="empty"/>
         <property name="color2" type="empty"/>
         <property name="color-style" type="empty"/>
-        <property name="image-path" type="string" value="/home/benny/Pictures/wallpaper/andromeda.png"/>
+        <property name="image-path" type="string" value="/home/benny/Pictures/wallpaper/wallhaven-648682.png"/>
         <property name="image-show" type="empty"/>
-        <property name="last-image" type="string" value="/home/benny/Pictures/wallpaper/andromeda.png"/>
+        <property name="last-image" type="string" value="/home/benny/Pictures/wallpaper/wallhaven-648682.png"/>
         <property name="last-single-image" type="empty"/>
       </property>
     </property>

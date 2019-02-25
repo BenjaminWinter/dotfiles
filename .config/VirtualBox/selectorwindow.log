@@ -1,17 +1,29 @@
-VirtualBox GUI VM Selector Window 5.1.10_Debian r112026 linux.amd64 (Nov 22 2016 10:03:17) release log
-00:00:00.594946 Log opened 2016-12-13T08:32:03.594080000Z
-00:00:00.594947 Build Type: release
-00:00:00.594950 OS Product: Linux
-00:00:00.594951 OS Release: 4.8.0-1-amd64
-00:00:00.594952 OS Version: #1 SMP Debian 4.8.7-1 (2016-11-13)
-00:00:00.594972 DMI Product Name: 33666ZG
-00:00:00.594979 DMI Product Version: ThinkPad Edge E530c
-00:00:00.595020 Host RAM: 3536MB (3.4GB) total, 784MB available
-00:00:00.595023 Executable: /usr/lib/virtualbox/VirtualBox
-00:00:00.595024 Process ID: 17508
-00:00:00.595025 Package type: LINUX_64BITS_GENERIC (OSE)
-00:00:00.595050 Qt version: 5.7.1
-00:00:00.634805 GUI: UIMediumEnumerator: Medium-enumeration started...
-00:00:00.806483 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:00:00.812662 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 456x0 x 455x749
-00:00:25.812495 GUI: UIMediumEnumerator: Medium-enumeration finished!
+VirtualBox GUI VM Selector Window 5.1.26_Debian r117224 linux.amd64 (Aug  7 2017 10:09:45) release log
+00:00:00.283514 Log opened 2017-09-01T09:27:52.411223000Z
+00:00:00.283517 Build Type: release
+00:00:00.283521 OS Product: Linux
+00:00:00.283523 OS Release: 4.12.0-1-amd64
+00:00:00.283525 OS Version: #1 SMP Debian 4.12.6-1 (2017-08-12)
+00:00:00.283558 DMI Product Name: XPS 15 9560
+00:00:00.283570 DMI Product Version: 
+00:00:00.283650 Host RAM: 15777MB (15.4GB) total, 11096MB (10.8GB) available
+00:00:00.283658 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.283660 Process ID: 5586
+00:00:00.283662 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.283703 Qt version: 5.7.1
+00:00:00.316604 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.417013 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 20x20 x 930x1010
+00:01:34.540976 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:49.130516 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:01:49.239928 2D support test succeeded
+00:01:49.290331 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:31.314802 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:31.344391 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:31.371858 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:31.400379 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:31.458355 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:05:07.900790 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:06:52.904575 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:09:32.163636 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:10:57.348321 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:14.107942 GUI: UIMediumEnumerator: Medium-enumeration finished!

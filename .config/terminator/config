@@ -1,18 +1,35 @@
 [global_config]
-  enabled_plugins = LaunchpadCodeURLHandler, APTURLHandler, LaunchpadBugURLHandler
-  suppress_multiple_term_dialog = True
-  title_inactive_bg_color = "#000000"
   title_transmit_bg_color = "#000000"
+  title_inactive_bg_color = "#000000"
+  enabled_plugins = CustomCommandsMenu, LaunchpadBugURLHandler, LaunchpadCodeURLHandler, APTURLHandler
+  suppress_multiple_term_dialog = True
 [keybindings]
-  close_term = <Shift><Alt>q
+  go_up = <Alt>i
   go_down = <Alt>k
   go_left = <Alt>j
   go_right = <Alt>l
-  go_up = <Alt>i
-  hide_window = <Shift><Control>a
   split_horiz = <Alt>h
   split_vert = <Alt>v
+  close_term = <Shift><Alt>q
   toggle_zoom = <Alt>f
+  hide_window = <Primary><Alt>udiaeresis
+  new_terminator = <Shift><Alt>t
+[profiles]
+  [[default]]
+    allow_bold = False
+    icon_bell = False
+    background_color = "#1d1f21"
+    background_darkness = 0.21
+    color_scheme = custom
+    cursor_color = "#f4f8f4"
+    font = Droid Sans Mono 11
+    foreground_color = "#c5c8c6"
+    show_titlebar = False
+    scrollbar_position = hidden
+    scrollback_lines = 5000
+    scrollback_infinite = True
+    palette = "#282a2e:#a54242:#8c9440:#de935f:#4d8cec:#85678f:#5e8d87:#707880:#373b41:#cc6666:#b5bd68:#f0c674:#81a2be:#b294bb:#8abeb7:#c5c8c6"
+    use_system_font = False
 [layouts]
   [[default]]
     [[[child1]]]
@@ -65,19 +82,3 @@
       profile = default
       type = Terminal
 [plugins]
-[profiles]
-  [[default]]
-    allow_bold = False
-    background_color = "#1d1f21"
-    background_darkness = 0.21
-    color_scheme = custom
-    cursor_color = "#f4f8f4"
-    font = Droid Sans Mono 11
-    foreground_color = "#c5c8c6"
-    icon_bell = False
-    palette = "#282a2e:#a54242:#8c9440:#de935f:#4d8cec:#85678f:#5e8d87:#707880:#373b41:#cc6666:#b5bd68:#f0c674:#81a2be:#b294bb:#8abeb7:#c5c8c6"
-    scrollback_infinite = True
-    scrollback_lines = 5000
-    scrollbar_position = hidden
-    show_titlebar = False
-    use_system_font = False

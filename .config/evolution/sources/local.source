@@ -79,6 +79,11 @@ Parent=
 BackendName=maildir
 IdentityUid=self
 
+ArchiveFolder=
+NeedsInitialSetup=false
+
 [Maildir Backend]
 FilterInbox=true
 Path=/home/benny/.local/share/evolution/mail/local
+FilterAll=false
+FilterJunk=true

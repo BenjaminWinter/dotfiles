@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<FileZilla3 version="3.28.0" platform="*nix">
+	<Filter>
+		<Name />
+		<ApplyToFiles>1</ApplyToFiles>
+		<ApplyToDirs>0</ApplyToDirs>
+		<MatchType>All</MatchType>
+		<MatchCase>0</MatchCase>
+		<Conditions>
+			<Condition>
+				<Type>0</Type>
+				<Condition>2</Condition>
+				<Value>bg3</Value>
+			</Condition>
+		</Conditions>
+	</Filter>
+</FileZilla3>

@@ -53,5 +53,8 @@ Parent=
 BackendName=vfolder
 IdentityUid=self
 
+ArchiveFolder=
+NeedsInitialSetup=false
+
 [Vfolder Backend]
 FilterInbox=true

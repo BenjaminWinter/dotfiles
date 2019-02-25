@@ -28,13 +28,22 @@
 # Each block command defaults to the script name to avoid boilerplate.
 command=/usr/local/libexec/i3blocks/$BLOCK_NAME
 markup=none
-separator=false
-separator_block_width=15
+separator=true
+separator_block_width=30
 border_top=0
 border_left=0
 border_right=0
-border_bottom=2
-border=#8ce6ff
+border_bottom=0
+border=#cccccc
+
+# Disk indicator for home directory
+#
+#
+#
+#
+[disk]
+label=
+interval=10
 
 [bandwidth]
 #instance=eth0
@@ -46,8 +55,8 @@ interval=2
 # The second parameter overrides the mixer selection
 # See the script for details.
 [volume]
-#label=♪
-label=
+label=♪
+#label=
 instance=Master
 #instance=PCM
 interval=5

@@ -1,4 +1,0 @@
-(2){"type":"deviceInfo","make":"LinuxEditor","model":"PC","processor_type":"Intel(R) Core(TM) i3-3110M CPU @ 2.40GHz","system_memory_size":"3537","engine_ver":"5.4.0b13","app_ver":"1.0","app_name":"com.Company.ProductName","app_install_mode":"editor","debug_build":true,"license_type":"personal","os_ver":"Linux 4.4 Debian testing 64bit","deviceid":"60b917efcf5747a4b42650f9206ed870","ts":1460105677443,"changed":["engine_ver","app_ver","debug_build","os_ver"]}
-{"type":"custom","name":"unity.sceneLoad","ts":1460105675906,"custom_params":{"level_name":"Galaxy","level_num":0,"total_levels":1}}
-{"type":"custom","name":"unity.sceneLoad","ts":1460105677530,"custom_params":{"level_name":"Galaxy","level_num":-1,"total_levels":1}}
-{"type":"appRunning","duration":1,"ts":1460105677575}
