@@ -125,35 +125,35 @@ export PATH=/opt/pycharm/bin:$PATH
 export PATH=/home/benny/.local/bin:$PATH
 export PATH=/home/benny/.scripts:$PATH
 export PATH=/home/benny/.screenlayout:$PATH
+export PATH="/home/benny/anaconda3/bin:$PATH"
 
+export NVM_DIR="/home/benny/.nvm"
+
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib
 
 export CLASSPATH=".:/usr/local/lib/antlr-4.5-complete.jar:$CLASSPATH"
 export JAVA_HOME=/usr/lib/jvm/java-8-oracle
 
 alias dupgrade="sudo apt-get update && sudo apt-get dist-upgrade"
-alias meclipse="/opt/eclipse/eclipse"
-alias antlr4='java -Xmx500M -cp "/usr/local/lib/antlr-4.5-complete.jar:$CLASSPATH" org.antlr.v4.Tool'
-alias grun='java org.antlr.v4.runtime.misc.TestRig'
-alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
-#alias mvhdmi='i3-msg move workspace to output HDMI1'
-#alias mvedp='i3-msg move workspace to output eDP1'
 alias m='micro'
 alias tssh='ssh -L 6007:localhost:6007 bwinter@p100'
 alias pssh='ssh bwinter@p100'
 alias kssh='ssh bwinter@k80'
 alias c6ssh='ssh -XC benny@cg6'
 alias t='terminator'
+alias bvpn='sudo openfortivpn sslvpn.beuth-hochschule.de:443'
+alias kubefw='kubectl port-forward ssh 4444:22'
 #syndaemon -i 0.3 -d
 
-export NVM_DIR="/home/benny/.nvm"
+
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
 
 . /usr/share/powerline/bindings/bash/powerline.sh
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
-export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib
+
 
 # added by Anaconda3 installer
-export PATH="/home/benny/anaconda3/bin:$PATH"
+
 
 
 . /home/benny/work/programming/lua/distro/install/bin/torch-activate

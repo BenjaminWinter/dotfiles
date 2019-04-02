@@ -174,23 +174,24 @@ bindsym Mod1+r mode "resize"
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
 bar {
+  position top
   output eDP1
   output e-DP1
   output eDP-1
   height 30
   i3bar_command i3bar -t
   status_command i3blocks
-  tray_output primary
+  tray_output none
   font pango:Ubuntu Bold 11
   #workspace_buttons no
   colors {
     separator #555555
     background #00000060
     statusline #FFFFFF
-    focused_workspace #666666 #666666 #FFFFFF
-    active_workspace #333333 #333333 #FFFFFF
-    inactive_workspace #333333 #333333 #888888
-    urgent_workspace #C20000 #C20000 #FFFFFF
+    focused_workspace #666666cc #666666cc #FFFFFF
+    active_workspace #333333cc #333333cc #FFFFFF
+    inactive_workspace #333333cc #333333cc #888888
+    urgent_workspace #C20000cc #C20000cc #FFFFFFcc
   }
 }
 
@@ -207,16 +208,15 @@ bindsym Mod1+F2 exec --no-startup-id scrlayoutselect
 
 
 #shutdown/restart
-bindsym Mod4+x exec systemctl poweroff
-bindsym Shift+Mod4+x exec systemctl reboot
+bindsym Mod4+x exec prompt "Do you want to shutdown?" "systemctl poweroff"
+bindsym Shift+Mod4+x exec prompt "Do you want to reboot" "systemctl reboot"
 
 
 # autostart
-#exec --no-startup-id nitrogen --restore
 exec --no-startup-id synclient HorizTwoFingerScroll=1 TapButton1=1 TapButton2=3 TapButton3=2 VertScrollDelta=-50
 exec --no-startup-id variety
 #exec --no-startup-id dunst
-exec --no-startup-id nm-applet
+#exec --no-startup-id nm-applet
 exec --no-startup-id pasystray
 exec --no-startup-id compton -b --config /home/benny/.compton/sample.conf
 
@@ -231,9 +231,14 @@ client.urgent #C20000 #C20000 #FFFFFF #FFFFFF
 # workspaces
 workspace 1 output eDP1
 workspace 2 output DP1
+workspace 2 output DP1-1
 workspace 2 output DP2
 workspace 2 output HDMI1
 workspace 2 output HDMI2
+
+# windows
+for_window[class="Pavucontrol"] floating enable
+for_window[class="Wicd-client.py"] floating enable
 
 
 hide_edge_borders smart
