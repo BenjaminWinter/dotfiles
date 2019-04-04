@@ -17,13 +17,13 @@ if [ -z "$extracthere" ]; then
 else
 	archive="$(readlink -f "$(echo "$*" | cut -d' ' -f2)")"
 fi
-
+#echo $archive
 [ "$archive" = "" ] && printf "Give archive to extract as argument.\\n" && exit
 
 if [ -f "$archive" ] ; then
 	case "$archive" in
-		*.tar.bz2|*.tar.xz|*.tbz2) tar xvjf "$archive" ;;
-		*.tar.gz|*.tgz) tar xvzf "$archive" ;;
+		*.tar.bz2|*.tar.xz|*.tbz2) tar -xvf "$archive" ;;
+		*.tar.gz|*.tgz) tar -xvf "$archive" ;;
 		*.lzma) unlzma "$archive" ;;
 		*.bz2) bunzip2 "$archive" ;;
 		*.rar) unrar x -ad "$archive" ;;

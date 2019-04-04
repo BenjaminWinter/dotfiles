@@ -1,0 +1,8 @@
+#!/bin/bash
+
+date=$(date +"%d.%m.%Y %H:%M:%S")
+
+case $BLOCK_BUTTON in
+    1) echo "$date" && terminator --command="calcurse" ;;
+    *) echo "$date" ;;
+esac
