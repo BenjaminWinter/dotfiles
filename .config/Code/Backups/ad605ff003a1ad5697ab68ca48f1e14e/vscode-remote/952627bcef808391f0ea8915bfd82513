@@ -1,0 +1,27 @@
+vscode-remote://ssh-remote%2Blocalhost/root/athnlp-labs/athnlp/exercises_code/pos-tagging-perceptron.py {"mtime":1568889986160,"size":238,"etag":"33rghs4957l","orphaned":false}
+import torch
+from torch import nn
+import nltk
+nltk.download('brown')
+
+import 
+
+
+class perceptron(nn.Module):
+    __
+
+
+def train_test(data, epochs=10, is_train=False):
+
+    pass
+
+def train_perceptron():
+    brown_data = BrownPosTag()
+
+    print(brown_data.train[0])
+
+    train_test(brown_data.train, epochs=1, is_train=True)
+    train_test(brown_data.test)
+
+if __name__ == "__main__":
+    train_perceptron()

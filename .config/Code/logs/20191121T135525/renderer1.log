@@ -1,0 +1,9 @@
+[2019-11-21 13:55:27.769] [renderer1] [error] [remote-connection] An error occurred in the very first connect attempt, it will be treated as a permanent error! Error:
+[2019-11-21 13:55:27.770] [renderer1] [error] Error
+    at e.resolveAuthority (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3589:139)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async B._scanAndHandleExtensions (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4184:200)
+    at async B._initialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3457:119)
+[2019-11-21 13:55:27.871] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-21 13:55:29.014] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-21 13:55:30.554] [renderer1] [error] An unknown error occurred. Please consult the log for more details.

@@ -1,0 +1,41 @@
+[2019-11-21 16:04:21.836] [sharedprocess] [info] main {"machineId":"8498530105912792985358a449899face5b7e370bfe941bde309d223585d35ea","windowId":2}
+[2019-11-21 16:04:22.587] [sharedprocess] [info] Deleted from disk ms-vscode-remote.remote-ssh-edit /home/benny/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.47.1
+[2019-11-21 16:04:22.598] [sharedprocess] [info] Deleted from disk zhuangtongfa.material-theme /home/benny/.vscode/extensions/zhuangtongfa.material-theme-2.28.2
+[2019-11-21 16:04:22.708] [sharedprocess] [info] Deleted from disk eamodio.gitlens /home/benny/.vscode/extensions/eamodio.gitlens-10.1.1
+[2019-11-21 16:04:22.740] [sharedprocess] [info] Deleted from disk ms-vscode-remote.remote-wsl /home/benny/.vscode/extensions/ms-vscode-remote.remote-wsl-0.39.9
+[2019-11-21 16:04:22.744] [sharedprocess] [info] Deleted from disk vscode-icons-team.vscode-icons /home/benny/.vscode/extensions/vscode-icons-team.vscode-icons-9.4.0
+[2019-11-21 16:04:22.816] [sharedprocess] [info] Deleted from disk davidanson.vscode-markdownlint /home/benny/.vscode/extensions/davidanson.vscode-markdownlint-0.30.2
+[2019-11-21 16:04:22.828] [sharedprocess] [info] Deleted from disk ms-vscode-remote.remote-ssh /home/benny/.vscode/extensions/ms-vscode-remote.remote-ssh-0.47.1
+[2019-11-21 16:04:22.889] [sharedprocess] [info] Deleted from disk visualstudioexptteam.vscodeintellicode /home/benny/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.1.9
+[2019-11-21 16:04:22.943] [sharedprocess] [info] Deleted from disk lextudio.restructuredtext /home/benny/.vscode/extensions/lextudio.restructuredtext-114.0.0
+[2019-11-21 16:04:22.967] [sharedprocess] [info] Deleted from disk yzhang.markdown-all-in-one /home/benny/.vscode/extensions/yzhang.markdown-all-in-one-2.4.2
+[2019-11-21 16:04:22.995] [sharedprocess] [info] Deleted from disk ms-azuretools.vscode-docker /home/benny/.vscode/extensions/ms-azuretools.vscode-docker-0.8.1
+[2019-11-21 16:04:23.013] [sharedprocess] [info] Deleted from disk ms-kubernetes-tools.vscode-kubernetes-tools /home/benny/.vscode/extensions/ms-kubernetes-tools.vscode-kubernetes-tools-1.0.4
+[2019-11-21 16:04:23.020] [sharedprocess] [info] Deleted from disk ms-vscode-remote.remote-containers /home/benny/.vscode/extensions/ms-vscode-remote.remote-containers-0.81.0
+[2019-11-21 16:04:23.023] [sharedprocess] [info] Deleted from disk redhat.vscode-yaml /home/benny/.vscode/extensions/redhat.vscode-yaml-0.5.3
+[2019-11-21 16:04:23.023] [sharedprocess] [info] Deleted from disk ms-python.python /home/benny/.vscode/extensions/ms-python.python-2019.10.41019
+[2019-11-21 16:05:01.856] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-11-25 11:44:37.255] [sharedprocess] [info] Installing extension: ms-python.python
+[2019-11-25 11:44:37.257] [sharedprocess] [info] Installing extension: vscode-icons-team.vscode-icons
+[2019-11-25 11:44:37.257] [sharedprocess] [info] Installing extension: zhuangtongfa.material-theme
+[2019-11-25 11:44:37.829] [sharedprocess] [info] Downloaded extension: zhuangtongfa.material-theme /tmp/0c2c7be4-a4a0-4028-8a9c-7ada398b2830
+[2019-11-25 11:44:38.056] [sharedprocess] [info] Extracted extension to /home/benny/.vscode/extensions/.zhuangtongfa.material-theme-3.1.2: zhuangtongfa.material-theme
+[2019-11-25 11:44:38.056] [sharedprocess] [info] Renamed to /home/benny/.vscode/extensions/zhuangtongfa.material-theme-3.1.2
+[2019-11-25 11:44:38.057] [sharedprocess] [info] Installation completed. zhuangtongfa.material-theme
+[2019-11-25 11:44:38.072] [sharedprocess] [info] Extensions installed successfully: zhuangtongfa.material-theme
+[2019-11-25 11:44:38.268] [sharedprocess] [info] Downloaded extension: vscode-icons-team.vscode-icons /tmp/d8a56b5a-3bd8-44e3-b194-fe5ce4e7dce9
+[2019-11-25 11:44:39.267] [sharedprocess] [info] Extracted extension to /home/benny/.vscode/extensions/.vscode-icons-team.vscode-icons-9.6.0: vscode-icons-team.vscode-icons
+[2019-11-25 11:44:39.267] [sharedprocess] [info] Renamed to /home/benny/.vscode/extensions/vscode-icons-team.vscode-icons-9.6.0
+[2019-11-25 11:44:39.268] [sharedprocess] [info] Installation completed. vscode-icons-team.vscode-icons
+[2019-11-25 11:44:39.281] [sharedprocess] [info] Extensions installed successfully: vscode-icons-team.vscode-icons
+[2019-11-25 11:44:40.463] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/7f67201e-272d-4c47-996b-16e34aaf9b77
+[2019-11-25 11:44:42.342] [sharedprocess] [info] Extracted extension to /home/benny/.vscode/extensions/.ms-python.python-2019.11.50794: ms-python.python
+[2019-11-25 11:44:42.342] [sharedprocess] [info] Renamed to /home/benny/.vscode/extensions/ms-python.python-2019.11.50794
+[2019-11-25 11:44:42.345] [sharedprocess] [info] Installation completed. ms-python.python
+[2019-11-25 11:44:42.397] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2019-11-26 16:51:35.842] [sharedprocess] [info] Installing extension: octref.vetur
+[2019-11-26 16:51:39.335] [sharedprocess] [info] Downloaded extension: octref.vetur /tmp/9e3d6cc6-d2e3-471e-906d-2a776840b726
+[2019-11-26 16:51:46.258] [sharedprocess] [info] Extracted extension to /home/benny/.vscode/extensions/.octref.vetur-0.22.6: octref.vetur
+[2019-11-26 16:51:46.258] [sharedprocess] [info] Renamed to /home/benny/.vscode/extensions/octref.vetur-0.22.6
+[2019-11-26 16:51:46.259] [sharedprocess] [info] Installation completed. octref.vetur
+[2019-11-26 16:51:47.125] [sharedprocess] [info] Extensions installed successfully: octref.vetur

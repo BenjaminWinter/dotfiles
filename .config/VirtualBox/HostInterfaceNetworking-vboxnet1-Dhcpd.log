@@ -1,0 +1,59 @@
+00:00:00.002048 VirtualBox DHCP Server 6.0.4_Debian r128164 linux.amd64 (Jan 31 2019 14:42:02) release log
+00:00:00.002050 Log opened 2019-08-20T08:20:16.109762000Z
+00:00:00.002050 Build Type: release
+00:00:00.002051 OS Product: Linux
+00:00:00.002052 OS Release: 4.19.0-5-amd64
+00:00:00.002053 OS Version: #1 SMP Debian 4.19.37-6 (2019-07-18)
+00:00:00.002068 DMI Product Name: XPS 15 9560
+00:00:00.002073 DMI Product Version: 
+00:00:00.002098 Host RAM: 15768MB (15.3GB) total, 12617MB (12.3GB) available
+00:00:00.002100 Executable: /usr/lib/virtualbox/VBoxNetDHCP
+00:00:00.002101 Process ID: 14260
+00:00:00.002101 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.002114 MAC address is not specified: will use generated MAC 08:00:27:72:1b:27
+00:00:00.002117 IP address 192.168.57.100/24
+00:00:00.002119 address pool 192.168.57.101 - 192.168.57.254
+00:00:00.002122 loading leases from /home/benny/.config/VirtualBox/HostInterfaceNetworking-vboxnet1-Dhcpd.leases
+00:00:00.002282 > LOAD: lease 192.168.57.102 to 08:00:27:7b:b7:52, expired, valid from 2019-08-07T07:22:38Z for 1200s until 2019-08-07T07:42:38Z
+00:00:00.002290 > LOAD: EXPIRED lease 192.168.57.101 to 08:00:27:1a:1d:91, expired, valid from 2019-08-15T06:45:55Z for 1200s until 2019-08-15T07:05:54Z
+00:00:06.708551 DISCOVER xid 0x00000e4b chaddr 08:00:27:1a:1d:91
+00:00:06.708600  ciaddr 0.0.0.0
+00:00:06.708607  params { 1 3 6 28 }
+00:00:06.708622 > allocateAddress to client 08:00:27:1a:1d:91
+00:00:06.708628 > .... noted expired binding 192.168.57.102 to 08:00:27:7b:b7:52, expired, valid from 2019-08-07T07:22:38Z for 1200s until 2019-08-07T07:42:38Z
+00:00:06.708646 > ... found existing binding 192.168.57.101 to 08:00:27:1a:1d:91, expired, valid from 2019-08-15T06:45:55Z for 1200s until 2019-08-15T07:05:55Z
+00:00:06.709347 REQUEST for server 192.168.57.100 xid 0x00000e4c chaddr 08:00:27:1a:1d:91
+00:00:06.709394  ciaddr 0.0.0.0
+00:00:06.709399  requested address 192.168.57.101
+00:00:06.709406  params { 1 3 6 28 }
+00:00:06.709418  other options: 54
+00:00:06.709425 > allocateAddress 192.168.57.101 to client 08:00:27:1a:1d:91
+00:00:06.709430 > .... noted expired binding 192.168.57.102 to 08:00:27:7b:b7:52, expired, valid from 2019-08-07T07:22:37Z for 1200s until 2019-08-07T07:42:37Z
+00:00:06.709438 > ... found existing binding 192.168.57.101 to 08:00:27:1a:1d:91, offered, valid from 2019-08-20T08:20:22Z for 1200s until 2019-08-20T08:40:22Z
+00:00:06.709444 writing leases to /home/benny/.config/VirtualBox/HostInterfaceNetworking-vboxnet1-Dhcpd.leases
+00:01:16.826467 DISCOVER xid 0x00000ab8 chaddr 08:00:27:7b:b7:52
+00:01:16.826490  ciaddr 0.0.0.0
+00:01:16.826495  params { 1 3 6 28 }
+00:01:16.826506 > allocateAddress to client 08:00:27:7b:b7:52
+00:01:16.826525 > ... found existing binding 192.168.57.102 to 08:00:27:7b:b7:52, expired, valid from 2019-08-07T07:22:38Z for 1200s until 2019-08-07T07:42:38Z
+00:01:16.827074 REQUEST for server 192.168.57.100 xid 0x00000ab9 chaddr 08:00:27:7b:b7:52
+00:01:16.827088  ciaddr 0.0.0.0
+00:01:16.827092  requested address 192.168.57.102
+00:01:16.827097  params { 1 3 6 28 }
+00:01:16.827106  other options: 54
+00:01:16.827112 > allocateAddress 192.168.57.102 to client 08:00:27:7b:b7:52
+00:01:16.827115 > ... found existing binding 192.168.57.102 to 08:00:27:7b:b7:52, offered, valid from 2019-08-20T08:21:32Z for 1200s until 2019-08-20T08:41:32Z
+00:01:16.827120 writing leases to /home/benny/.config/VirtualBox/HostInterfaceNetworking-vboxnet1-Dhcpd.leases
+00:02:18.005467 DISCOVER xid 0x00000ad9 chaddr 08:00:27:7b:b7:52
+00:02:18.005487  ciaddr 0.0.0.0
+00:02:18.005492  params { 1 3 6 28 }
+00:02:18.005503 > allocateAddress to client 08:00:27:7b:b7:52
+00:02:18.005506 > ... found existing binding 192.168.57.102 to 08:00:27:7b:b7:52, acked, valid from 2019-08-20T08:21:32Z for 1200s until 2019-08-20T08:41:32Z
+00:02:18.005832 REQUEST for server 192.168.57.100 xid 0x00000ada chaddr 08:00:27:7b:b7:52
+00:02:18.005842  ciaddr 0.0.0.0
+00:02:18.005846  requested address 192.168.57.102
+00:02:18.005850  params { 1 3 6 28 }
+00:02:18.005860  other options: 54
+00:02:18.005866 > allocateAddress 192.168.57.102 to client 08:00:27:7b:b7:52
+00:02:18.005876 > ... found existing binding 192.168.57.102 to 08:00:27:7b:b7:52, acked, valid from 2019-08-20T08:22:34Z for 1200s until 2019-08-20T08:42:34Z
+00:02:18.005881 writing leases to /home/benny/.config/VirtualBox/HostInterfaceNetworking-vboxnet1-Dhcpd.leases

@@ -1,0 +1,98 @@
+[2019-11-21 13:55:47.791] [sharedprocess] [info] main {"machineId":"8498530105912792985358a449899face5b7e370bfe941bde309d223585d35ea","windowId":2}
+[2019-11-21 13:55:49.451] [sharedprocess] [info] Installing extension: davidanson.vscode-markdownlint
+[2019-11-21 13:55:49.452] [sharedprocess] [info] Installing extension: ms-python.python
+[2019-11-21 13:55:49.932] [sharedprocess] [info] Downloaded extension: davidanson.vscode-markdownlint /tmp/1e1a7443-05a1-45fb-8455-593aad1a30c6
+[2019-11-21 13:55:50.024] [sharedprocess] [info] Extracted extension to /home/benny/.vscode/extensions/.davidanson.vscode-markdownlint-0.32.0: davidanson.vscode-markdownlint
+[2019-11-21 13:55:50.025] [sharedprocess] [info] Renamed to /home/benny/.vscode/extensions/davidanson.vscode-markdownlint-0.32.0
+[2019-11-21 13:55:50.028] [sharedprocess] [info] Installation completed. davidanson.vscode-markdownlint
+[2019-11-21 13:55:50.048] [sharedprocess] [info] Extensions installed successfully: davidanson.vscode-markdownlint
+[2019-11-21 13:55:52.075] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/641f9c0f-a3db-4e18-9eec-a71c86f66e92
+[2019-11-21 13:55:54.187] [sharedprocess] [info] Extracted extension to /home/benny/.vscode/extensions/.ms-python.python-2019.11.49689: ms-python.python
+[2019-11-21 13:55:54.187] [sharedprocess] [info] Renamed to /home/benny/.vscode/extensions/ms-python.python-2019.11.49689
+[2019-11-21 13:55:54.191] [sharedprocess] [info] Installation completed. ms-python.python
+[2019-11-21 13:55:54.223] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2019-11-21 13:56:12.071] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2019-11-21 13:56:12.073] [sharedprocess] [info] Installing extension: lextudio.restructuredtext
+[2019-11-21 13:56:12.073] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2019-11-21 13:56:12.074] [sharedprocess] [info] Installing extension: ms-kubernetes-tools.vscode-kubernetes-tools
+[2019-11-21 13:56:12.074] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-containers
+[2019-11-21 13:56:12.075] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh
+[2019-11-21 13:56:12.075] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh-edit
+[2019-11-21 13:56:12.076] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-wsl
+[2019-11-21 13:56:12.076] [sharedprocess] [info] Installing extension: redhat.vscode-yaml
+[2019-11-21 13:56:12.077] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2019-11-21 13:56:12.077] [sharedprocess] [info] Installing extension: vscode-icons-team.vscode-icons
+[2019-11-21 13:56:12.078] [sharedprocess] [info] Installing extension: yzhang.markdown-all-in-one
+[2019-11-21 13:56:12.078] [sharedprocess] [info] Installing extension: zhuangtongfa.material-theme
+[2019-11-21 13:56:12.756] [sharedprocess] [info] Downloaded extension: eamodio.gitlens /tmp/bbfa2c31-d6a1-434f-b5ef-6e28e1bc0cb3
+[2019-11-21 13:56:13.052] [sharedprocess] [info] Downloaded extension: lextudio.restructuredtext /tmp/223b0f03-6e29-4070-8432-4735db01bc2b
+[2019-11-21 13:56:13.086] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh-edit /tmp/8c643703-8a43-4f3c-8791-8afd291e0bc5
+[2019-11-21 13:56:13.118] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-containers /tmp/3a7b53d8-4c61-4303-ad78-25074eb65c0a
+[2019-11-21 13:56:13.135] [sharedprocess] [info] Extracted extension to /home/benny/.vscode/extensions/.ms-vscode-remote.remote-ssh-edit-0.47.2: ms-vscode-remote.remote-ssh-edit
+[2019-11-21 13:56:13.136] [sharedprocess] [info] Renamed to /home/benny/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.47.2
+[2019-11-21 13:56:13.138] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-ssh-edit
+[2019-11-21 13:56:13.155] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-ssh-edit
+[2019-11-21 13:56:13.272] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-wsl /tmp/8a6d80d1-122d-4e7e-83f2-2e7ec4ac2123
+[2019-11-21 13:56:13.397] [sharedprocess] [info] Downloaded extension: zhuangtongfa.material-theme /tmp/8ce9a9d1-cc84-4d3a-a5ac-36bacc2b74af
+[2019-11-21 13:56:13.425] [sharedprocess] [info] Extracted extension to /home/benny/.vscode/extensions/.ms-vscode-remote.remote-wsl-0.40.3: ms-vscode-remote.remote-wsl
+[2019-11-21 13:56:13.425] [sharedprocess] [info] Renamed to /home/benny/.vscode/extensions/ms-vscode-remote.remote-wsl-0.40.3
+[2019-11-21 13:56:13.427] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-wsl
+[2019-11-21 13:56:13.440] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-wsl
+[2019-11-21 13:56:13.563] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /tmp/6e23045d-3650-4e64-814d-0fdf1d1e09ef
+[2019-11-21 13:56:13.645] [sharedprocess] [info] Extracted extension to /home/benny/.vscode/extensions/.zhuangtongfa.material-theme-3.0.3: zhuangtongfa.material-theme
+[2019-11-21 13:56:13.645] [sharedprocess] [info] Renamed to /home/benny/.vscode/extensions/zhuangtongfa.material-theme-3.0.3
+[2019-11-21 13:56:13.646] [sharedprocess] [info] Installation completed. zhuangtongfa.material-theme
+[2019-11-21 13:56:13.660] [sharedprocess] [info] Extensions installed successfully: zhuangtongfa.material-theme
+[2019-11-21 13:56:13.685] [sharedprocess] [info] Extracted extension to /home/benny/.vscode/extensions/.eamodio.gitlens-10.2.0: eamodio.gitlens
+[2019-11-21 13:56:13.685] [sharedprocess] [info] Renamed to /home/benny/.vscode/extensions/eamodio.gitlens-10.2.0
+[2019-11-21 13:56:13.690] [sharedprocess] [info] Installation completed. eamodio.gitlens
+[2019-11-21 13:56:13.716] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh /tmp/8b72bc7f-a075-42a6-b216-bc9b22c16b5a
+[2019-11-21 13:56:13.720] [sharedprocess] [info] Extensions installed successfully: eamodio.gitlens
+[2019-11-21 13:56:13.744] [sharedprocess] [info] Extracted extension to /home/benny/.vscode/extensions/.visualstudioexptteam.vscodeintellicode-1.2.0: visualstudioexptteam.vscodeintellicode
+[2019-11-21 13:56:13.744] [sharedprocess] [info] Renamed to /home/benny/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.0
+[2019-11-21 13:56:13.745] [sharedprocess] [info] Installation completed. visualstudioexptteam.vscodeintellicode
+[2019-11-21 13:56:13.758] [sharedprocess] [info] Extensions installed successfully: visualstudioexptteam.vscodeintellicode
+[2019-11-21 13:56:13.838] [sharedprocess] [info] Extracted extension to /home/benny/.vscode/extensions/.ms-vscode-remote.remote-containers-0.83.1: ms-vscode-remote.remote-containers
+[2019-11-21 13:56:13.838] [sharedprocess] [info] Renamed to /home/benny/.vscode/extensions/ms-vscode-remote.remote-containers-0.83.1
+[2019-11-21 13:56:13.839] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-containers
+[2019-11-21 13:56:13.851] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-containers
+[2019-11-21 13:56:13.865] [sharedprocess] [info] Extracted extension to /home/benny/.vscode/extensions/.ms-vscode-remote.remote-ssh-0.47.2: ms-vscode-remote.remote-ssh
+[2019-11-21 13:56:13.866] [sharedprocess] [info] Renamed to /home/benny/.vscode/extensions/ms-vscode-remote.remote-ssh-0.47.2
+[2019-11-21 13:56:13.866] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-ssh
+[2019-11-21 13:56:13.876] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-ssh
+[2019-11-21 13:56:13.958] [sharedprocess] [info] Downloaded extension: vscode-icons-team.vscode-icons /tmp/1fddc0f7-db93-42f0-9777-ba8a893de542
+[2019-11-21 13:56:14.074] [sharedprocess] [info] Downloaded extension: redhat.vscode-yaml /tmp/88d26bfc-93f0-4437-a937-bbb9d714bc85
+[2019-11-21 13:56:14.195] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /tmp/801ff890-67ea-4fde-8d39-34a68f32f582
+[2019-11-21 13:56:14.353] [sharedprocess] [info] Downloaded extension: yzhang.markdown-all-in-one /tmp/1efe8b10-8d24-48d5-97e2-283207a7c1c0
+[2019-11-21 13:56:14.790] [sharedprocess] [info] Extracted extension to /home/benny/.vscode/extensions/.ms-azuretools.vscode-docker-0.8.2: ms-azuretools.vscode-docker
+[2019-11-21 13:56:14.791] [sharedprocess] [info] Renamed to /home/benny/.vscode/extensions/ms-azuretools.vscode-docker-0.8.2
+[2019-11-21 13:56:14.793] [sharedprocess] [info] Installation completed. ms-azuretools.vscode-docker
+[2019-11-21 13:56:14.811] [sharedprocess] [info] Downloaded extension: ms-kubernetes-tools.vscode-kubernetes-tools /tmp/e1e0f161-2b80-4810-9c25-52f7087e9562
+[2019-11-21 13:56:14.861] [sharedprocess] [info] Extensions installed successfully: ms-azuretools.vscode-docker
+[2019-11-21 13:56:15.122] [sharedprocess] [info] Extracted extension to /home/benny/.vscode/extensions/.lextudio.restructuredtext-116.0.0: lextudio.restructuredtext
+[2019-11-21 13:56:15.122] [sharedprocess] [info] Renamed to /home/benny/.vscode/extensions/lextudio.restructuredtext-116.0.0
+[2019-11-21 13:56:15.123] [sharedprocess] [info] Installation completed. lextudio.restructuredtext
+[2019-11-21 13:56:15.137] [sharedprocess] [info] Extensions installed successfully: lextudio.restructuredtext
+[2019-11-21 13:56:15.277] [sharedprocess] [info] Extracted extension to /home/benny/.vscode/extensions/.yzhang.markdown-all-in-one-2.5.1: yzhang.markdown-all-in-one
+[2019-11-21 13:56:15.278] [sharedprocess] [info] Renamed to /home/benny/.vscode/extensions/yzhang.markdown-all-in-one-2.5.1
+[2019-11-21 13:56:15.279] [sharedprocess] [info] Installation completed. yzhang.markdown-all-in-one
+[2019-11-21 13:56:15.281] [sharedprocess] [info] Extracted extension to /home/benny/.vscode/extensions/.vscode-icons-team.vscode-icons-9.5.0: vscode-icons-team.vscode-icons
+[2019-11-21 13:56:15.281] [sharedprocess] [info] Renamed to /home/benny/.vscode/extensions/vscode-icons-team.vscode-icons-9.5.0
+[2019-11-21 13:56:15.282] [sharedprocess] [info] Installation completed. vscode-icons-team.vscode-icons
+[2019-11-21 13:56:15.293] [sharedprocess] [info] Extensions installed successfully: yzhang.markdown-all-in-one
+[2019-11-21 13:56:15.299] [sharedprocess] [info] Extensions installed successfully: vscode-icons-team.vscode-icons
+[2019-11-21 13:56:15.473] [sharedprocess] [info] Extracted extension to /home/benny/.vscode/extensions/.redhat.vscode-yaml-0.6.1: redhat.vscode-yaml
+[2019-11-21 13:56:15.473] [sharedprocess] [info] Renamed to /home/benny/.vscode/extensions/redhat.vscode-yaml-0.6.1
+[2019-11-21 13:56:15.474] [sharedprocess] [info] Installation completed. redhat.vscode-yaml
+[2019-11-21 13:56:15.486] [sharedprocess] [info] Extensions installed successfully: redhat.vscode-yaml
+[2019-11-21 13:56:16.943] [sharedprocess] [info] Extracted extension to /home/benny/.vscode/extensions/.ms-kubernetes-tools.vscode-kubernetes-tools-1.0.7: ms-kubernetes-tools.vscode-kubernetes-tools
+[2019-11-21 13:56:16.943] [sharedprocess] [info] Renamed to /home/benny/.vscode/extensions/ms-kubernetes-tools.vscode-kubernetes-tools-1.0.7
+[2019-11-21 13:56:16.944] [sharedprocess] [info] Installation completed. ms-kubernetes-tools.vscode-kubernetes-tools
+[2019-11-21 13:56:16.999] [sharedprocess] [info] Extensions installed successfully: ms-kubernetes-tools.vscode-kubernetes-tools
+[2019-11-21 13:56:27.803] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-11-21 15:10:25.133] [sharedprocess] [info] Installing extension: wwm.better-align
+[2019-11-21 15:10:26.006] [sharedprocess] [info] Downloaded extension: wwm.better-align /tmp/9c4b8d58-8f7c-4114-8e73-67038c225b7d
+[2019-11-21 15:10:26.053] [sharedprocess] [info] Extracted extension to /home/benny/.vscode/extensions/.wwm.better-align-1.1.6: wwm.better-align
+[2019-11-21 15:10:26.054] [sharedprocess] [info] Renamed to /home/benny/.vscode/extensions/wwm.better-align-1.1.6
+[2019-11-21 15:10:26.056] [sharedprocess] [info] Installation completed. wwm.better-align
+[2019-11-21 15:10:26.062] [sharedprocess] [info] Extensions installed successfully: wwm.better-align

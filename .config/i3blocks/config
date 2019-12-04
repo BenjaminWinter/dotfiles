@@ -28,7 +28,7 @@
 # Each block command defaults to the script name to avoid boilerplate.
 command=/usr/local/libexec/i3blocks/$BLOCK_NAME
 markup=none
-separator=true
+separator=false
 separator_block_width=30
 border_top=0
 border_left=0
@@ -45,9 +45,7 @@ border=#cccccc
 label=
 interval=10
 
-[bandwidth]
-#instance=eth0
-interval=2
+
 
 # Volume indicator
 #
@@ -98,10 +96,14 @@ color=#00FF00
 interval=2
 separator=false
 
-[wifi]
+[bandwidth]
+#instance=eth0
+interval=2
+
+#[wifi]
 #instance=wlp3s0
-interval=10
-separator=false
+#interval=10
+#separator=false
 
 # Battery indicator
 #
@@ -119,3 +121,4 @@ interval=30
 command=/usr/local/libexec/i3blocks/date_cal
 interval=1
 separator_block_width=0
+min_width=140

@@ -1,4 +1,6 @@
 [global_config]
+  handle_size = 2
+  scroll_tabbar = True
   title_transmit_bg_color = "#000000"
   title_inactive_bg_color = "#000000"
   enabled_plugins = CustomCommandsMenu, LaunchpadBugURLHandler, LaunchpadCodeURLHandler, APTURLHandler
@@ -16,7 +18,21 @@
   new_terminator = <Shift><Alt>t
 [profiles]
   [[default]]
-    allow_bold = False
+    icon_bell = False
+    background_color = "#1d1f21"
+    background_darkness = 0.21
+    color_scheme = custom
+    cursor_shape = ibeam
+    cursor_color = "#f4f8f4"
+    font = Droid Sans Mono 11
+    foreground_color = "#c5c8c6"
+    show_titlebar = False
+    scrollbar_position = hidden
+    scrollback_lines = 5000
+    scrollback_infinite = True
+    palette = "#282a2e:#a54242:#8c9440:#de935f:#4d8cec:#85678f:#5e8d87:#707880:#373b41:#cc6666:#b5bd68:#f0c674:#81a2be:#b294bb:#8abeb7:#c5c8c6"
+    use_system_font = False
+  [[cgmssh]]
     icon_bell = False
     background_color = "#1d1f21"
     background_darkness = 0.21
@@ -28,7 +44,44 @@
     scrollbar_position = hidden
     scrollback_lines = 5000
     scrollback_infinite = True
+    exit_action = hold
     palette = "#282a2e:#a54242:#8c9440:#de935f:#4d8cec:#85678f:#5e8d87:#707880:#373b41:#cc6666:#b5bd68:#f0c674:#81a2be:#b294bb:#8abeb7:#c5c8c6"
+    use_custom_command = True
+    custom_command = ssh -XC benny@cg6
+    use_system_font = False
+  [[gpussh]]
+    icon_bell = False
+    background_color = "#1d1f21"
+    background_darkness = 0.21
+    color_scheme = custom
+    cursor_color = "#f4f8f4"
+    font = Droid Sans Mono 11
+    foreground_color = "#c5c8c6"
+    show_titlebar = False
+    scrollbar_position = hidden
+    scrollback_lines = 5000
+    scrollback_infinite = True
+    exit_action = hold
+    palette = "#282a2e:#a54242:#8c9440:#de935f:#4d8cec:#85678f:#5e8d87:#707880:#373b41:#cc6666:#b5bd68:#f0c674:#81a2be:#b294bb:#8abeb7:#c5c8c6"
+    use_custom_command = True
+    custom_command = ssh bwinter@p100
+    use_system_font = False
+  [[kubernetes]]
+    icon_bell = False
+    background_color = "#1d1f21"
+    background_darkness = 0.21
+    color_scheme = custom
+    cursor_color = "#f4f8f4"
+    font = Droid Sans Mono 11
+    foreground_color = "#c5c8c6"
+    show_titlebar = False
+    scrollbar_position = hidden
+    scrollback_lines = 5000
+    scrollback_infinite = True
+    exit_action = hold
+    palette = "#282a2e:#a54242:#8c9440:#de935f:#4d8cec:#85678f:#5e8d87:#707880:#373b41:#cc6666:#b5bd68:#f0c674:#81a2be:#b294bb:#8abeb7:#c5c8c6"
+    use_custom_command = True
+    custom_command = kubectl port-forward ssh-7d5d6dfc87-fvpgl 4444:22 & ssh -p4444 root@localhost ;;
     use_system_font = False
 [layouts]
   [[default]]

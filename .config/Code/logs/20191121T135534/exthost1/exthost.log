@@ -1,0 +1,12 @@
+[2019-11-21 13:55:36.156] [exthost] [info] extension host started
+[2019-11-21 13:55:36.175] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-ssh {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-ssh","_lower":"ms-vscode-remote.remote-ssh"},"activationEvent":"onResolveRemoteAuthority:ssh-remote"}
+[2019-11-21 13:55:36.175] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/benny/.vscode/extensions/ms-vscode-remote.remote-ssh-0.47.1/out/extension
+[2019-11-21 13:55:37.126] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"*"}
+[2019-11-21 13:55:37.126] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/benny/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.0.28/out/src/extension
+[2019-11-21 13:55:37.147] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2019-11-21 13:55:37.147] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/benny/.vscode/extensions/equinusocio.vsc-material-theme-30.0.0/out/src/material.theme.config
+[2019-11-21 13:55:37.157] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.sublime-keybindings {"startup":true,"extensionId":{"value":"ms-vscode.sublime-keybindings","_lower":"ms-vscode.sublime-keybindings"},"activationEvent":"*"}
+[2019-11-21 13:55:37.157] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/benny/.vscode/extensions/ms-vscode.sublime-keybindings-4.0.3/out/extension
+[2019-11-21 13:55:37.164] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2019-11-21 13:55:37.164] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/benny/.vscode/extensions/vscode-icons-team.vscode-icons-9.4.0/dist/src/vscode-icons.bundle.js
+[2019-11-21 13:55:37.212] [exthost] [info] eager extensions activated

@@ -1,0 +1,10 @@
+Acquiring model 'intellisense-members' for python
+Querying IntelliCode service for available models.
+Cached model is up to date.
+vs-intellicode-python was passed a model: {"modelPath":"/home/benny/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.1.9/cache/88630A1B4C077752096ECAA576B92C7D3FA1_9BA695AD4C514C32A5D0AC9B02846CD7","modelId":"88630A1B4C077752096ECAA576B92C7D3FA1","outputId":"9BA695AD4C514C32A5D0AC9B02846CD7"}.
+Loaded language server extension.
+Acquiring model 'intellisense-members' for javascript
+Querying IntelliCode service for available models.
+Downloading model.
+Starting download of https://cdsmprodstg.blob.core.windows.net/models-prod-output/Output_1A3F919CD5B7725108B03C349630A1C82B03_0F0BA3C08C954A17AD992F382AE21E98?sv=2018-03-28&sr=b&sig=Iljr9qPos91y%2BvAi71bij4%2BjJ%2F5uWYH%2BQs6LxrGldFI%3D&se=2019-11-21T13%3A29%3A13Z&sp=r
+Download complete.

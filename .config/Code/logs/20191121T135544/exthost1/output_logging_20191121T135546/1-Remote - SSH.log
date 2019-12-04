@@ -1,0 +1,24 @@
+[13:55:46.120] remote-ssh@0.47.1
+[13:55:46.120] linux x64
+[13:55:46.122] SSH Resolver called for "ssh-remote+localhost", attempt 1
+[13:55:46.122] SSH Resolver called for host: localhost
+[13:55:46.122] Setting up SSH remote "localhost"
+[13:55:46.135] Using commit id "8795a9889db74563ddd43eb0a897a2384129a619" and quality "stable" for server
+[13:55:46.136] Testing ssh with ssh -V
+[13:55:46.144] ssh exited with code: 0
+[13:55:46.144] Got stderr from ssh: OpenSSH_8.1p1 Debian-1, OpenSSL 1.1.1d  10 Sep 2019
+[13:55:46.146] Running script with connection command: ssh -T -D 45307 -o ConnectTimeout=15 localhost bash
+[13:55:46.147] Install and start server if needed
+[13:55:46.231] > ssh: connect to host localhost port 4444: Connection refused
+[13:55:46.231] Got some output, clearing connection timeout
+[13:55:46.726] "install" terminal command done
+[13:55:46.728] Install terminal quit with output: ssh: connect to host localhost port 4444: Connection refused
+[13:55:46.728] Received install output: ssh: connect to host localhost port 4444: Connection refused
+[13:55:46.731] Failed to parse remote port from server output
+[13:55:46.732] Resolver error: 
+[13:55:46.736] TELEMETRY: {"eventName":"resolver","properties":{"outcome":"failure","reason":"UnparsableOutput","askedPw":"0","askedPassphrase":"0","asked2fa":"0","askedHostKey":"0","gotUnrecognizedPrompt":"0","remoteInConfigFile":"1"},"measures":{"resolveAttempts":1,"retries":1}}
+[13:55:46.740] ------
+
+
+
+

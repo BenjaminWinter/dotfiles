@@ -7,8 +7,8 @@
 
 (session-info "toplevel"
     (factory-entry "gimp-empty-image-window")
-    (position 14 357)
-    (size 1888 332)
+    (position 967 74)
+    (size 909 962)
     (open-on-exit))
 (session-info "toplevel"
     (factory-entry "gimp-single-image-window")
@@ -26,30 +26,10 @@
     (factory-entry "gimp-file-export-dialog")
     (position 224 30)
     (size 1680 1050))
-(session-info "toplevel"
-    (factory-entry "gimp-toolbox-window")
-    (position 1041 79)
-    (size 76 809)
-    (open-on-exit)
-    (gimp-toolbox))
-(session-info "toplevel"
-    (factory-entry "gimp-dock-window")
-    (position 1260 70)
-    (size 200 300)
-    (open-on-exit)
-    (aux-info
-        (show-image-menu "false")
-        (follow-active-image "true"))
-    (gimp-dock
-        (book
-            (current-page 0)
-            (dockable "gimp-tool-options"
-                (tab-style automatic)
-                (aux-info
-                    (show-button-bar "true"))))))
 
 (hide-docks no)
 (single-window-mode no)
+(show-tabs yes)
 (tabs-position 0)
 (last-tip-shown 0)
 

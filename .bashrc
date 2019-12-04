@@ -134,7 +134,7 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib
 export CLASSPATH=".:/usr/local/lib/antlr-4.5-complete.jar:$CLASSPATH"
 export JAVA_HOME=/usr/lib/jvm/java-8-oracle
 
-alias dupgrade="sudo apt-get update && sudo apt-get dist-upgrade"
+alias dupgrade="sudo apt update && sudo apt dist-upgrade"
 alias m='micro'
 alias tssh='ssh -L 6007:localhost:6007 bwinter@p100'
 alias pssh='ssh bwinter@p100'
@@ -143,6 +143,7 @@ alias c6ssh='ssh -XC benny@cg6'
 alias t='terminator'
 alias bvpn='sudo openfortivpn sslvpn.beuth-hochschule.de:443'
 alias kubefw='kubectl port-forward ssh 4444:22'
+alias shuttlecg8='sshuttle --dns -vr benny@cg8 0/0'
 #syndaemon -i 0.3 -d
 
 
@@ -157,3 +158,20 @@ alias kubefw='kubectl port-forward ssh 4444:22'
 
 
 . /home/benny/work/programming/lua/distro/install/bin/torch-activate
+source <(kubectl completion bash)
+
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+__conda_setup="$('/home/benny/miniconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    eval "$__conda_setup"
+else
+    if [ -f "/home/benny/miniconda3/etc/profile.d/conda.sh" ]; then
+        . "/home/benny/miniconda3/etc/profile.d/conda.sh"
+    else
+        export PATH="/home/benny/miniconda3/bin:$PATH"
+    fi
+fi
+unset __conda_setup
+# <<< conda initialize <<<
+

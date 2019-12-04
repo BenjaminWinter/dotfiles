@@ -1,0 +1,89 @@
+[17:36:14.448] remote-ssh@0.47.1
+[17:36:14.448] linux x64
+[17:36:14.451] SSH Resolver called for "ssh-remote+localhost", attempt 1
+[17:36:14.451] SSH Resolver called for host: localhost
+[17:36:14.451] Setting up SSH remote "localhost"
+[17:36:14.458] Using commit id "9df03c6d6ce97c6645c5846f6dfa2a6a7d276515" and quality "stable" for server
+[17:36:14.458] Testing ssh with ssh -V
+[17:36:14.509] ssh exited with code: 0
+[17:36:14.510] Got stderr from ssh: OpenSSH_8.0p1 Debian-7, OpenSSL 1.1.1d  10 Sep 2019
+[17:36:14.543] Running script with connection command: ssh -T -D 39835 -o ConnectTimeout=15 localhost bash
+[17:36:14.544] Install and start server if needed
+[17:36:14.780] > f135d65fc61d: running
+[17:36:14.780] Got some output, clearing connection timeout
+[17:36:14.837] > Acquiring lock on /root/.vscode-server/bin/9df03c6d6ce97c6645c5846f6dfa2a6a7d276515/vscode-remote-lock.9df03c6d6ce97c6645c5846f6dfa2a6a7d276515
+[17:36:14.852] > Found existing installation at /root/.vscode-server/bin/9df03c6d6ce97c6645c5846f6dfa2a6a7d276515...
+[17:36:14.862] > Found running server...
+>  
+> *
+> * Reminder: You may only use this software with Visual Studio family products,
+> * as described in the license (https://go.microsoft.com/fwlink/?linkid=2077057)
+> *
+>  
+[17:36:14.886] > Checking server status on port 33487 with wget
+[17:36:14.903] > f135d65fc61d: start
+> sshAuthSock====
+> agentPort==33487==
+> webViewServerPort====
+> osReleaseId==ubuntu==
+> arch==x86_64==
+[17:36:14.904] > webUiAccessToken====
+> f135d65fc61d: end
+[17:36:14.904] Received install output: 
+sshAuthSock====
+agentPort==33487==
+webViewServerPort====
+osReleaseId==ubuntu==
+arch==x86_64==
+webUiAccessToken====
+
+[17:36:14.905] Remote server is listening on port 33487
+[17:36:14.905] Parsed server configuration: {"agentPort":33487,"osReleaseId":"ubuntu","arch":"x86_64","webUiAccessToken":"","sshAuthSock":""}
+[17:36:14.909] Starting forwarding server. localPort 39187 -> socksPort 39835 -> remotePort 33487
+[17:36:14.909] Forwarding server listening on 39187
+[17:36:14.910] Waiting for ssh tunnel to be ready
+[17:36:14.911] [Forwarding server 39187] Got connection 0
+[17:36:14.912] Tunneled remote port 33487 to local port 39187
+[17:36:14.912] Resolved "ssh-remote+localhost" to "127.0.0.1:39187"
+[17:36:14.914] TELEMETRY: {"eventName":"resolver","properties":{"outcome":"success","osReleaseId":"ubuntu","arch":"x86_64","askedPw":"0","askedPassphrase":"0","asked2fa":"0","askedHostKey":"0","remoteInConfigFile":"1","gotUnrecognizedPrompt":"0"},"measures":{"resolveAttempts":1,"retries":1}}
+[17:36:14.915] ------
+
+
+
+
+[17:36:14.932] [Forwarding server 39187] Got connection 1
+[17:36:14.933] [Forwarding server 39187] Got connection 2
+[17:36:15.730] [Forwarding server 39187] Got connection 3
+[17:36:15.731] [Forwarding server 39187] Got connection 4
+[17:36:15.731] [Forwarding server 39187] Got connection 5
+[17:36:22.623] [Forwarding server 39187] Got connection 6
+[17:36:24.535] [Forwarding server 39187] Got connection 7
+[17:36:24.535] [Forwarding server 39187] Got connection 8
+[17:36:24.535] [Forwarding server 39187] Got connection 9
+[18:16:46.831] > Connection to localhost closed by remote host.
+[18:16:47.109] "install" terminal command done
+[18:16:47.109] Install terminal quit with output:              Connection to localhost closed by remote host.
+[18:16:52.462] ------
+
+
+
+
+[18:16:52.462] SSH Resolver called for "ssh-remote+localhost", attempt 2, (Reconnection)
+[18:16:52.463] SSH Resolver called for host: localhost
+[18:16:52.463] Setting up SSH remote "localhost"
+[18:16:52.471] Using commit id "9df03c6d6ce97c6645c5846f6dfa2a6a7d276515" and quality "stable" for server
+[18:16:52.498] Running script with connection command: ssh -T -D 34857 -o ConnectTimeout=15 localhost bash
+[18:16:52.498] Install and start server if needed
+[18:16:52.660] > ssh: connect to host localhost port 4444: Connection refused
+[18:16:52.660] Got some output, clearing connection timeout
+[09:52:03.556] "install" terminal command done
+[09:52:03.556] Install terminal quit with output: ssh: connect to host localhost port 4444: Connection refused
+[09:52:03.556] Received install output: ssh: connect to host localhost port 4444: Connection refused
+[09:52:03.557] Failed to parse remote port from server output
+[09:52:03.558] Resolver error: 
+[09:52:03.566] TELEMETRY: {"eventName":"resolver","properties":{"outcome":"failure","reason":"UnparsableOutput","askedPw":"0","askedPassphrase":"0","asked2fa":"0","askedHostKey":"0","gotUnrecognizedPrompt":"0","remoteInConfigFile":"1"},"measures":{"resolveAttempts":2,"retries":1}}
+[09:52:03.566] ------
+
+
+
+

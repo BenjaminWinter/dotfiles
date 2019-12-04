@@ -1,0 +1,9 @@
+game:
+  arch: win32
+  exe: drive_c/Program Files/Wizards of the Coast/MTGA/MtgaLauncher.exe
+  prefix: /home/benny/Games/magic-the-gathering-arena
+wine:
+  Desktop: true
+  WineDesktop: 1920x1080
+  esync: true
+  version: tkg-unity-4.1-x86_64

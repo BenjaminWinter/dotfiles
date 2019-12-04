@@ -8,27 +8,50 @@
 <VirtualBox xmlns="http://www.virtualbox.org/" version="1.12-linux">
   <Global>
     <ExtraData>
-      <ExtraDataItem name="GUI/DetailsPageBoxes" value="general,system,preview,display,storage,audio,network,usb,sharedFolders,description"/>
+      <ExtraDataItem name="GUI/Details/Elements" value="general,system,preview,display,storage,audio,network,usb,sharedFolders,description"/>
       <ExtraDataItem name="GUI/HostScreenSaverDisabled" value="false"/>
       <ExtraDataItem name="GUI/Input/AutoCapture" value="false"/>
       <ExtraDataItem name="GUI/Input/HostKeyCombination" value="65508"/>
       <ExtraDataItem name="GUI/LastItemSelected" value="m=MSEdge - Win10_preview"/>
-      <ExtraDataItem name="GUI/LastWindowPosition" value="20,20,1880,1010"/>
-      <ExtraDataItem name="GUI/SplitterSizes" value="463,1413"/>
+      <ExtraDataItem name="GUI/LastWindowPosition" value="0,30,909,962"/>
+      <ExtraDataItem name="GUI/SplitterSizes" value="473,1446"/>
       <ExtraDataItem name="GUI/SuppressMessages" value="confirmGoingFullscreen,confirmInputCapture"/>
+      <ExtraDataItem name="GUI/Toolbar" value="false"/>
+      <ExtraDataItem name="GUI/Tools/LastItemsSelected" value="Welcome,Details"/>
       <ExtraDataItem name="HostOnly/vboxnet0/IPAddress" value="192.168.56.1"/>
       <ExtraDataItem name="HostOnly/vboxnet0/IPNetMask" value="255.255.255.0"/>
+      <ExtraDataItem name="HostOnly/vboxnet1/IPAddress" value="192.168.57.1"/>
+      <ExtraDataItem name="HostOnly/vboxnet1/IPNetMask" value="255.255.255.0"/>
     </ExtraData>
     <MachineRegistry>
       <MachineEntry uuid="{66e53beb-d6a8-49a3-b968-86e64348a173}" src="/home/benny/VirtualBox VMs/IE11 - Win7/IE11 - Win7.vbox"/>
       <MachineEntry uuid="{4d9f228a-5874-4a16-820c-d74f96305a7d}" src="/home/benny/VirtualBox VMs/MSEdge - Win10_preview/MSEdge - Win10_preview.vbox"/>
+      <MachineEntry uuid="{3c40fea2-8e70-4849-ad72-0a70f43bc035}" src="/home/benny/.Genymobile/Genymotion/deployed/Google Pixel/Google Pixel.vbox"/>
+      <MachineEntry uuid="{39a1f838-696d-4746-820f-0a04facca5d7}" src="/home/benny/.Genymobile/Genymotion/deployed/Samsung Galaxy S7/Samsung Galaxy S7.vbox"/>
     </MachineRegistry>
+    <MediaRegistry>
+      <HardDisks>
+        <HardDisk uuid="{e7f94970-318d-4e9d-b42c-25f17157fa2b}" location="/home/benny/.Genymobile/Genymotion/deployed/Google Pixel/android_system_disk.vmdk" format="VMDK" type="Normal">
+          <HardDisk uuid="{6e5d863a-42f0-4768-8eb0-7e4018530af7}" location="/home/benny/.Genymobile/Genymotion/deployed/Google Pixel/Snapshots/{6e5d863a-42f0-4768-8eb0-7e4018530af7}.vmdk" format="VMDK"/>
+        </HardDisk>
+        <HardDisk uuid="{712569ad-792b-450e-a38a-68c679c80a2b}" location="/home/benny/.Genymobile/Genymotion/deployed/Google Pixel/android_data_disk.vmdk" format="VMDK" type="Normal">
+          <HardDisk uuid="{38011c6c-34a8-4cfe-b437-cf85938b72ae}" location="/home/benny/.Genymobile/Genymotion/deployed/Google Pixel/Snapshots/{38011c6c-34a8-4cfe-b437-cf85938b72ae}.vmdk" format="VMDK"/>
+        </HardDisk>
+        <HardDisk uuid="{7a1de82c-b4af-4b8e-944e-cc7f45efce90}" location="/home/benny/.Genymobile/Genymotion/deployed/Samsung Galaxy S7/android_system_disk.vmdk" format="VMDK" type="Normal">
+          <HardDisk uuid="{37ff7dd2-5139-4f5d-9ee1-3c5e093d026d}" location="/home/benny/.Genymobile/Genymotion/deployed/Samsung Galaxy S7/Snapshots/{37ff7dd2-5139-4f5d-9ee1-3c5e093d026d}.vmdk" format="VMDK"/>
+        </HardDisk>
+        <HardDisk uuid="{e3b354dd-af44-4aa3-b8f3-ed2e7aff6313}" location="/home/benny/.Genymobile/Genymotion/deployed/Samsung Galaxy S7/android_data_disk.vmdk" format="VMDK" type="Normal">
+          <HardDisk uuid="{8bf8e4f8-6cb7-4ef9-b77c-46ffedff463e}" location="/home/benny/.Genymobile/Genymotion/deployed/Samsung Galaxy S7/Snapshots/{8bf8e4f8-6cb7-4ef9-b77c-46ffedff463e}.vmdk" format="VMDK"/>
+        </HardDisk>
+      </HardDisks>
+    </MediaRegistry>
     <NetserviceRegistry>
       <DHCPServers>
         <DHCPServer networkName="HostInterfaceNetworking-vboxnet0" IPAddress="192.168.56.100" networkMask="255.255.255.0" lowerIP="192.168.56.101" upperIP="192.168.56.254" enabled="1"/>
+        <DHCPServer networkName="HostInterfaceNetworking-vboxnet1" IPAddress="192.168.57.100" networkMask="255.255.255.0" lowerIP="192.168.57.101" upperIP="192.168.57.254" enabled="1"/>
       </DHCPServers>
     </NetserviceRegistry>
-    <SystemProperties defaultMachineFolder="/home/benny/VirtualBox VMs" defaultHardDiskFormat="VDI" VRDEAuthLibrary="VBoxAuth" webServiceAuthLibrary="VBoxAuth" LogHistoryCount="3" exclusiveHwVirt="true"/>
+    <SystemProperties defaultMachineFolder="/home/benny/VirtualBox VMs" defaultHardDiskFormat="VDI" VRDEAuthLibrary="VBoxAuth" webServiceAuthLibrary="VBoxAuth" LogHistoryCount="3" proxyMode="0" exclusiveHwVirt="true"/>
     <USBDeviceFilters/>
   </Global>
 </VirtualBox>

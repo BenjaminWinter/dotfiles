@@ -1,5 +1,36 @@
 // Place your settings in this file to overwrite the default settings
 {
-    "editor.fontFamily": "Inconsolata",
-    "editor.referenceInfos": true
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 14,
+    "editor.referenceInfos": true,
+    "editor.formatOnPaste": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "workbench.colorTheme": "MyOneDark",
+    "window.zoomLevel": 0,
+    "files.autoSave": "onWindowChange",
+    "bracket-pair-colorizer-2.colors": [
+        "#98c379",
+        "#56B6C2",
+        "#e5c07b",
+        "#C678DD",
+        "#D19A66",        
+    ],
+    "gitlens.codeLens.enabled": false,
+    "editor.fontLigatures": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.jediEnabled": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "vs-kubernetes": {
+        "vs-kubernetes.knownKubeconfigs": [
+            "/home/benny/kubeconfig"
+        ],
+        "vs-kubernetes.kubeconfig": "/home/benny/kubeconfig",
+        "vs-kubernetes.helm-path": "/home/benny/.vs-kubernetes/tools/helm/linux-amd64/helm",
+        "vs-kubernetes.draft-path": "/home/benny/.vs-kubernetes/tools/draft/linux-amd64/draft"
+    },
+    "remote.extensionKind": {
+        "CoenraadS.bracket-pair-colorizer-2": "ui"
+    },
 }

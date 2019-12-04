@@ -1,0 +1,14 @@
+[Info  - 1:59:10 PM] Analysis cache path: /home/benny/.cache/Microsoft/Python Language Server
+[Info  - 1:59:10 PM] Microsoft Python Language Server version 0.4.114.0
+[Info  - 1:59:10 PM] Workspace root: /home/benny/work/TraiNER-Frontend
+[Info  - 1:59:10 PM] GetCurrentSearchPaths /usr/bin/python3 
+[Info  - 1:59:10 PM] Interpreter search paths:
+[Info  - 1:59:10 PM]     /usr/lib/python3.7
+[Info  - 1:59:10 PM]     /usr/lib/python3.7/lib-dynload
+[Info  - 1:59:10 PM]     /home/benny/.local/lib/python3.7/site-packages
+[Info  - 1:59:10 PM]     /usr/local/lib/python3.7/dist-packages
+[Info  - 1:59:10 PM]     /usr/lib/python3/dist-packages
+[Info  - 1:59:10 PM] User search paths:
+[Info  - 1:59:10 PM]     /home/benny/work/TraiNER-Frontend/src
+[Info  - 1:59:11 PM] Initializing for /usr/bin/python3
+[Info  - 1:59:12 PM] Analysis caching mode: None.

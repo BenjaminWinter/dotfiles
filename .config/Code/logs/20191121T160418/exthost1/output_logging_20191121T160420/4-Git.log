@@ -1,0 +1,282 @@
+Looking for git in: git
+Using git 2.24.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/benny/work/TraiNER-Frontend
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse static-fashionbrain-showcase
+> git rev-parse --symbolic-full-name static-fashionbrain-showcase@{u}
+> git rev-list --left-right static-fashionbrain-showcase...refs/remotes/origin/static-fashionbrain-showcase
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git check-ignore -v -z --stdin
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :src/store/index.js
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-visualization
+> git rev-parse --symbolic-full-name fashionbrain-visualization@{u}
+> git rev-list --left-right fashionbrain-visualization...refs/remotes/origin/fashionbrain-visualization
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/benny/work/TraiNER-Frontend/.git/refs/remotes/origin/fashionbrain-visualization', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/benny/work/TraiNER-Frontend/.git/refs/remotes/origin/fashionbrain-visualization'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:596797)
+	at T.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:101168)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:47:227)
+	at E.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:120038)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse static-fashionbrain-showcase
+> git rev-parse --symbolic-full-name static-fashionbrain-showcase@{u}
+> git rev-list --left-right static-fashionbrain-showcase...refs/remotes/origin/static-fashionbrain-showcase
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse static-fashionbrain-showcase
+> git rev-parse --symbolic-full-name static-fashionbrain-showcase@{u}
+> git rev-list --left-right static-fashionbrain-showcase...refs/remotes/origin/static-fashionbrain-showcase
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/benny/work/playgound/k8s-tensorboard
+> git status -z -u
+> git show :tensorboard.yaml
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/benny/work/playgound/k8s-tensorboard/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/benny/work/playgound/k8s-tensorboard/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:596797)
+	at T.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:101168)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:47:227)
+	at E.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:120038)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :src/store/index.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/views/CardsDisplay.vue
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/views/CardsDisplay.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+fatal: no upstream configured for branch 'fashionbrain-demo'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+fatal: no upstream configured for branch 'fashionbrain-demo'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+fatal: no upstream configured for branch 'fashionbrain-demo'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+fatal: no upstream configured for branch 'fashionbrain-demo'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+fatal: no upstream configured for branch 'fashionbrain-demo'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+fatal: no upstream configured for branch 'fashionbrain-demo'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+fatal: no upstream configured for branch 'fashionbrain-demo'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+fatal: no upstream configured for branch 'fashionbrain-demo'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+fatal: no upstream configured for branch 'fashionbrain-demo'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+fatal: no upstream configured for branch 'fashionbrain-demo'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+fatal: no upstream configured for branch 'fashionbrain-demo'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+fatal: no upstream configured for branch 'fashionbrain-demo'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+fatal: no upstream configured for branch 'fashionbrain-demo'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+fatal: no upstream configured for branch 'fashionbrain-demo'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+fatal: no upstream configured for branch 'fashionbrain-demo'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+fatal: no upstream configured for branch 'fashionbrain-demo'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+fatal: no upstream configured for branch 'fashionbrain-demo'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+fatal: no upstream configured for branch 'fashionbrain-demo'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+fatal: no upstream configured for branch 'fashionbrain-demo'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+fatal: no upstream configured for branch 'fashionbrain-demo'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+fatal: no upstream configured for branch 'fashionbrain-demo'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :tensorboard.yaml
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/benny/work/HRL-RE
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/benny/work/HRL-RE/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/benny/work/HRL-RE/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:596797)
+	at T.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:101168)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:47:227)
+	at E.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:120038)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :code/TrainProcess.py
+> git show :code/main.py
+> git show :code/Parser.py
+> git show :code/TrainProcess.py
+> git show :code/AccCalc.py

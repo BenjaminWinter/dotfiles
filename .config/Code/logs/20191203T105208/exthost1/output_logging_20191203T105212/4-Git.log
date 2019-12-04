@@ -1,0 +1,130 @@
+Looking for git in: git
+Using git 2.24.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/benny/work/TraiNER-Frontend
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse static-fashionbrain-showcase
+> git rev-parse --symbolic-full-name static-fashionbrain-showcase@{u}
+> git rev-list --left-right static-fashionbrain-showcase...refs/remotes/origin/static-fashionbrain-showcase
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/benny/work/HRL-RE
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/benny/work/HRL-RE/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/benny/work/HRL-RE/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:596797)
+	at T.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:101168)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:47:227)
+	at E.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:120038)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/views/CardsDisplay.vue
+> git show :src/components/Dropdown.vue
+> git show :src/components/Dropdown.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+> git rev-list --left-right fashionbrain-demo...refs/remotes/origin/fashionbrain-demo
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/store/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+> git rev-list --left-right fashionbrain-demo...refs/remotes/origin/fashionbrain-demo
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+> git rev-list --left-right fashionbrain-demo...refs/remotes/origin/fashionbrain-demo
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+> git rev-list --left-right fashionbrain-demo...refs/remotes/origin/fashionbrain-demo
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+> git rev-list --left-right fashionbrain-demo...refs/remotes/origin/fashionbrain-demo
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+> git rev-list --left-right fashionbrain-demo...refs/remotes/origin/fashionbrain-demo
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+> git rev-list --left-right fashionbrain-demo...refs/remotes/origin/fashionbrain-demo
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+> git rev-list --left-right fashionbrain-demo...refs/remotes/origin/fashionbrain-demo
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :src/App.vue
+> git show :src/components/Toolbar.vue
+> git show :src/components/Sidebar.vue
+> git show :src/views/LandingPage.vue
+> git show :src/views/LandingPage.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+> git rev-list --left-right fashionbrain-demo...refs/remotes/origin/fashionbrain-demo
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fashionbrain-demo
+> git rev-parse --symbolic-full-name fashionbrain-demo@{u}
+> git rev-list --left-right fashionbrain-demo...refs/remotes/origin/fashionbrain-demo
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :src/store/index.js
