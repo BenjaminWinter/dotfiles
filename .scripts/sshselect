@@ -1,0 +1,12 @@
+#!/bin/bash
+
+conns="Cgm56\nP100\nKubernetes"
+
+# Get user choice including multi-monitor and manual selection:
+chosen=$(printf "$conns" | dmenu -i -p "Select SSH Connection:" -fn "Ubuntu") &&
+
+case $chosen in
+	Cgm56) terminator -p cgmssh ;;
+	P100) terminator -p gpussh ;;
+	Kubernetes) terminator -p kubernetes ;;
+esac	

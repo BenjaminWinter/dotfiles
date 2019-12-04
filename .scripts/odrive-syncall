@@ -1,0 +1,1 @@
+exec 6>&1;output="go"; while [ "$output" ]; do output=$(find "$HOME/work/documents/Google Drive/documents" -name "*.cloud*" -exec python "$HOME/.odrive-agent/bin/odrive.py" sync "{}" \;|tee /dev/fd/6); done

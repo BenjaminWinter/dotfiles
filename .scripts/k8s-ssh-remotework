@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+ssh-keygen -f "/home/benny/.ssh/known_hosts" -R "[localhost]:4444"
+podname=$(kubectl get pods -n bwinter | grep remote-work | awk '{print $1}')
+kubectl port-forward $podname 4444:22
