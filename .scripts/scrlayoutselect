@@ -3,9 +3,12 @@
 layouts="$(find /home/benny/.screenlayout -maxdepth 1 -type f -printf '%f\n')"
 
 # Get user choice including multi-monitor and manual selection:
-chosen=$(printf "$layouts" | dmenu -i -p "Select display layout:" -fn "Ubuntu") &&
+chosen=$(printf "$layouts" | dmenu -i -p "Select display layout:" -fn "Ubuntu-14" -h 60) &&
 
 bash $chosen
+bash xrandr --output HDMI-0 --scale 2x2
+bash xrandr --output HDMI-1 --scale 2x2
+bash xrandr --output HDMI-2 --scale 2x2
 
 #setbg		# Fix background if screen size/arangement has changed.
 #remaps		# Re-remap keys if keyboard added (for laptop bases)

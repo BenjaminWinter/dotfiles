@@ -4,10 +4,9 @@
     "editor.fontSize": 14,
     "editor.referenceInfos": true,
     "editor.formatOnPaste": true,
+    "editor.rulers": [80],
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.snippetSuggestions": "top",
-    "workbench.colorTheme": "MyOneDark",
-    "window.zoomLevel": 0,
     "files.autoSave": "onWindowChange",
     "bracket-pair-colorizer-2.colors": [
         "#98c379",
@@ -20,7 +19,7 @@
     "editor.fontLigatures": true,
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "python.jediEnabled": false,
+    "python.jediEnabled": true,
     "vsicons.dontShowNewVersionMessage": true,
     "vs-kubernetes": {
         "vs-kubernetes.knownKubeconfigs": [
@@ -33,4 +32,19 @@
     "remote.extensionKind": {
         "CoenraadS.bracket-pair-colorizer-2": "ui"
     },
+    "workbench.colorTheme": "One Monokai",
+    "python.languageServer": "Jedi",
+    "jupyter.askForKernelRestart": false,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "files.maxMemoryForLargeFilesMB": 32096,
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "bracketPairColorizer.depreciation-notice": false,
+    "git.autofetch": true,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none",
+    "window.zoomLevel": 1,
 }

@@ -29,7 +29,7 @@
 command=/usr/local/libexec/i3blocks/$BLOCK_NAME
 markup=none
 separator=false
-separator_block_width=30
+separator_block_width=60
 border_top=0
 border_left=0
 border_right=0
@@ -42,7 +42,8 @@ border=#cccccc
 #
 #
 [disk]
-label=
+markup=pango
+label=<span font="FontAwesome"> </span>
 interval=10
 
 
@@ -53,18 +54,19 @@ interval=10
 # The second parameter overrides the mixer selection
 # See the script for details.
 [volume]
-label=♪
-#label=
+markup=pango
+#label=♪
+label=<span font="FontAwesome"> </span>
 instance=Master
 #instance=PCM
 interval=5
 signal=5
 
-[brightness]
-label=
-command=printf "%.0f " $(xbacklight -get)
-signal=1
-interval=1
+[blockbrightness]
+markup=pango
+label=<span font="FontAwesome"> </span>
+signal=5
+interval=5
 
 
 # CPU usage
@@ -72,32 +74,37 @@ interval=1
 # The script may be called with -w and -c switches to specify thresholds,
 # see the script for details.
 [cpu_usage]
-label=
+markup=pango
+label=<span font="FontAwesome"> </span>
 interval=2
-min_width=CPU: 100.00%
-#separator=false
+#min_width=CPU: 100.00%
+separator=false
 
 # Memory usage
 #
 # The type defaults to "mem" if the instance is not specified.
 [memory]
-label=
+markup=pango
+label=<span font="FontAwesome"> </span>
 separator=false
-interval=30
+interval=10
 
 # Network interface monitoring
 #
 # If the instance is not specified, use the interface used for default route.
 # The address can be forced to IPv4 or IPv6 with -4 or -6 switches.
 [iface]
-label=
+markup=pango
+label=<span font="FontAwesome"> </span>
 #instance=wlan0
 color=#00FF00
 interval=2
 separator=false
 
 [bandwidth]
-#instance=eth0
+markup=pango
+#instance=wlp82s0
+#label=
 interval=2
 
 #[wifi]
@@ -109,7 +116,8 @@ interval=2
 #
 # The battery instance defaults to 0.
 [battery]
-label=
+markup=pango
+label=<span font="FontAwesome"> </span>
 #label=⚡
 #instance=1
 interval=30

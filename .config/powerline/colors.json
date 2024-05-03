@@ -64,7 +64,7 @@
 		"myorange": [9, "ffb941"],
 		"dodgerblue": [117, "1E90FF"],
 		"steelblue": [117, "4682B4"],
-
+		"steelbluedark": [117, "426982"],
 		"solarized:base03": [8, "002b36"],
 		"solarized:base02": [0, "073642"],
 		"solarized:base01": [10, "586e75"],

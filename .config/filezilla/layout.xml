@@ -1,21 +1,12 @@
-<?xml version="1.0"?>
-<FileZilla3 version="3.39.0" platform="*nix">
-	<Layout Builddate="2019-01-25" Buildtime="10:37:54">
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.65.0" platform="*nix">
+	<Layout Builddate="2023-07-10" Buildtime="16:58:43">
 		<Resources>
-			<xrc file="quickconnectbar.xrc" date="1475013068" />
-			<xrc file="netconfwizard.xrc" date="1548412674" />
-			<xrc file="update.xrc" date="1548412674" />
-			<xrc file="sitemanager.xrc" date="1548412674" />
-			<xrc file="certificate.xrc" date="1548412674" />
-			<xrc file="menus.xrc" date="1509277703" />
-			<xrc file="dialogs.xrc" date="1548412674" />
-			<xrc file="settings.xrc" date="1548412674" />
-			<xrc file="toolbar.xrc" date="1475013068" />
-			<xrc file="inputdialog.xrc" date="1548412674" />
-			<xrc file="storj.xrc" date="1548412674" />
+			<xrc file="netconfwizard.xrc" date="1689008323" />
+			<xrc file="dialogs.xrc" date="1689008323" />
 		</Resources>
 		<Language id="en_US" date="">
-			<Font font="Sans 10" width="834" height="17" />
+			<Font font="Roboto 12" width="1829" height="43" />
 		</Language>
 	</Layout>
 </FileZilla3>

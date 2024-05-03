@@ -1,10 +1,10 @@
 # GIMP user context
 
-(tool "gimp-crop-tool")
+(tool "gimp-free-select-tool")
 (paint-info "gimp-paintbrush")
 (brush "2. Hardness 050")
 (dynamics "Dynamics Off")
-(mybrush "Standard")
+(mybrush "100% Opaque")
 (pattern "Pine")
 (gradient "FG to BG (RGB)")
 (palette "Color History")

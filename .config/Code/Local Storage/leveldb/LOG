@@ -1,1 +1,3 @@
-2019/03/18-15:58:58.191 21787 Reusing MANIFEST leveldb/MANIFEST-000001
+2024/01/11-08:24:29.528 4405 Reusing MANIFEST /home/benny/.config/Code/Local Storage/leveldb/MANIFEST-000001
+2024/01/11-08:24:29.528 4405 Recovering log #3
+2024/01/11-08:24:29.528 4405 Reusing old log /home/benny/.config/Code/Local Storage/leveldb/000003.log 

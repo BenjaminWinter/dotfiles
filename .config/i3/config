@@ -130,7 +130,7 @@ bindsym Mod1+Shift+c reload
 # restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
 bindsym Mod1+Shift+r restart
 # lock screen
-bindsym Mod1+p exec i3lock -i $(variety --get | grep "/")
+bindsym Mod1+p exec --no-startup-id blurlock
 # audio controls
 bindsym XF86AudioRaiseVolume exec amixer set Master 5%+ unmute
 bindsym XF86AudioLowerVolume exec amixer set Master 5%- unmute
