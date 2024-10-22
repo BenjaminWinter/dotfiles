@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Settings.desktop" score="6" last-seen="1729249824"/>
+    <application id="gnome-display-panel.desktop" score="0" last-seen="0"/>
+    <application id="firefox_firefox.desktop" score="4933" last-seen="1715346895"/>
+    <application id="org.gnome.Terminal.desktop" score="4" last-seen="1729249942"/>
+    <application id="code.desktop" score="5" last-seen="1729249964"/>
+    <application id="arandr.desktop" score="1" last-seen="1729249841"/>
+    <application id="chromium_chromium.desktop" score="5" last-seen="1729249996"/>
+    <application id="terminator.desktop" score="5" last-seen="1729250003"/>
+    <application id="apport-gtk.desktop" score="0" last-seen="1729249682"/>
+    <application id="Alacritty.desktop" score="4" last-seen="1729249911"/>
+  </context>
+</application-state>

@@ -1,0 +1,14 @@
+profile {
+	output eDP-1 disable
+	output 'Dell Inc. AW3423DWF 41M42S3' enable mode 3440x1440 position 0,0
+	output 'LG Electronics LG HDR 4K 0x0000F24E' enable mode 3840x2160 position 3441,0 scale 1.5
+}
+
+profile {
+	output 'Dell Inc. DELL P2417H 5N99G68E17GB' enable mode 1920x1080 position 0,0
+	output 'Dell Inc. DELL P2417H CW6Y771N15MB' enable mode 1920x1080 position 1921,0
+	output eDP-1 enable mode 1920x1080 position 3842,0
+}
+profile {
+	output eDP-1 enable
+}

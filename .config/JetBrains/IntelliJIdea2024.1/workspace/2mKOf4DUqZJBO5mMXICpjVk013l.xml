@@ -1,0 +1,256 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="coder-backend" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2fx57w4dva30z">
+      <file current-in-tab="false">
+        <entry file="mock:///What's new in Rainbow Brackets">
+          <provider editor-type-id="html-editor" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]" selected="true">
+            <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/tools/pom.xml">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "XML": {
+      "usageCount": 1,
+      "lastUsed": 1726821908049
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1726821906188
+    },
+    "WebPreview": {
+      "usageCount": 1,
+      "lastUsed": 1726821904472
+    }
+  }
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1726821906190" />
+    </language>
+    <language id="XML">
+      <summary usageCount="1" lastUsage="1726821908049" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="coder-backend" type="20da4fc8:ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="coder-backend" type="20da4fc8:ProjectNode" />
+          <item name="Lifecycle" type="d32bdb1e:LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="coder-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/benjamin/code/coder-backend}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="JUnit.All in coder-backend (1)" />
+      <element setting="JUnit.All in coder-backend" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="coder-backend-history">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="277000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.329857" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.33022386" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.33022386" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.33022386" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info active="true" anchor="right" id="Maven" order="4" visible="true" weight="0.329857" />
+      <unified_weights bottom="0.33022386" left="0.329857" right="0.329857" />
+    </layoutV2>
+    <recentWindows>
+      <value>Maven</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Problems View</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1596" height="400" key="GridCell.Tab.0.bottom" timestamp="1726822180014">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="1596" height="400" key="GridCell.Tab.0.bottom/0.0.3440.1440/3440.0.1920.1200@0.0.3440.1440" timestamp="1726822180014" />
+    <state width="1596" height="400" key="GridCell.Tab.0.center" timestamp="1726822180014">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="1596" height="400" key="GridCell.Tab.0.center/0.0.3440.1440/3440.0.1920.1200@0.0.3440.1440" timestamp="1726822180014" />
+    <state width="1596" height="400" key="GridCell.Tab.0.left" timestamp="1726822180014">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="1596" height="400" key="GridCell.Tab.0.left/0.0.3440.1440/3440.0.1920.1200@0.0.3440.1440" timestamp="1726822180014" />
+    <state width="1596" height="400" key="GridCell.Tab.0.right" timestamp="1726822180014">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="1596" height="400" key="GridCell.Tab.0.right/0.0.3440.1440/3440.0.1920.1200@0.0.3440.1440" timestamp="1726822180014" />
+    <state x="2049" y="300" width="1024" height="839" key="SettingsEditor" timestamp="1726822160222">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="2049" y="300" width="1024" height="839" key="SettingsEditor/0.0.3440.1440/3440.0.1920.1200@0.0.3440.1440" timestamp="1726822160222" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>21</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>adapter-analytics-data-store</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.5.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

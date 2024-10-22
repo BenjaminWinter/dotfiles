@@ -29,12 +29,9 @@
 command=/usr/local/libexec/i3blocks/$BLOCK_NAME
 markup=none
 separator=false
-separator_block_width=60
-border_top=0
-border_left=0
-border_right=0
-border_bottom=0
-border=#cccccc
+separator_block_width=30
+border=0
+border=#00000000
 
 # Disk indicator for home directory
 #
@@ -77,7 +74,7 @@ interval=5
 markup=pango
 label=<span font="FontAwesome"> </span>
 interval=2
-#min_width=CPU: 100.00%
+min_width=CPU: 100.00%
 separator=false
 
 # Memory usage

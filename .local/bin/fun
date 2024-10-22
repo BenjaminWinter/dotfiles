@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+export REQUESTS_CA_BUNDLE=/etc/ssl/certs/ca-certificates.crt
+. /home/benjamin/code/scripts/workflow/.env/bin/activate
+/home/benjamin/code/scripts/workflow/fun.py "$@"

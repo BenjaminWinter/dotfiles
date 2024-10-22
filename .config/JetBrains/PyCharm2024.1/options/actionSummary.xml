@@ -1,0 +1,163 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="2" l="1729165334354" />
+    </e>
+    <e n="$Undo">
+      <i c="5" l="1715600230502" />
+    </e>
+    <e n="ActivateTerminalToolWindow">
+      <i c="2" l="1715585049045" />
+    </e>
+    <e n="ChooseDebugConfiguration">
+      <i c="1" l="1729165539945" />
+    </e>
+    <e n="ChooseRuntime">
+      <i c="1" d="1" l="1715584516722" k="1715584516722" />
+    </e>
+    <e n="ConfigurationXDebuggerResumeAction">
+      <i c="2" l="1729165619879" />
+    </e>
+    <e n="Debug">
+      <i c="1" l="1729165771317" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="107" l="1729165763841" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="7" l="1715599953155" />
+    </e>
+    <e n="EditorCopy">
+      <i c="21" l="1729165656323" />
+    </e>
+    <e n="EditorCut">
+      <i c="5" l="1715601618642" />
+    </e>
+    <e n="EditorDown">
+      <i c="7" l="1715600450122" />
+    </e>
+    <e n="EditorEnter">
+      <i c="12" l="1715601737292" />
+    </e>
+    <e n="EditorEscape">
+      <i c="1" l="1715593573573" />
+    </e>
+    <e n="EditorLeft">
+      <i c="101" l="1715601758269" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="15" l="1715599973709" />
+    </e>
+    <e n="EditorPaste">
+      <i c="16" l="1729165499672" />
+    </e>
+    <e n="EditorRight">
+      <i c="68" l="1715601834622" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="13" l="1715593987715" />
+    </e>
+    <e n="EditorTab">
+      <i c="1" l="1715593971584" />
+    </e>
+    <e n="EditorUp">
+      <i c="3" l="1715601620546" />
+    </e>
+    <e n="FileChooser.ShowHidden">
+      <i c="1" l="1729165355908" />
+    </e>
+    <e n="GotoAction">
+      <i c="1" l="1715584485570" />
+    </e>
+    <e n="InsertInlineCompletionAction">
+      <i c="3" l="1715601085921" />
+    </e>
+    <e n="JupyterClearOutputsAction">
+      <i c="1" l="1715601118357" />
+    </e>
+    <e n="JupyterCreateFileAction">
+      <i c="1" l="1715599859428" />
+    </e>
+    <e n="JupyterInterruptKernelAction">
+      <i c="6" l="1715601831861" />
+    </e>
+    <e n="NotebookRunAllAction">
+      <i c="8" l="1715601838283" />
+    </e>
+    <e n="NotebookRunCellSelectBelowAction">
+      <i c="1" l="1715600844880" />
+    </e>
+    <e n="OpenFile">
+      <i c="2" l="1729165224055" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="1" l="1715589432823" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="2" l="1729165697420" />
+    </e>
+    <e n="SaveAll">
+      <i c="32" l="1715601783172" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="3" l="1715584611118" />
+    </e>
+    <e n="SelectIn">
+      <i c="1" l="1715584657526" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1715583883935" />
+    </e>
+    <e n="Stop">
+      <i c="2" l="1729165774875" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="5" l="1729165535148" />
+    </e>
+    <e n="Tree-selectPrevious">
+      <i c="1" l="1715601566601" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1715583839035" />
+    </e>
+    <e n="WelcomeScreen.Plugins">
+      <i c="1" d="1" l="1715584617657" k="1715584617657" />
+    </e>
+    <e n="com.intellij.application.options.schemes.AbstractSchemeActions$ImportAction">
+      <i c="1" l="1715583911861" />
+    </e>
+    <e n="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction">
+      <i c="1" l="1715583909498" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="2" l="1715602413594" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="4" l="1715584617633" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="2" l="1729165218426" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="10" l="1729165536614" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="1" l="1729165319858" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="1" l="1715584617359" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1729165528407" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="3" l="1729165698706" />
+    </e>
+    <e n="org.jetbrains.plugins.notebooks.jupyter.editor.JupyterAddCellButtonActionDelegate">
+      <i c="3" l="1715600506637" />
+    </e>
+    <e n="org.jetbrains.plugins.notebooks.jupyter.editor.JupyterKernelManagementAction">
+      <i c="1" l="1715601114992" />
+    </e>
+  </component>
+</application>

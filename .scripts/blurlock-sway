@@ -1,0 +1,24 @@
+#!/bin/bash
+
+# Run Variety's script to get the current wallpaper path
+WALLPAPER_URI=$(~/.config/variety/scripts/get_wallpaper)
+
+# Debug: Print the raw wallpaper URI to check the output
+echo "Raw wallpaper URI: $WALLPAPER_URI"
+
+# Strip single quotes first, then the 'file://' prefix
+WALLPAPER_PATH=$(echo $WALLPAPER_URI | sed "s/'//g" | sed 's|^file://||')
+
+# Debug: Print the stripped wallpaper path to verify correctness
+echo "Stripped wallpaper path: $WALLPAPER_PATH"
+
+# Check if the wallpaper exists
+if [ ! -f "$WALLPAPER_PATH" ]; then
+    echo "Wallpaper not found: $WALLPAPER_PATH"
+    exit 1
+fi
+
+# Use the wallpaper as the lock screen background
+swaylock --image "$WALLPAPER_PATH"
+
+exit 0

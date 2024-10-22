@@ -1,0 +1,17 @@
+[user]
+	email = Benjamin.Winter@m-ai.rhenus.com
+	name = Benjamin Winter
+	signingkey = 4265FF8FBC8B53EF
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[push]
+	autoSetupRemote = True
+[core]
+	excludesFile = ~/.gitignore
+[commit]
+	gpgSign = true
+[pull]
+	rebase = true

@@ -1,0 +1,21 @@
+[2024-05-08 12:40:02.722] [info]  No state version found, assuming empty state.
+[2024-05-08 12:40:05.498] [info]  State version: 58
+[2024-05-08 12:40:08.854] [info]  Checking for update
+[2024-05-08 12:40:08.865] [info]  Generated new staging user ID: f743a08d-846f-52c9-aa22-46dbc1b6719f
+[2024-05-08 12:40:09.121] [info]  Update for version 2024.4.3 is not available (latest version: 2024.4.3, downgrade is disallowed).
+[2024-05-08 12:40:56.691] [error] Received API exception: [object Object]
+[2024-05-08 12:41:06.568] [info]  Error: No password found
+[2024-05-08 12:41:07.066] [error] Error: WebSocket failed to connect. The connection could not be found on the server, either the endpoint may not be a SignalR endpoint, the connection ID is not present on the server, or there is a proxy blocking WebSockets. If you have multiple servers check that sticky sessions are enabled.
+[2024-05-08 12:41:07.557] [info]  Finished search indexing
+[2024-05-08 12:41:07.898] [info]  Finished search indexing
+[2024-05-08 12:41:12.662] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarRDyD9r/resources/app.asar/main.js:88704:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarRDyD9r/resources/app.asar/main.js:88465:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarRDyD9r/resources/app.asar/main.js:88461:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarRDyD9r/resources/app.asar/main.js:88699:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarRDyD9r/resources/app.asar/main.js:88634:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarRDyD9r/resources/app.asar/main.js:88465:71
+    at new Promise (<anonymous>)

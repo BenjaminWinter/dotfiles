@@ -1,0 +1,221 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="analytics-text-predictor" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="h1vh9aqd6okb">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="418">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/textpredictor/predictors/exact_match_predictor.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="220">
+              <caret line="86" selection-start-line="86" selection-end-line="86" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="374">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$USER_HOME$/.asdf/installs/python/3.12.1/lib/python3.12/contextlib.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="221">
+              <caret line="301" column="17" lean-forward="true" selection-start-line="301" selection-start-column="17" selection-end-line="301" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1729165250148
+    },
+    "Python": {
+      "usageCount": 5,
+      "lastUsed": 1729165604205
+    }
+  }
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1729165250149" />
+    </language>
+    <language id="Python">
+      <summary usageCount="5" lastUsage="1729165604205" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="analytics-text-predictor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/benjamin/code/analytics-text-predictor}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="analytics-text-predictor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/benjamin/code/analytics-text-predictor}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/benjamin/code/analytics-text-predictor/tests}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="analytics-text-predictor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/benjamin/code/analytics-text-predictor}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/benjamin/code/analytics-text-predictor/textpredictor}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="analytics-text-predictor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/benjamin/code/analytics-text-predictor}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/benjamin/code/analytics-text-predictor/textpredictor}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/benjamin/code/analytics-text-predictor/textpredictor/predictors}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Python.poetry uvicorn debug" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="560000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3295207" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
+      <window_info anchor="bottom" id="Debug" order="6" show_stripe_button="false" weight="0.35663265" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <unified_weights bottom="0.35663265" left="0.3295207" />
+    </layoutV2>
+    <recentWindows>
+      <value>Debug</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2130" y="221" width="800" height="695" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1729165767649">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2130" y="221" width="800" height="695" key="#com.intellij.execution.impl.EditConfigurationsDialog/3840.0.1920.1200/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1729165767649" />
+    <state x="2658" y="182" width="550" height="478" key="FileChooserDialogImpl" timestamp="1729165759262">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2658" y="182" width="550" height="478" key="FileChooserDialogImpl/3840.0.1920.1200/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1729165759262" />
+    <state width="836" height="307" key="GridCell.Tab.0.bottom" timestamp="1729165810810">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="836" height="307" key="GridCell.Tab.0.bottom/3840.0.1920.1200/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1729165810810" />
+    <state width="836" height="307" key="GridCell.Tab.0.center" timestamp="1729165810810">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="836" height="307" key="GridCell.Tab.0.center/3840.0.1920.1200/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1729165810810" />
+    <state width="836" height="307" key="GridCell.Tab.0.left" timestamp="1729165810810">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="836" height="307" key="GridCell.Tab.0.left/3840.0.1920.1200/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1729165810810" />
+    <state width="836" height="307" key="GridCell.Tab.0.right" timestamp="1729165810810">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="836" height="307" key="GridCell.Tab.0.right/3840.0.1920.1200/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1729165810810" />
+    <state width="836" height="307" key="GridCell.Tab.1.bottom" timestamp="1729165810810">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="836" height="307" key="GridCell.Tab.1.bottom/3840.0.1920.1200/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1729165810810" />
+    <state width="836" height="307" key="GridCell.Tab.1.center" timestamp="1729165810810">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="836" height="307" key="GridCell.Tab.1.center/3840.0.1920.1200/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1729165810810" />
+    <state width="836" height="307" key="GridCell.Tab.1.left" timestamp="1729165810810">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="836" height="307" key="GridCell.Tab.1.left/3840.0.1920.1200/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1729165810810" />
+    <state width="836" height="307" key="GridCell.Tab.1.right" timestamp="1729165810810">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="836" height="307" key="GridCell.Tab.1.right/3840.0.1920.1200/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1729165810810" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textpredictor/predictors/exact_match_predictor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.asdf/installs/python/3.12.1/lib/python3.12/contextlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="301" column="17" lean-forward="true" selection-start-line="301" selection-start-column="17" selection-end-line="301" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

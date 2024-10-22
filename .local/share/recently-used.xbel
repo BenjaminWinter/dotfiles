@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/benjamin/code/analytics-manager" added="2024-09-23T11:51:57.110392Z" modified="2024-09-23T11:51:57.126085Z" visited="2024-09-23T11:51:57.110392Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-09-23T11:51:57.126084Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/benjamin/.screenlayout/work-3mon-gpu.sh" added="2024-09-24T07:34:52.107737Z" modified="2024-09-24T07:34:52.107744Z" visited="2024-09-24T07:34:52.107738Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="arandr" exec="&apos;arandr %u&apos;" modified="2024-09-24T07:34:52.107740Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/benjamin/.screenlayout/home-2mon-gpu.sh" added="2024-10-08T07:42:09.533410Z" modified="2024-10-08T07:42:09.533412Z" visited="2024-10-08T07:42:09.533410Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="arandr" exec="&apos;arandr %u&apos;" modified="2024-10-08T07:42:09.533411Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/benjamin/Pictures" added="2024-10-10T07:47:12.423047Z" modified="2024-10-18T15:13:39.115020Z" visited="2024-10-10T07:47:12.423048Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-10-18T15:13:39.115018Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/benjamin/Downloads" added="2024-10-10T07:47:15.072090Z" modified="2024-10-18T13:28:34.257236Z" visited="2024-10-10T07:47:15.072092Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-10-18T13:28:34.257235Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/benjamin/Downloads/Teilnahme%20Termin%20B%202024.pdf" added="2024-10-10T07:49:22.496522Z" modified="2024-10-10T07:51:59.996118Z" visited="2024-10-10T07:49:22.496529Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="DesktopEditors" exec="&apos;DesktopEditors %u&apos;" modified="2024-10-10T07:49:22.496530Z" count="1"/>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2024-10-10T07:51:59.996117Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/benjamin/Downloads/BWinter-signature.png" added="2024-10-10T07:50:15.855654Z" modified="2024-10-10T07:50:51.571880Z" visited="2024-10-10T07:50:15.855655Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2024-10-10T07:50:51.571879Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/benjamin/Downloads/Teilnahme%20Termin%20B%202024_unterschrieben_bwinter.pdf" added="2024-10-10T07:51:59.610197Z" modified="2024-10-10T09:18:52.115632Z" visited="2024-10-10T07:51:59.610199Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2024-10-10T07:51:59.610201Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-10-10T07:52:22.578399Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2024-10-10T09:18:52.107830Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-10-10T09:18:52.115630Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/benjamin/Downloads/physionet.org" added="2024-10-10T07:57:19.761943Z" modified="2024-10-10T07:57:19.761946Z" visited="2024-10-10T07:57:19.761944Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-10-10T07:57:19.761945Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/benjamin/Downloads/dive" added="2024-10-10T07:57:22.425801Z" modified="2024-10-10T07:57:22.425807Z" visited="2024-10-10T07:57:22.425802Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-10-10T07:57:22.425804Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/benjamin/code/analytics-data-store-client/.venv/bin/python3" added="2024-10-14T07:56:32.368213Z" modified="2024-10-14T07:56:32.368217Z" visited="2024-10-14T07:56:32.368214Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-10-14T07:56:32.368215Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/benjamin/code/analytics-text-predictor/postman-collections" added="2024-10-17T11:15:54.975676Z" modified="2024-10-17T11:15:54.985312Z" visited="2024-10-17T11:15:54.975677Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-10-17T11:15:54.985311Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/benjamin/code/analytics-text-predictor" added="2024-10-17T11:22:25.874968Z" modified="2024-10-17T11:22:25.874971Z" visited="2024-10-17T11:22:25.874969Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-10-17T11:22:25.874970Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/benjamin/Downloads/Eigenanteil_Diss_bw-rk.pdf" added="2024-10-17T13:27:06.392338Z" modified="2024-10-17T13:30:10.266146Z" visited="2024-10-17T13:27:06.392339Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-10-17T13:27:06.392340Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-10-17T13:30:10.255010Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-10-17T13:30:10.266145Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/benjamin/.screenlayout/home-2mon.sh" added="2024-10-18T10:43:16.125232Z" modified="2024-10-18T10:43:16.125235Z" visited="2024-10-18T10:43:16.125233Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="arandr" exec="&apos;arandr %u&apos;" modified="2024-10-18T10:43:16.125234Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/screenshot.png" added="2024-10-18T12:39:26.518937Z" modified="2024-10-18T12:39:26.518940Z" visited="2024-10-18T12:39:26.518938Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-10-18T12:39:26.518938Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/screenshotblur.png" added="2024-10-18T12:39:52.266553Z" modified="2024-10-18T12:39:52.266573Z" visited="2024-10-18T12:39:52.266556Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-10-18T12:39:52.266562Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

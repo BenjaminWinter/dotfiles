@@ -1,10 +1,10 @@
 # GIMP user context
 
-(tool "gimp-free-select-tool")
+(tool "gimp-move-tool")
 (paint-info "gimp-paintbrush")
 (brush "2. Hardness 050")
 (dynamics "Dynamics Off")
-(mybrush "100% Opaque")
+(mybrush "Standard")
 (pattern "Pine")
 (gradient "FG to BG (RGB)")
 (palette "Color History")

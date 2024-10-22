@@ -2,7 +2,7 @@
 Name=Variety
 Comment=Variety Wallpaper Changer
 Categories=GNOME;GTK;Utility;
-Exec=/bin/bash -c "sleep 20 && /usr/sbin/variety --profile /home/benny/.config/variety/"
+Exec=/bin/bash -c "sleep 20 && /usr/bin/variety --profile /home/benjamin/.config/variety/"
 MimeType=text/uri-list;x-scheme-handler/variety;x-scheme-handler/vrty;
 Icon=variety
 Terminal=false

@@ -1,0 +1,41 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/code/analytics-principal-diagnosis-predictor-research">
+          <value>
+            <RecentProjectMetaInfo frameTitle="analytics-principal-diagnosis-predictor-research – data_setup.py" projectWorkspaceId="2gP7W773L60AmS7dTif3moyxDHQ">
+              <option name="activationTimestamp" value="1729165248967" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-241.15989.155" />
+              <option name="buildTimestamp" value="1714406400000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="2887" y="45" width="918" height="980" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1715587388083" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/analytics-text-predictor">
+          <value>
+            <RecentProjectMetaInfo frameTitle="analytics-text-predictor – ~/.asdf/installs/python/3.12.1/lib/python3.12/contextlib.py" opened="true" projectWorkspaceId="2nZ0NPYWi2dLSj00YdetxyLVu4A">
+              <option name="activationTimestamp" value="1729165810814" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-241.15989.155" />
+              <option name="buildTimestamp" value="1714406400000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="2887" y="45" width="918" height="1000" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1729165249703" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/code/analytics-text-predictor" />
+  </component>
+</application>

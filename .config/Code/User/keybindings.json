@@ -1,8 +1,21 @@
-// Place your key bindings in this file to overwrite the defaults
+// Place your key bindings in this file to override the defaults
 [
     {
-        "key": "ctrl+alt+a",
-        "command": "wwm.aligncode",
-        "when": "editorTextFocus && !editorReadonly"
+        "key": "ctrl+y",
+        "command": "editor.action.formatSelection",
+        "when": "editorHasDocumentSelectionFormattingProvider && editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+k ctrl+f",
+        "command": "-editor.action.formatSelection",
+        "when": "editorHasDocumentSelectionFormattingProvider && editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+alt+y",
+        "command": "redo"
+    },
+    {
+        "key": "ctrl+y",
+        "command": "-redo"
     }
 ]

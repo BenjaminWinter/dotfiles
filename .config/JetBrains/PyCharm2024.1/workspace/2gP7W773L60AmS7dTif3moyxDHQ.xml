@@ -1,0 +1,261 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="analytics-principal-diagnosis-predictor-research" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="h1vh9aqd6okb" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/training/data_setup.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="176">
+              <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "CSV/TSV": {
+      "usageCount": 1,
+      "lastUsed": 1715599023331
+    },
+    "Jupyter": {
+      "usageCount": 1,
+      "lastUsed": 1715599865570
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1715587463502
+    },
+    "Python": {
+      "usageCount": 14,
+      "lastUsed": 1729165208763
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/dataset/coder_connector.py" />
+      <option value="$PROJECT_DIR$/dataset/get_case_exports_for_tenants.py" />
+      <option value="$PROJECT_DIR$/eda.ipynb" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="8508ce6d-8324-484c-8536-7febce77fdc1" />
+  <component name="LanguageUsageStatistics">
+    <language id="Jupyter">
+      <summary usageCount="1" lastUsage="1715599865570" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1715587463503" />
+    </language>
+    <language id="Python">
+      <summary usageCount="14" lastUsage="1729165208765" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="1" lastUsage="1715599023331" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="analytics-principal-diagnosis-predictor-research" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/benjamin/code/analytics-principal-diagnosis-predictor-research}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="analytics-principal-diagnosis-predictor-research" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/benjamin/code/analytics-principal-diagnosis-predictor-research}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/benjamin/code/analytics-principal-diagnosis-predictor-research/DATA}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="analytics-principal-diagnosis-predictor-research" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/benjamin/code/analytics-principal-diagnosis-predictor-research}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/benjamin/code/analytics-principal-diagnosis-predictor-research/training}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="analytics-principal-diagnosis-predictor-research" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/benjamin/code/analytics-principal-diagnosis-predictor-research}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/benjamin/code/analytics-principal-diagnosis-predictor-research/utils}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12828000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38071895" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
+      <window_info anchor="bottom" id="Jupyter" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <unified_weights left="0.38071895" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3129" y="271" width="424" height="478" key="FileChooserDialogImpl" timestamp="1729165247659">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3129" y="271" width="424" height="478" key="FileChooserDialogImpl/3840.0.1920.1200/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1729165247659" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/create_datasplits_from_dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/coder_connector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/create_dataset_from_export.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1724">
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/get_case_exports_for_tenants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training/train_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-404">
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/filesystem_helper.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training/evaluation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/training-splits/O-M-codes_2024-05-13_seed-42_train.csv">
+      <provider selected="true" editor-type-id="LargeFileEditorProvider">
+        <state caret-page-number="0" caret-page-symbol-offset="0" />
+      </provider>
+      <provider editor-type-id="csv-data-editor">
+        <state>
+          <format>
+            <csv-format name="Pipe-separated" id="Pipe-separated_id">
+              <data>
+                <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="|" recordSeparator="&#10;">
+                  <quotation>
+                    <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+                    <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+                  </quotation>
+                </record-format>
+              </data>
+            </csv-format>
+          </format>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training/peft_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264">
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3349">
+          <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eda.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training/data_setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

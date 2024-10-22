@@ -1,0 +1,57 @@
+<application>
+  <component name="ApplicationUserFactors">
+    <factor id="completionFinishedType">
+      <dailyData date="13-05-2024">
+        <observation name="cancelled" value="23.0" />
+        <observation name="explicitSelect" value="5.0" />
+        <observation name="typedSelect" value="17.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionType">
+      <dailyData date="13-05-2024">
+        <observation name="BASIC" value="30.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionUsage">
+      <dailyData date="13-05-2024">
+        <observation name="count" value="45.0" />
+      </dailyData>
+    </factor>
+    <factor id="itemPosition">
+      <dailyData date="13-05-2024">
+        <observation name="0" value="5.0" />
+      </dailyData>
+    </factor>
+    <factor id="mnemonicsUsage">
+      <dailyData date="13-05-2024">
+        <observation name="total" value="4.0" />
+        <observation name="withMnemonics" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixLength">
+      <dailyData date="13-05-2024">
+        <observation name="1" value="1.0" />
+        <observation name="3" value="1.0" />
+        <observation name="4" value="1.0" />
+        <observation name="6" value="1.0" />
+        <observation name="7" value="1.0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixMatchingType">
+      <dailyData date="13-05-2024">
+        <observation name="START_WITH" value="4.0" />
+      </dailyData>
+    </factor>
+    <factor id="templatesUsage">
+      <dailyData date="13-05-2024">
+        <observation name="totalStartingWithPrefix" value="5.0" />
+      </dailyData>
+    </factor>
+    <factor id="timeBetweenTyping">
+      <dailyData date="13-05-2024">
+        <observation name="average" value="127.184615" />
+        <observation name="count" value="65.0" />
+      </dailyData>
+    </factor>
+  </component>
+</application>

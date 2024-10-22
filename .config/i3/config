@@ -42,7 +42,7 @@ bindsym Mod1+Return exec terminator
 bindsym Mod1+Shift+q kill
 
 # start dmenu (a program launcher)
-bindsym Mod1+d exec j4-dmenu-desktop-full
+bindsym Mod1+d exec j4-dmenu-desktop
  
 # change focus
 bindsym Mod1+$left focus left
@@ -169,6 +169,9 @@ mode "resize" {
 #bindsym Mod4+Shift+i		exec --no-startup-id i3resize up
 #bindsym Mod4+Shift+o		exec --no-startup-id i3resize right
 
+bindsym Mod4+Shift+Left move workspace to output left
+bindsym Mod4+Shift+Right move workspace to output right
+
 bindsym Mod1+r mode "resize"
 
 # Start i3bar to display a workspace bar (plus the system information i3status
@@ -176,17 +179,30 @@ bindsym Mod1+r mode "resize"
 bar {
   position top
   output eDP1
+  output DP-1-2-1
   output e-DP1
+  output DP2-3
   output eDP-1
+  output DP-2-1
+  output DP-2-3
+  output eDP-1-1
+  output DP-1-2-2
+  output DP-1-2-3
   height 30
   i3bar_command i3bar -t
   status_command i3blocks
+  tray_output DP-1-2-3
+  tray_output eDP-1-1
+  tray_output DP2-3
+  tray_output DP-2-1
+  tray_output DP-2-3
   tray_output primary
-  font pango:Ubuntu Bold 11
+  tray_padding 5
+  font pango: Ubuntu Bold 11
   #workspace_buttons no
   colors {
     separator #555555
-    background #00000060
+    background #33333300
     statusline #FFFFFF
     focused_workspace #666666cc #666666cc #FFFFFF
     active_workspace #333333cc #333333cc #FFFFFF
@@ -197,7 +213,8 @@ bar {
 
 
 # program hotkeys
-bindsym Mod4+w exec --no-startup-id chromium
+bindsym Mod4+w exec --no-startup-id firefox
+bindsym Mod4+b exec --no-startup-id chromium
 bindsym Mod4+e exec --no-startup-id thunar
 bindsym Mod4+s exec --no-startup-id atom
 bindsym Mod4+i exec --no-startup-id icedove
@@ -213,12 +230,13 @@ bindsym Shift+Mod4+x exec prompt "Do you want to reboot" "systemctl reboot"
 
 
 # autostart
-exec --no-startup-id synclient HorizTwoFingerScroll=1 TapButton1=1 TapButton2=3 TapButton3=2 VertScrollDelta=-50
-exec --no-startup-id variety
+#exec --no-startup-id synclient HorizTwoFingerScroll=1 TapButton1=1 TapButton2=3 TapButton3=2 VertScrollDelta=-50
+#exec --no-startup-id variety
 #exec --no-startup-id dunst
 #exec --no-startup-id nm-applet
-exec --no-startup-id pasystray
-exec --no-startup-id compton -b --config /home/benny/.compton/sample.conf
+#exec --no-startup-id pasystray
+#exec --no-startup-id compton -b --config /home/benjamin/.compton/sample.conf
+exec --no-startup-id picom --config ~/.config/picom.conf
 
 #exec /home/benny/bin/autostart.sh
 #445878
@@ -230,11 +248,11 @@ client.urgent #C20000 #C20000 #FFFFFF #FFFFFF
 
 # workspaces
 workspace 1 output eDP1
-workspace 2 output DP1
-workspace 2 output DP1-1
-workspace 2 output DP2
-workspace 2 output HDMI1
-workspace 2 output HDMI2
+workspace 2 output DP-2-1
+workspace 3 output DP-2-3
+#workspace 2 output DP2
+#workspace 2 output HDMI1
+#workspace 2 output HDMI2
 
 # windows
 for_window[class="Pavucontrol"] floating enable
@@ -246,4 +264,4 @@ new_window pixel 0
 
 smart_gaps on
 gaps inner 15
-gaps outer 30
+gaps outer 20

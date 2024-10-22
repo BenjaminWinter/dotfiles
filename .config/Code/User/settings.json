@@ -1,50 +1,46 @@
-// Place your settings in this file to overwrite the default settings
 {
-    "editor.fontFamily": "Fira Code",
-    "editor.fontSize": 14,
-    "editor.referenceInfos": true,
-    "editor.formatOnPaste": true,
-    "editor.rulers": [80],
-    "editor.multiCursorModifier": "ctrlCmd",
-    "editor.snippetSuggestions": "top",
-    "files.autoSave": "onWindowChange",
-    "bracket-pair-colorizer-2.colors": [
-        "#98c379",
-        "#56B6C2",
-        "#e5c07b",
-        "#C678DD",
-        "#D19A66",        
-    ],
-    "gitlens.codeLens.enabled": false,
+    "workbench.colorTheme": "Atom One Dark",
+    "editor.fontFamily": "'Fira Code', 'Ubuntu Nerd Font'",
     "editor.fontLigatures": true,
-    "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "python.jediEnabled": true,
-    "vsicons.dontShowNewVersionMessage": true,
-    "vs-kubernetes": {
-        "vs-kubernetes.knownKubeconfigs": [
-            "/home/benny/kubeconfig"
-        ],
-        "vs-kubernetes.kubeconfig": "/home/benny/kubeconfig",
-        "vs-kubernetes.helm-path": "/home/benny/.vs-kubernetes/tools/helm/linux-amd64/helm",
-        "vs-kubernetes.draft-path": "/home/benny/.vs-kubernetes/tools/draft/linux-amd64/draft"
+    "python.venvFolders": [
+        "/home/benjamin/.cache/pypoetry/virtualenvs/"
+    ],
+    "python.analysis.inlayHints.callArgumentNames": "all",
+    "python.analysis.inlayHints.functionReturnTypes": true,
+    "python.analysis.inlayHints.variableTypes": true,
+    "python.poetryPath": "/home/benjamin/.asdf/shims/poetry",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
     },
-    "remote.extensionKind": {
-        "CoenraadS.bracket-pair-colorizer-2": "ui"
+    "notebook.output.wordWrap": true,
+    "files.watcherExclude": {
+        "**/.bloop": true,
+        "**/.metals": true,
+        "**/.ammonite": true
     },
-    "workbench.colorTheme": "One Monokai",
-    "python.languageServer": "Jedi",
-    "jupyter.askForKernelRestart": false,
-    "workbench.editorAssociations": {
-        "*.ipynb": "jupyter.notebook.ipynb"
+    "latex.linter.enabled": false,
+    "workbench.settings.applyToAllProfiles": [
+        "latex.linter.enabled"
+    ],
+    "[latex]": {
+        "editor.defaultFormatter": "James-Yu.latex-workshop"
     },
-    "files.maxMemoryForLargeFilesMB": 32096,
-    "bracket-pair-colorizer-2.depreciation-notice": false,
-    "bracketPairColorizer.depreciation-notice": false,
-    "git.autofetch": true,
+    "editor.wordWrap": "on",
+    "redhat.telemetry.enabled": true,
+    "mypy-type-checker.importStrategy": "fromEnvironment",
     "[python]": {
-        "editor.defaultFormatter": "ms-python.autopep8"
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": false
     },
-    "python.formatting.provider": "none",
-    "window.zoomLevel": 1,
+    "black-formatter.showNotifications": "onError",
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit"
+    },
+    "black-formatter.args": [
+        "--line-length", "120"
+    ],
+    "workbench.iconTheme": "Monokai Pro Icons",
+    "git.openRepositoryInParentFolders": "never",
+    "editor.formatOnPaste": false
 }

@@ -1,0 +1,42 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/code/coder-backend">
+          <value>
+            <RecentProjectMetaInfo frameTitle="coder-backend – CaseState.java [domain]" projectWorkspaceId="2mKQdnnkfqak9Wrltp0wpFPecoU">
+              <option name="activationTimestamp" value="1729063735575" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-241.15989.150" />
+              <option name="buildTimestamp" value="1714390920000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="2887" y="41" width="918" height="1004" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1726822878393" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/analytics-text-search-by-query-predictor">
+          <value>
+            <RecentProjectMetaInfo frameTitle="analytics-text-search-by-query-predictor-play – MedicalQueryFactory.scala [analytics-text-search-by-query-predictor-play]" opened="true" projectWorkspaceId="2g84s9zUQ99LruHpy6o7Vy85JJB">
+              <option name="activationTimestamp" value="1729064243684" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-241.15989.150" />
+              <option name="buildTimestamp" value="1714390920000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="2573" y="41" width="613" height="1004" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1729063736788" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/code/analytics-text-search-by-query-predictor" />
+    <option name="lastProjectLocation" value="$USER_HOME$/code" />
+  </component>
+</application>

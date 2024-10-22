@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/benjamin/.config/variety/wallpaper/wallpaper-auto-rotated-872d4d9eb2975ec18d01a8e95c4c4d50.jpg' 

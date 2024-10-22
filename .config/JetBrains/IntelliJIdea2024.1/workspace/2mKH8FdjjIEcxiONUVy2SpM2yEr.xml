@@ -1,0 +1,161 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="coder-backend" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="14fp25e6dafxc">
+      <file>
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]" selected="true">
+            <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test-utils/src/main/java/com/rhenus/fun/coder/backend/testutils/TestDataAssertUtil.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="713">
+              <caret line="43" column="7" lean-forward="true" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 1,
+      "lastUsed": 1726819389645
+    },
+    "XML": {
+      "usageCount": 1,
+      "lastUsed": 1726819023170
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1726818187382
+    }
+  }
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="1" lastUsage="1726819389645" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1726818187382" />
+    </language>
+    <language id="XML">
+      <summary usageCount="1" lastUsage="1726819023170" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="coder-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/benjamin/code/coder-backend}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2003000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.329857" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.33022386" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.329857" />
+      <unified_weights bottom="0.33022386" left="0.329857" right="0.329857" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Problems View</value>
+      <value>Maven</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2161" y="410" width="800" height="620" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1726820303465">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="2161" y="410" width="800" height="620" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.3440.1440/3440.0.1920.1200@0.0.3440.1440" timestamp="1726820303465" />
+    <state x="2330" y="467" width="508" height="506" key="FileChooserDialogImpl" timestamp="1726818490395">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="2330" y="467" width="508" height="506" key="FileChooserDialogImpl/0.0.3440.1440/3440.0.1920.1200@0.0.3440.1440" timestamp="1726818490395" />
+    <state x="2969" y="1265" width="419" height="139" key="ProcessPopupWindow" timestamp="1726820362381">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="2969" y="1265" width="419" height="139" key="ProcessPopupWindow/0.0.3440.1440/3440.0.1920.1200@0.0.3440.1440" timestamp="1726820362381" />
+    <state x="2070" y="360" key="SettingsEditor" timestamp="1726818496934">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="2070" y="360" key="SettingsEditor/0.0.3440.1440/3440.0.1920.1200@0.0.3440.1440" timestamp="1726818496934" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test-utils/src/main/java/com/rhenus/fun/coder/backend/testutils/TestDataAssertUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="43" column="7" lean-forward="true" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

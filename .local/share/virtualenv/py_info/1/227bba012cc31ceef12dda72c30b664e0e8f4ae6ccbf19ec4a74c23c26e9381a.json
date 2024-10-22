@@ -1,0 +1,72 @@
+{
+  "content": {
+    "_creators": null,
+    "architecture": 64,
+    "base_exec_prefix": "/home/benjamin/.asdf/installs/python/3.10.12",
+    "base_prefix": "/home/benjamin/.asdf/installs/python/3.10.12",
+    "distutils_install": {
+      "data": "",
+      "headers": "include/python3.10/UNKNOWN",
+      "platlib": "lib/python3.10/site-packages",
+      "purelib": "lib/python3.10/site-packages",
+      "scripts": "bin"
+    },
+    "exec_prefix": "/home/benjamin/.asdf/installs/python/3.10.12",
+    "executable": "/home/benjamin/.asdf/installs/python/3.10.12/bin/python3.10",
+    "file_system_encoding": "utf-8",
+    "has_venv": true,
+    "implementation": "CPython",
+    "max_size": 9223372036854775807,
+    "original_executable": "/home/benjamin/.asdf/installs/python/3.10.12/bin/python3.10",
+    "os": "posix",
+    "path": [
+      "/home/benjamin/.asdf/installs/poetry/1.8.2/venv/lib/python3.12/site-packages/virtualenv/discovery",
+      "/home/benjamin/.asdf/installs/python/3.10.12/lib/python310.zip",
+      "/home/benjamin/.asdf/installs/python/3.10.12/lib/python3.10",
+      "/home/benjamin/.asdf/installs/python/3.10.12/lib/python3.10/lib-dynload",
+      "/home/benjamin/.asdf/installs/python/3.10.12/lib/python3.10/site-packages",
+      "/home/benjamin/.asdf/installs/python/3.10.12/lib/python3.10/site-packages/powerline_shell-0.7.0-py3.10.egg",
+      "/home/benjamin/.asdf/installs/python/3.10.12/lib/python3.10/site-packages/argparse-1.4.0-py3.10.egg"
+    ],
+    "platform": "linux",
+    "prefix": "/home/benjamin/.asdf/installs/python/3.10.12",
+    "real_prefix": null,
+    "stdout_encoding": "utf-8",
+    "sysconfig": {
+      "makefile_filename": "/home/benjamin/.asdf/installs/python/3.10.12/lib/python3.10/config-3.10-x86_64-linux-gnu/Makefile"
+    },
+    "sysconfig_paths": {
+      "data": "{base}",
+      "include": "{installed_base}/include/python{py_version_short}{abiflags}",
+      "platlib": "{platbase}/{platlibdir}/python{py_version_short}/site-packages",
+      "platstdlib": "{platbase}/{platlibdir}/python{py_version_short}",
+      "purelib": "{base}/lib/python{py_version_short}/site-packages",
+      "scripts": "{base}/bin",
+      "stdlib": "{installed_base}/{platlibdir}/python{py_version_short}"
+    },
+    "sysconfig_scheme": null,
+    "sysconfig_vars": {
+      "PYTHONFRAMEWORK": "",
+      "abiflags": "",
+      "base": "/home/benjamin/.asdf/installs/python/3.10.12",
+      "installed_base": "/home/benjamin/.asdf/installs/python/3.10.12",
+      "platbase": "/home/benjamin/.asdf/installs/python/3.10.12",
+      "platlibdir": "lib",
+      "py_version_short": "3.10"
+    },
+    "system_executable": "/home/benjamin/.asdf/installs/python/3.10.12/bin/python3.10",
+    "system_stdlib": "/home/benjamin/.asdf/installs/python/3.10.12/lib/python3.10",
+    "system_stdlib_platform": "/home/benjamin/.asdf/installs/python/3.10.12/lib/python3.10",
+    "version": "3.10.12 (main, May 13 2024, 09:19:31) [GCC 13.2.0]",
+    "version_info": {
+      "major": 3,
+      "micro": 12,
+      "minor": 10,
+      "releaselevel": "final",
+      "serial": 0
+    },
+    "version_nodot": "310"
+  },
+  "path": "/home/benjamin/.asdf/installs/python/3.10.12/bin/python3.10",
+  "st_mtime": 1715584782.2236238
+}
