@@ -1,0 +1,138 @@
+* {
+    border: none;
+    border-radius: 0;
+    font-family: "Ubuntu Nerd Font";
+    font-size: 13px;
+    min-height: 0;
+    font-weight: bold;
+}
+
+window#waybar {
+    background-color: rgba(0,0,0,0.4);
+    color: white;
+}
+
+#window {
+    font-weight: bold;
+    font-family: "Ubuntu";
+}
+/*
+#workspaces {
+    padding: 0 5px;
+}
+*/
+
+#workspaces button {
+    padding: 0 5px;
+    background: transparent;
+    color: white;
+    border-top: 2px solid transparent;
+}
+
+#workspaces button.focused {
+    /* background-color: #184579; */
+    border-top: 2px solid #184579;
+}
+
+#workspaces button.urgent {
+    background-color: orangered;
+}
+
+#mode {
+    background: #64727D;
+    border-bottom: 3px solid white;
+}
+
+#clock, #battery, #cpu, #memory, #network, #pulseaudio, #custom-spotify, #tray, #disk, #mode {
+    padding: 0 10px;
+    margin: 0 0px;
+    /* border-right: #ffffff 1px solid; */
+}
+
+#clock {
+    font-weight: bold;
+}
+
+#battery {
+}
+
+#battery icon {
+    color: red;
+}
+
+#battery.charging {
+    color: green;
+}
+
+#battery.good {
+    color: green;
+}
+
+@keyframes blink {
+    to {
+        background-color: #ffffff;
+        color: black;
+    }
+}
+
+#batty.fine:not(.charging) {
+	color: white;
+}
+
+#battery.warning:not(.charging) {
+    color: orange;
+    animation-name: blink;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+#battery.critical:not(.charging) {
+    color: red;
+}
+#cpu {
+}
+
+#cpu.warning{
+    color:yellow;
+}
+#cpu.danger{
+    color:orange;
+}
+#cpu.critical{
+    color:orangered;
+}
+#memory {
+}
+#memory.warning{
+    color:yellow;
+}
+#memory.danger{
+    color:orange;
+}
+#memory.critical{
+    color:orangered;
+}
+#network {
+}
+
+#network.disconnected {
+    background: #f53c3c;
+}
+
+#pulseaudio {
+}
+
+#pulseaudio.muted {
+	color:orangered;
+}
+
+#custom-spotify {
+    color: rgb(102, 220, 105);
+}
+
+#tray {
+    margin-left: 20px;
+    margin-right: 20px;
+}
